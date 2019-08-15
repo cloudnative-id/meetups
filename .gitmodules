@@ -1,3 +1,6 @@
 [submodule "kubernetes"]
 	path = kubernetes
 	url = git@github.com:jk8s/meetup.git
+[submodule "cncf"]
+	path = cncf
+	url = git@github.com:cloudnative-id/cloudnative-meetups.git
