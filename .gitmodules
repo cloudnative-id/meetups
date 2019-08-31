@@ -1,6 +1,6 @@
 [submodule "kubernetes"]
 	path = kubernetes
-	url = git@github.com:jk8s/meetup.git
+	url = https://github.com/jk8s/meetup.git
 [submodule "cloud-native-jakarta"]
 	path = cloud-native-jakarta
-	url = git@github.com:cloudnative-id/cloud-native-jakarta.git
+	url = https://github.com/cloudnative-id/cloud-native-jakarta.git
