@@ -1,5 +1,5 @@
 update:
-	git submodule update --init --recursive
+	git submodule foreach git pull origin master
 
 add:
 	git submodule add $(url) $(module)
