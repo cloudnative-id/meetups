@@ -10,6 +10,8 @@ A: Yes you can, but please come earlier than others to guarantee seat. We do RSV
 
 Hi MEETUP_CITY_NAME! It's the time of MEETUP_NAME meetup again. Welcome to our MEETUP_SEQ_NUMBER meetup episode. This MONTH meetup is sponsored by VENUE_SPONSOR.
 
+{if livestream: } This event will be recorded, and **livestreamed** at ZOOM_LINK at TIME.
+
 Location:
 VENUE_LOCATION
 
