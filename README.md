@@ -19,15 +19,31 @@ Repository to gather all meetup information and slides from Kubernetes and Cloud
   * Imre Nagi [@imrenagi](https://github.com/imrenagi), [Google Developer Expert](https://developers.google.com/community/experts)
   * Prakash Divyy [@prakashdivyy](http://github.com/prakashdivyy), [Kata.ai](https://kata.ai)
 
-## Update
+## Join our Community!
+
+### Telegram
+
+To facilitate and help each other in between meetups and different geographical locations, we have set up joined Telegram Groups.
+These groups are also used for technical discussion around Kubernetes and Cloud Native topics.
+
+In order to join, go to [@kubernetesindonesia](https://t.me/kubernetesindonesia) and [@cloudnativeid](https://t.me/microserviceid).
+You can ask anything related to [CNCF open source projects](http://l.cncf.io/), and help each other's issues.
+
+### Speaking Opportunities
+
+If you'd like to speak at a meetup, please join our telegram group and mention **@girikuncoro** or **@imrenagi**, or fill [this form](https://goo.gl/forms/8UU0UgExUCqDMdp62).
+
+## How to maintain this repo
+
+### Update
 
 ```
 make update
 ```
 
-## Add a new submodule
+### Add a new submodule
 
+Example:
 ```
-#example
 make add url=git@github.com:jk8s/meetup.git module=kubernetes
 ```
