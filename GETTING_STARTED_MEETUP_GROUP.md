@@ -33,3 +33,9 @@ Go to [https://meetup.com](https://meetup.com) and create an account there. Once
 * Follow the guides for creating a new [meetup group](https://help.meetup.com/hc/en-us/articles/360002882111-Starting-a-Meetup-group).
 * Follow the guide for creating the [first event](https://help.meetup.com/hc/en-us/articles/360002881251).
 * (WIP) Remember to use the artwork for the Meetup group and the event.
+
+## Contributing to this guide
+
+You are very welcome to contribute to this guide in order to make it as easy as possible to create a new meetup group and spread the good news about the Kubernetes and Cloud Native technologies.
+
+Thank you for reading.
