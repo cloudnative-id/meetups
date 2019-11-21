@@ -1,13 +1,9 @@
 ---
 name: Create Meetup Event
 about: Checklist to create meetup event
-title: ''
-labels: ''
-assignees: ''
+title: Kubernetes and Cloud Native <Location> <#11>
 
 ---
-
-## <!-- Kubernetes and Cloud Native Location -->
 
 ## Scheduled to happen: <!-- Thu, 2019-11-21 -->
 
