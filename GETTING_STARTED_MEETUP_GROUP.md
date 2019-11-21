@@ -39,3 +39,7 @@ Go to [https://meetup.com](https://meetup.com) and create an account there. Once
 You are very welcome to contribute to this guide in order to make it as easy as possible to create a new meetup group and spread the good news about the Kubernetes and Cloud Native technologies.
 
 Thank you for reading.
+
+## References
+
+[CNCF Meetup Best Practices](https://github.com/cncf/meetups#meetup-best-practices)
