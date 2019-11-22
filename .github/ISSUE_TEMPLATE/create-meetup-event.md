@@ -2,6 +2,8 @@
 name: Create Meetup Event
 about: Checklist to create meetup event
 title: Kubernetes and Cloud Native <Location> <#11>
+labels: ''
+assignees: ''
 
 ---
 
