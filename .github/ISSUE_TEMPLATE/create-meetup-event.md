@@ -12,15 +12,16 @@ title: Kubernetes and Cloud Native <Location> <#11>
 <!--
 These are the steps required to organize the meetup event.
 
-Update the checklist accordingly and add comment for update on speakers, sponsors, venue.
+Update the checklist accordingly and add comment on meetup.com event page link.
 -->
-<!-- 2-4 weeks before the event -->
+### 2-4 weeks before the event
 - [ ] Decide on date
 - [ ] Find speaker 1 (refer to TODO)
 - [ ] Find speaker 2
 - [ ] Find venue sponsor (refer to TODO)
+- [ ] Get speakers to fill up speaker form (refer to TODO)
 
-<!-- 1 week before the event -->
+### 1 week before the event
 - [ ] Create meetup.com event page (refer to TODO)
 - [ ] Create bit.ly link to the meetup.com page
 - [ ] Create event poster using our [generator tool](https://github.com/cloudnative-id/artwork/tree/master/poster/generator) or [canva](https://www.canva.com/)
@@ -32,20 +33,21 @@ Update the checklist accordingly and add comment for update on speakers, sponsor
 - [ ] Optional: Order foods/snacks for event (usually provided by sponsor)
 - [ ] Optional: Order merchandise for speakers
 
-<!-- the meetup event day -->
+### The meetup event day
 - [ ] Remind speakers to come ontime
 - [ ] Arrive 1 hour before the event starts
 - [ ] Optional: Prepare live streaming or recording tools (use Zoom or refer to [recording meetup event](RECORDING_MEETUP_EVENT.md))
 - [ ] Host the event (refer to TODO)
 - [ ] Take pictures with speakers and participants
 
-<!-- 3 days after the event -->
+### 3 days after the event
 - [ ] Get slides from speakers
 - [ ] Upload slides from speakers to Github (refer to TODO)
 - [ ] Upload pictures to community drive or Google photos (refer to TODO)
 - [ ] Optional: { if recorded } Upload videos to Youtube (refer to TODO)
 - [ ] Send out thank you to Telegram groups (refer to TODO)
 - [ ] Send out thank you to sponsors (refer to TODO)
+- [ ] Optional: { if needed } Reimburse your venue/food cost to @girikuncoro
 
 ## Issues
 
