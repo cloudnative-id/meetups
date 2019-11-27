@@ -25,6 +25,7 @@ Update the checklist accordingly and add comment on meetup.com event page link.
 
 ### 1 week before the event
 - [ ] Create meetup.com event page (refer to TODO)
+- [ ] Add the sponsor logo to meetup.com event sponsor section, ordered from the most recent one
 - [ ] Create bit.ly link to the meetup.com page
 - [ ] Create event poster using our [generator tool](https://github.com/cloudnative-id/artwork/tree/master/poster/generator) or [canva](https://www.canva.com/)
 - [ ] Upload poster into meetup.com page
