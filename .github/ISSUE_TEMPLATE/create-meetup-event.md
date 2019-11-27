@@ -45,6 +45,7 @@ Update the checklist accordingly and add comment on meetup.com event page link.
 ### 3 days after the event
 - [ ] Get slides from speakers
 - [ ] Upload slides from speakers to Github (refer to TODO)
+- [ ] Upload selected pictures to meetup.com page
 - [ ] Upload pictures to community drive or Google photos (refer to TODO)
 - [ ] Optional: { if recorded } Upload videos to Youtube (refer to TODO)
 - [ ] Send out thank you to Telegram groups (refer to TODO)
