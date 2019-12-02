@@ -37,6 +37,9 @@ Update the checklist accordingly and add comment on meetup.com event page link.
 - [ ] Optional: Order foods/snacks for event (usually provided by sponsor)
 - [ ] Optional: Order merchandise for speakers
 
+### 3 days before the event
+- [ ] Prepare slides for welcoming and community update (refer to TODO)
+
 ### The meetup event day
 - [ ] Remind speakers to come ontime
 - [ ] Optional: Bring swags for the meetup
