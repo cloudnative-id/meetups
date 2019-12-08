@@ -19,6 +19,10 @@ Repository to gather all meetup information and slides from Kubernetes and Cloud
   * Imre Nagi [@imrenagi](https://github.com/imrenagi), [Google Developer Expert](https://developers.google.com/community/experts)
   * Prakash Divyy [@prakashdivyy](http://github.com/prakashdivyy), [Kata.ai](https://kata.ai)
 
+* [Yogyakarta](yogyakarta/README.md)
+  * Deny Prasetyo [@jasoet](http://github.com/jasoet), [Gojek](https://gojek.io)
+  * Wahyuni Puji [@wahyuni-pj](https://github.com/wahyuni-pj)
+
 ## Join our Community!
 
 ### Telegram
