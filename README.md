@@ -21,7 +21,10 @@ Repository to gather all meetup information and slides from Kubernetes and Cloud
 
 * [Yogyakarta](yogyakarta/README.md)
   * Deny Prasetyo [@jasoet](http://github.com/jasoet), [Gojek](https://gojek.io)
-  * Wahyuni Puji [@wahyuni-pj](https://github.com/wahyuni-pj)
+  * Wahyuni Puji [@wahyuni-pj](https://github.com/wahyuni-pj), [Universitas Islam Indonesia](https://bsi.uii.ac.id/)
+  * Agastyo Satriaji Idam [@satriajidam](https://github.com/satriajidam), [Ruangguru](http://www.ruangguru.com/)
+  * Ary Dwi Marta P [@arydwimarta](https://github.com/arydwimarta), [Mamikos](https://mamikos.com/)
+  * Manggala Pramuditya Wiryawan [@wiryawan46](https://github.com/wiryawan46), [Universitas Islam Indonesia](https://bsi.uii.ac.id/)
 
 ## Join our Community!
 
