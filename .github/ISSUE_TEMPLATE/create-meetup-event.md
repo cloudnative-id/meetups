@@ -29,6 +29,7 @@ Update the checklist accordingly and add comment on meetup.com event page link.
 - [ ] Create bit.ly link to the meetup.com page
 - [ ] Create event poster using our [generator tool](https://github.com/cloudnative-id/artwork/tree/master/poster/generator) or [canva](https://www.canva.com/)
 - [ ] Upload poster into meetup.com page
+- [ ] Get the poster and meetup.com page reviewed by speakers and sponsor
 - [ ] Announce meetup.com event page
 - [ ] Announce meetup event in Telegram groups ([Kubernetes Indonesia](https://t.me/kubernetesindonesia), [Cloud Native Indonesia](https://t.me/microserviceid), [Docker Indonesia](https://t.me/dockeridn), [IDDevops](https://t.me/IDDevOps))
 - [ ] Prepare community slide for event (refer to TODO)
