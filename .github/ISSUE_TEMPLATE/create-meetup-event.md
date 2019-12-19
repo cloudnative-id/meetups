@@ -39,6 +39,7 @@ Update the checklist accordingly and add comment on meetup.com event page link.
 
 ### The meetup event day
 - [ ] Remind speakers to come ontime
+- [ ] Optional: Bring swags for the meetup
 - [ ] Arrive 1 hour before the event starts
 - [ ] Optional: Prepare live streaming or recording tools (use Zoom or refer to [recording meetup event](RECORDING_MEETUP_EVENT.md))
 - [ ] Host the event (refer to TODO)
