@@ -44,7 +44,7 @@ Update the checklist accordingly and add comment on meetup.com event page link.
 - [ ] Remind speakers to come ontime
 - [ ] Optional: Bring swags for the meetup
 - [ ] Arrive 1 hour before the event starts
-- [ ] Optional: Prepare live streaming or recording tools (use Zoom or refer to [recording meetup event](RECORDING_MEETUP_EVENT.md))
+- [ ] Optional: Prepare live streaming or recording tools (use Zoom or refer to [recording meetup event](https://github.com/cloudnative-id/meetups/RECORDING_MEETUP_EVENT.md))
 - [ ] Host the event (refer to TODO)
 - [ ] Take pictures with speakers and participants
 
