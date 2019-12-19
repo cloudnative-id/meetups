@@ -9,7 +9,9 @@ To community members via Telegram:
 ```txt
 *MEETUP_NAME*
 
-Yuk merapat di MEETUP_NAME MEETUP_NUMBERR di VENUE, hari DATE_TIME. Meetup kali ini disponsori oleh SPONSOR. Ada SPEAKER1 dari COMPANY1 dan SPEAKER2 dari COMPANY2.
+Yuk merapat di MEETUP_NAME MEETUP_NUMBERR di VENUE, hari DATE_TIME. 
+Meetup kali ini disponsori oleh SPONSOR. 
+Ada SPEAKER1 dari COMPANY1 dan SPEAKER2 dari COMPANY2.
 
 BITLY_LINK
 ```
