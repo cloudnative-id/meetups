@@ -39,13 +39,16 @@ Update the checklist accordingly and add comment on meetup.com event page link.
 
 ### 3 days before the event
 - [ ] Prepare slides for welcoming and community update (refer to TODO)
+- [ ] Print [Check In QR Code](./checkin-qr-code.png) and [Survey QR Code](./survey-qr-code.png) and bring them to the event venue
 
 ### The meetup event day
 - [ ] Remind speakers to come ontime
 - [ ] Optional: Bring swags for the meetup
 - [ ] Arrive 1 hour before the event starts
+- [ ] Ask the participants to checkin by using this [Check In QR Code](./checkin-qr-code.png)
 - [ ] Optional: Prepare live streaming or recording tools (use Zoom or refer to [recording meetup event](https://github.com/cloudnative-id/meetups/RECORDING_MEETUP_EVENT.md))
 - [ ] Host the event (refer to TODO)
+- [ ] Ask the participants to fill the survey form by using this [Survey QR Code](./survey-qr-code.png)
 - [ ] Take pictures with speakers and participants
 
 ### 3 days after the event
