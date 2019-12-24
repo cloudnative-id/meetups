@@ -112,8 +112,6 @@ func exec(cfg *Config) (map[string][]byte, error) {
 		result[path] = b
 	}
 
-	fmt.Println(result)
-
 	return result, nil
 }
 

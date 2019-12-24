@@ -7,5 +7,10 @@ var (
 )
 
 const (
-	readmeTmplStr = `# {{ .MeetupName }} Meetup`
+	readmeTmplStr = `# Meetups organized by {{ .MeetupName }}
+	
+	## Organizers
+	{{ range .Organizers }}- {{ . }}
+	{{ end }}
+	`
 )
