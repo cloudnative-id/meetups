@@ -1,0 +1,151 @@
+latitude: -6.2295712
+longitude: 106.7594779
+meetupID: Cloud-Native-Jakarta
+meetups:
+  "20190429":
+    presentations:
+    - duration: 10m0s
+      slides: ""
+      speakers:
+      - imrenagi
+      title: Welcoming speech and opening
+    - duration: 35m0s
+      recordings: https://www.youtube.com/watch?v=D6WJcjVPDbI
+      slides: https://slides.com/armandcaesario/microservicebasic#/
+      speakers:
+      - armandcaesario
+      title: Introduction to Microservice
+    - duration: 35m0s
+      recordings: https://www.youtube.com/watch?v=FeWwev0OBFA
+      slides: https://www.slideshare.net/PrakashDivy/introduction-to-grpc
+      speakers:
+      - prakashdivy
+      title: Introduction to gRPC
+    - duration: 40m0s
+      recording: ""
+      slides: ""
+      speakers: []
+      title: Hallway track (networking)
+    sponsors:
+    - company: deeptech
+      role: Venue
+  "20190511":
+    presentations:
+    - duration: 10m0s
+      slides: ""
+      speakers: 
+      - armandcaesario
+      title: Welcoming speech and opening
+    - duration: 35m0s
+      recordings: https://www.youtube.com/watch?v=fszTBvZEZ_4
+      slides: null
+      speakers:
+      - welly.tambunan
+      title: Messaging Patterns
+    - duration: 35m0s
+      recordings: https://www.youtube.com/watch?v=w2J2S6v3K50
+      slides: https://docs.google.com/presentation/d/1FtU8F2mDxe-U4cUBUHrpJmx6FTafUv0FETF1qcxobv4/edit?usp=sharing
+      speakers:
+      - prakashdivy
+      title:  Introdcution to NATS and Deploying NATS and Microservice application in GKE
+    - duration: 40m0s
+      recording: ""
+      slides: ""
+      speakers: []
+      title: Hallway track (networking)
+    sponsors:
+    - company: deeptech
+      role: Venue   
+  "20190718":
+    presentations:
+    - duration: 10m0s
+      slides: ""
+      speakers: 
+      - imrenagi
+      - prakashdivy
+      title: Welcoming speech and opening
+    - duration: 35m0s
+      recordings: https://www.youtube.com/watch?v=FGQVGSJPjH0&t=25s
+      slides: null
+      speakers:
+      - resi.respati
+      title: 'Microfrontends: extending microservices to the frontend'
+    - duration: 35m0s
+      recordings: ""
+      slides: ""
+      speakers:
+      - zulfa.achsani
+      title:  Distributed Tracing with Jaeger
+    - duration: 40m0s
+      recording: ""
+      slides: ""
+      speakers: []
+      title: Hallway track (networking)
+    sponsors:
+    - company: traveloka
+      role: Venue      
+  "20190829":
+    presentations:
+    - duration: 10m0s
+      slides: ""
+      speakers: 
+      - imrenagi
+      title: Welcoming speech and opening
+    - duration: 35m0s
+      recordings: ""
+      slides: ""
+      speakers:
+      - kennard.wicoady
+      title: 'Domain Driven Design: Preparing for Microservices Architecture'
+    - duration: 35m0s
+      recordings: ""
+      slides: ""
+      speakers:
+      - martono.wibowo
+      title:  Lifecycle and Scalabilty Microservice with Kubernetes
+    - duration: 35m0s
+      recordings: ""
+      slides: ""
+      speakers:
+      - donnie.prakoso
+      title:  Between Orchestration and Choreography
+    - duration: 40m0s
+      recording: ""
+      slides: ""
+      speakers: []
+      title: Hallway track (networking)
+    sponsors:
+    - company: ovo
+      role: Venue     
+  "20191107":
+    presentations:
+    - duration: 10m0s
+      slides: ""
+      speakers: 
+      - imrenagi
+      title: Welcoming speech and opening
+    - duration: 35m0s
+      recordings: ""
+      slides: ""
+      speakers:
+      - dio
+      title: 'Envoy and Contributing to Open Source'
+    - duration: 35m0s
+      recordings: ""
+      slides: ""
+      speakers:
+      - evan.adiprasetyo
+      title:  Scaling Prometheus with Thanos
+    - duration: 40m0s
+      recording: ""
+      slides: ""
+      speakers: []
+      title: Hallway track (networking)
+    sponsors:
+    - company: airy
+      role: Venue           
+organizers:
+- imrenagi
+- prakashdivy
+- armandcaesario
+- indrajatiwidyatmoko

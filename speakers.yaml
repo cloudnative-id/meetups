@@ -5,7 +5,11 @@
   name: Giri Kuncoro
   title: CNCF Ambassador
   twitter: girikuncoro
+<<<<<<< HEAD
+- company: HIJUP  
+=======
 - company: HIJUP
+>>>>>>> master
   github: ""
   id: pahlevi.fikri.auliya
   linkedin: ""
@@ -56,7 +60,7 @@
   twitter: ""
 - company: Loket.com
   github: ""
-  id: indrajati
+  id: indrajatiwidyatmoko
   linkedin: ""
   name: Indrajati Widyatmoko
   title: Engineer
@@ -161,11 +165,18 @@
   twitter: ""
 - company: Kata.ai
   github: ""
-  id: armand
+  id: armandcaesario
   linkedin:
   name: Armanda Caesario Cornelis Mandagie
   title: Senior Software Engineer
   twitter: ""
+- company: Kata.ai
+  github: ""
+  id: prakashdivy
+  linkedin:
+  name: Prakash Divy
+  title: Software Engineer
+  twitter: ""  
 - company: PT. Gits Indonesia
   github: ""
   id: pambudiono.os
@@ -222,3 +233,17 @@
   name: Kennard Wicoady
   title: Software Engineer
   twitter: ""
+- company: Kata.ai
+  github: ""
+  id: welly.tambunan
+  linkedin: ""
+  name: Welly Tambunan
+  title: Engineering Lead
+  twitter: ""
+- company: Kumparan
+  github: ""
+  id: martono.wibowo
+  linkedin: ""
+  name: Martono Wibowo
+  title: Site Reliability Engineer
+  twitter: ""  
