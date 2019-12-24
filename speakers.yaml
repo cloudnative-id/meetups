@@ -1,6 +1,4 @@
-speakers:
 - company: gojek
-  email: ""
   github: girikuncoro
   id: girikuncoro
   linkedin: girikuncoro
@@ -8,7 +6,6 @@ speakers:
   title: CNCF Ambassador
   twitter: girikuncoro
 - company: HIJUP
-  email: ""
   github: ""
   id: pahlevi.fikri.auliya
   linkedin: ""
@@ -16,7 +13,6 @@ speakers:
   title: CTO
   twitter: ""
 - company: Bukalapak
-  email: ""
   github: ""
   id: christoper.hans
   linkedin: ""
@@ -24,7 +20,6 @@ speakers:
   title: Site Reliability Engineer
   twitter: ""
 - company: Traveloka
-  email: ""
   github: ""
   id: irvi.fa
   linkedin: ""
@@ -32,7 +27,6 @@ speakers:
   title: Software Engineer
   twitter: ""
 - company: gopay
-  email: ""
   github: ""
   id: luklukaha
   linkedin: ""
@@ -40,7 +34,6 @@ speakers:
   title: product engineer
   twitter: ""
 - company: ECnet (M) Sdn Bhd, Kuala Lumpur
-  email: ""
   github: ""
   id: dhanielluis
   linkedin: ""
@@ -48,7 +41,6 @@ speakers:
   title: DevOps Engineer
   twitter: ""
 - company: Pahamify
-  email: ""
   github: ""
   id: arkan.irsyad
   linkedin: ""
@@ -56,7 +48,6 @@ speakers:
   title: Full Stack Engineer
   twitter: ""
 - company: AWS
-  email: ""
   github: ""
   id: donnie.prakoso
   linkedin: ""
@@ -64,7 +55,6 @@ speakers:
   title: Evangelist
   twitter: ""
 - company: Loket.com
-  email: ""
   github: ""
   id: indrajati
   linkedin: ""
@@ -72,7 +62,6 @@ speakers:
   title: Engineer
   twitter: ""
 - company: Btech
-  email: ""
   github: ""
   id: zufardhiyaulhaq
   linkedin: ""
@@ -80,7 +69,6 @@ speakers:
   title: Cloud Engineer
   twitter: ""
 - company: Google
-  email: ""
   github: ""
   id: lutfir
   linkedin: ""
@@ -88,7 +76,6 @@ speakers:
   title: Technical Account Manager
   twitter: ""
 - company: Elastic
-  email: ""
   github: ""
   id: aravind
   linkedin: ""
@@ -96,7 +83,6 @@ speakers:
   title: Developer Advocate
   twitter: ""
 - company: ALTERRA
-  email: ""
   github: ""
   id: kevinsetiawantanzil2
   linkedin: ""
@@ -104,7 +90,6 @@ speakers:
   title: Software Engineers
   twitter: ""
 - company: Nodeflux
-  email: ""
   github: ""
   id: eutsat
   linkedin: ""
@@ -112,7 +97,6 @@ speakers:
   title: Software Engineer
   twitter: ""
 - company: Female Daily Network
-  email: ""
   github: ""
   id: ranggaadhitya
   linkedin: ""
@@ -120,7 +104,6 @@ speakers:
   title: Full-Stack Developer
   twitter: ""
 - company: PT Biznet Gio Nusantara
-  email: ""
   github: ""
   id: yusufhadiwinata
   linkedin: ""
@@ -128,7 +111,6 @@ speakers:
   title: VP Operation & Services
   twitter: ""
 - company: Schoters
-  email: ""
   github: ""
   id: imre.nagi
   linkedin: ""
@@ -136,7 +118,6 @@ speakers:
   title: CTO & Co-founder
   twitter: "imrenagi"
 - company: Tetrate
-  email: ""
   github: ""
   id: dio
   linkedin: ""
@@ -144,7 +125,6 @@ speakers:
   title: Software Engineer
   twitter: ""
 - company: Airy
-  email: ""
   github: ""
   id: evan.adiprasetyo
   linkedin: ""
@@ -152,7 +132,6 @@ speakers:
   title: Infrastructure Engineer
   twitter: ""
 - company: Balai Sertifikasi Elektronik, Badan Siber dan Sandi Negara
-  email: ""
   github: ""
   id: arga.daywalker
   linkedin: ""
@@ -160,7 +139,6 @@ speakers:
   title: PNS (Formal Role), System Engineer (Informal Role)
   twitter: ""
 - company: Kata.ai
-  email: ""
   github: ""
   id: reyhan.sofian
   linkedin: ""
@@ -168,7 +146,6 @@ speakers:
   title: Software Engineer
   twitter: ""
 - company: GoPay
-  email: ""
   github: ""
   id: w.albertusd
   linkedin: ""
@@ -176,7 +153,6 @@ speakers:
   title: Cloud Platform Engineer
   twitter: ""
 - company: Airy
-  email: ""
   github: ""
   id: kurnianto.trilaksono
   linkedin: ""
@@ -184,7 +160,6 @@ speakers:
   title: Infrastructure / DevSecOps Engineer
   twitter: ""
 - company: Kata.ai
-  email: ""
   github: ""
   id: armand
   linkedin:
@@ -192,7 +167,6 @@ speakers:
   title: Senior Software Engineer
   twitter: ""
 - company: PT. Gits Indonesia
-  email: ""
   github: ""
   id: pambudiono.os
   linkedin:
@@ -200,7 +174,6 @@ speakers:
   title: DevOps Engineer
   twitter: ""
 - company: kumparan
-  email: ""
   github: ""
   id: ganeshadanu1
   linkedin:
@@ -208,7 +181,6 @@ speakers:
   title: Software Engineer
   twitter: ""
 - company: 99.co
-  email: ""
   github: ""
   id: setyo
   linkedin:
@@ -216,7 +188,6 @@ speakers:
   title: Tech Consultant Engineer
   twitter: ""
 - company: Bukalapak
-  email: ""
   github: ""
   id: saiful.islam
   linkedin:
@@ -224,7 +195,6 @@ speakers:
   title: Cloud Engineer
   twitter: ""
 - company: Jawa Barat Digital Service (JDS) 
-  email: ""
   github: ""
   id: aditya.satrya
   linkedin:
@@ -232,7 +202,6 @@ speakers:
   title: Head of Engineering 
   twitter: ""
 - company: Traveloka
-  email: ""
   github: ""
   id: zulfa.achsani
   linkedin: ""
@@ -240,7 +209,6 @@ speakers:
   title: Software Engineer
   twitter: ""
 - company: Kata.ai
-  email: ""
   github: ""
   id: resi.respati
   linkedin: ""
@@ -248,7 +216,6 @@ speakers:
   title: Frontend Engineer
   twitter: ""
 - company: OVO
-  email: ""
   github: ""
   id: kennard.wicoady
   linkedin: ""
