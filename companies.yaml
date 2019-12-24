@@ -35,3 +35,39 @@ companies:
   logoURL: https://digitalservice.jabarprov.go.id/wp-content/uploads/2019/05/logo_jds.png
   name: Jabar Digital Service (JDS)
   websiteURL: https://digitalservice.jabarprov.go.id/
+- id: biznet.gio
+  logoURL: https://radarmalang.id/file/2018/01/Biznet-GIO-Logo.png
+  name: Biznet Gio
+  websiteURL: https://www.biznetgio.com  
+- id: cbncloud
+  logoURL: https://www.cbncloud.co.id/wp-content/uploads/2019/08/front-logo.png
+  name: CBNCLoud Indonesia
+  websiteURL: https://cbncloud.co.id
+- id: kitabisa
+  logoURL: https://cdn-assets-1.urbanhire.com/careersite/96160b4c9eb0b5152470f09ab3343bfc4fbd437b.png
+  name: Kitabisa.com
+  websiteURL: https://www.kitabisa.com    
+- id: google
+  logoURL: http://pngimg.com/uploads/google/google_PNG19644.png
+  name: Google
+  websiteURL: https://google.com 
+- id: linkaja
+  logoURL: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/LinkAja.svg/1024px-LinkAja.svg.png
+  name: LinkAja
+  websiteURL:  https://www.linkaja.id
+- id: female.daily.network
+  logoURL: https://urbanhire.s3-ap-southeast-1.amazonaws.com/careersite/d095870c574a7049726412aa09e99965-resize-png
+  name: Female Daily Network
+  websiteURL:  https://www.femaledaily.com
+- id: kalibrr
+  logoURL: https://www.kalibrr.com/sites/default/files/kalibrr_logo_new_0.png
+  name: Kalibrr
+  websiteURL:  https://kalibrr.com
+- id: microsoft
+  logoURL: https://cdn.pixabay.com/photo/2013/02/12/09/07/microsoft-80658_960_720.png
+  name: Microsoft Indonesia
+  websiteURL: https://www.microsoft.com/id-id
+- id: aws
+  logoURL: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png
+  name: Amazon Web Service
+  websiteURL: https://www.amazon.com
