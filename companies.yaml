@@ -3,3 +3,19 @@ companies:
   logoURL: https://upload.wikimedia.org/wikipedia/commons/9/99/Gojek_logo_2019.svg
   name: gojek
   websiteURL: https://gojek.io
+- id: deeptech
+  logoURL: https://media.licdn.com/dms/image/C510BAQFwiL7OkdALjg/company-logo_200_200/0?e=2159024400&v=beta&t=_66F56nA-v2e4wjtMSPh2vxR732XFtj2Rpn2R6sfxyM
+  name: Deep Tech
+  websiteURL: https://www.deeptech.id
+- id: traveloka
+  logoURL: https://blog.traveloka.com/wp-content/uploads/2012/11/Traveloka_Primary_Logo.png
+  name: Traveloka
+  websiteURL: https://www.traveloka.com
+- id: ovo
+  logoURL: https://i0.wp.com/minews.id/wp-content/uploads/2019/11/OVO-Logo.jpg
+  name: OVO
+  websiteURL: https://www.ovo.id
+- id: airy
+  logoURL: https://blogpictures.99.co/aplikasi-booking-hotel-5.png
+  name: Airy
+  websiteURL: https://www.airyrooms.com 
