@@ -1,9 +1,7 @@
-# Cloud Native Jakarta Meetup
-	
-	## Organizers
-	- imrenagi
-	- prakashdivy
-	- armandcaesario
-	- indrajatiwidyatmoko
-	
-	
+# Meetups organized by Cloud Native Jakarta
+
+## Organizers
+- imrenagi
+- prakashdivy
+- armandcaesario
+- indrajatiwidyatmoko

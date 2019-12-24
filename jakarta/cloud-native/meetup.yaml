@@ -1,5 +1,10 @@
 meetupID: Cloud-Native-Jakarta
 meetupName: Cloud Native Jakarta
+organizers:
+- imrenagi
+- prakashdivy
+- armandcaesario
+- indrajatiwidyatmoko
 meetups:
   "20190429":
     presentations:
@@ -143,8 +148,3 @@ meetups:
     sponsors:
     - company: airy
       role: Venue           
-organizers:
-- imrenagi
-- prakashdivy
-- armandcaesario
-- indrajatiwidyatmoko

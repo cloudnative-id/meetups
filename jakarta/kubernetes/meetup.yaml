@@ -1,5 +1,10 @@
 meetupID: Jakarta-Kubernetes
 meetupName: Jakarta Kubernetes
+organizers:
+- girikuncoro
+- irvifa
+- imrenagi
+- iqbalfarabi
 meetups:
   "20180110":
     presentations:

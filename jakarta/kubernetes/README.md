@@ -1,5 +1,7 @@
-# Jakarta Kubernetes Meetup
-	
-	## Organizers
-	
-	
+# Meetups organized by Jakarta Kubernetes
+
+## Organizers
+- girikuncoro
+- irvifa
+- imrenagi
+- iqbalfarabi
