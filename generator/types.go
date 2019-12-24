@@ -13,7 +13,7 @@ var (
 )
 
 type Speaker struct {
-	ID       CompanyID `json:"id"`
+	ID       SpeakerID `json:"id"`
 	Name     string    `json:"name"`
 	Title    string    `json:"title"`
 	Company  string    `json:"company"`
@@ -30,8 +30,11 @@ type Company struct {
 }
 
 type MeetupGroup struct {
-	MeetupID string            `json:"meetupID"`
-	Meetups  map[string]Meetup `json:"meetups"`
+	FilePath   string
+	MeetupID   string            `json:"meetupID"`
+	MeetupName string            `json:"meetupName"`
+	Organizers []string          `json:"organizers"`
+	Meetups    map[string]Meetup `json:"meetups"`
 }
 
 type Meetup struct {
@@ -46,10 +49,11 @@ type MeetupSponsor struct {
 }
 
 type Presentation struct {
-	Title     string    `json:"title"`
-	Slides    string    `json:"slides"`
-	Recording string    `json:"recording,omitempty"`
-	Speakers  []Speaker `json:"speakers"`
+	Duration  string   `json:"duration"`
+	Title     string   `json:"title"`
+	Slides    string   `json:"slides"`
+	Recording string   `json:"recording,omitempty"`
+	Speakers  []string `json:"speakers"`
 }
 
 type Config struct {

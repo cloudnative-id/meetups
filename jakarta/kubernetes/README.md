@@ -1,3 +1,7 @@
-# Jakarta Kubernetes Meetup
+# Meetups organized by Jakarta Kubernetes
 
-TODO(giri): Generated from `meetup.yaml`
+## Organizers
+- girikuncoro
+- irvifa
+- imrenagi
+- iqbalfarabi

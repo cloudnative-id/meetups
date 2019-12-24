@@ -1,4 +1,10 @@
 meetupID: Jakarta-Kubernetes
+meetupName: Jakarta Kubernetes
+organizers:
+- girikuncoro
+- irvifa
+- imrenagi
+- iqbalfarabi
 meetups:
   "20180110":
     presentations:
@@ -18,7 +24,7 @@ meetups:
       - girikuncoro
       title: Kubernetes upstream community update
     - duration: 30m0s
-      recordings: https://www.youtube.com/watch?v=DZQOgIWN1pE
+      recording: https://www.youtube.com/watch?v=DZQOgIWN1pE
       slides: https://bit.ly/knative
       speakers:
       - pahleviauliya

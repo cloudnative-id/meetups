@@ -1,6 +1,10 @@
-latitude: -6.2295712
-longitude: 106.7594779
 meetupID: Cloud-Native-Jakarta
+meetupName: Cloud Native Jakarta
+organizers:
+- imrenagi
+- prakashdivy
+- armandcaesario
+- indrajatiwidyatmoko
 meetups:
   "20190429":
     presentations:
@@ -10,13 +14,13 @@ meetups:
       - imrenagi
       title: Welcoming speech and opening
     - duration: 35m0s
-      recordings: https://www.youtube.com/watch?v=D6WJcjVPDbI
+      recording: https://www.youtube.com/watch?v=D6WJcjVPDbI
       slides: https://slides.com/armandcaesario/microservicebasic#/
       speakers:
       - armandcaesario
       title: Introduction to Microservice
     - duration: 35m0s
-      recordings: https://www.youtube.com/watch?v=FeWwev0OBFA
+      recording: https://www.youtube.com/watch?v=FeWwev0OBFA
       slides: https://www.slideshare.net/PrakashDivy/introduction-to-grpc
       speakers:
       - prakashdivy
@@ -37,13 +41,13 @@ meetups:
       - armandcaesario
       title: Welcoming speech and opening
     - duration: 35m0s
-      recordings: https://www.youtube.com/watch?v=fszTBvZEZ_4
+      recording: https://www.youtube.com/watch?v=fszTBvZEZ_4
       slides: null
       speakers:
       - welly.tambunan
       title: Messaging Patterns
     - duration: 35m0s
-      recordings: https://www.youtube.com/watch?v=w2J2S6v3K50
+      recording: https://www.youtube.com/watch?v=w2J2S6v3K50
       slides: https://docs.google.com/presentation/d/1FtU8F2mDxe-U4cUBUHrpJmx6FTafUv0FETF1qcxobv4/edit?usp=sharing
       speakers:
       - imrenagi
@@ -65,13 +69,13 @@ meetups:
       - prakashdivy
       title: Welcoming speech and opening
     - duration: 35m0s
-      recordings: https://www.youtube.com/watch?v=FGQVGSJPjH0&t=25s
+      recording: https://www.youtube.com/watch?v=FGQVGSJPjH0&t=25s
       slides: null
       speakers:
       - resi.respati
       title: 'Microfrontends: extending microservices to the frontend'
     - duration: 35m0s
-      recordings: ""
+      recording: ""
       slides: "https://docs.google.com/presentation/d/1AKzNudQGLv8EZjnoAQkJjlt5ChtvfyAQ816kvjrTAxA/edit?usp=sharing"
       speakers:
       - zulfa.achsani
@@ -92,19 +96,19 @@ meetups:
       - imrenagi
       title: Welcoming speech and opening
     - duration: 35m0s
-      recordings: ""
+      recording: ""
       slides: ""
       speakers:
       - kennard.wicoady
       title: 'Domain Driven Design: Preparing for Microservices Architecture'
     - duration: 35m0s
-      recordings: ""
+      recording: ""
       slides: ""
       speakers:
       - martono.wibowo
       title:  Lifecycle and Scalabilty Microservice with Kubernetes
     - duration: 35m0s
-      recordings: ""
+      recording: ""
       slides: ""
       speakers:
       - donnie.prakoso
@@ -125,13 +129,13 @@ meetups:
       - imrenagi
       title: Welcoming speech and opening
     - duration: 35m0s
-      recordings: ""
+      recording: ""
       slides: ""
       speakers:
       - dio
       title: 'Envoy and Contributing to Open Source'
     - duration: 35m0s
-      recordings: ""
+      recording: ""
       slides: ""
       speakers:
       - evan.adiprasetyo
@@ -144,8 +148,3 @@ meetups:
     sponsors:
     - company: airy
       role: Venue           
-organizers:
-- imrenagi
-- prakashdivy
-- armandcaesario
-- indrajatiwidyatmoko
