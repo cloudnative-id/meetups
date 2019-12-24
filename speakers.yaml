@@ -215,7 +215,7 @@ speakers:
   name: Setyo Legowo
   title: Tech Consultant Engineer
   twitter: ""
-- company: PT. Bukalapak.com
+- company: Bukalapak
   email: ""
   github: ""
   id: saiful.islam
@@ -231,5 +231,27 @@ speakers:
   name: Aditya Satrya 
   title: Head of Engineering 
   twitter: ""
-
-
+- company: Traveloka
+  email: ""
+  github: ""
+  id: zulfa.achsani
+  linkedin: ""
+  name: Zulfa Achsani
+  title: Software Engineer
+  twitter: ""
+- company: Kata.ai
+  email: ""
+  github: ""
+  id: resi.respati
+  linkedin: ""
+  name: Resi Respati
+  title: Frontend Engineer
+  twitter: ""
+- company: OVO
+  email: ""
+  github: ""
+  id: kennard.wicoady
+  linkedin: ""
+  name: Kennard Wicoady
+  title: Software Engineer
+  twitter: ""
