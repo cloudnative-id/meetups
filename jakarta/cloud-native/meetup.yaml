@@ -46,7 +46,7 @@ meetups:
       recordings: https://www.youtube.com/watch?v=w2J2S6v3K50
       slides: https://docs.google.com/presentation/d/1FtU8F2mDxe-U4cUBUHrpJmx6FTafUv0FETF1qcxobv4/edit?usp=sharing
       speakers:
-      - prakashdivy
+      - imrenagi
       title:  Introdcution to NATS and Deploying NATS and Microservice application in GKE
     - duration: 40m0s
       recording: ""
