@@ -19,3 +19,19 @@ companies:
   logoURL: https://blogpictures.99.co/aplikasi-booking-hotel-5.png
   name: Airy
   websiteURL: https://www.airyrooms.com 
+- id: bukalapak
+  logoURL: https://www.bukalapak.com/images/new-brand-identity/1-logo-salah/logo_salah_10.png
+  name: Bukalapak
+  websiteURL: https://www.bukalapak.com
+- id: gits.indonesia
+  logoURL: https://images.glints.com/unsafe/1024x0/glints-dashboard.s3.amazonaws.com/company-logo/f761cf31c877545a794d66987aa9962f.png
+  name: Gits Indonesia
+  websiteURL: https://www.gits.co.id
+- id: 99.co
+  logoURL: https://i.postimg.cc/J0gGYJTj/unnamed.png
+  name: 99.co
+  websiteURL: https://www.99.co/id 
+- id: jds
+  logoURL: https://digitalservice.jabarprov.go.id/wp-content/uploads/2019/05/logo_jds.png
+  name: Jabar Digital Service (JDS)
+  websiteURL: https://digitalservice.jabarprov.go.id/
