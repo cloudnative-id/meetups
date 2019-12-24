@@ -1,8 +1,186 @@
 speakers:
 - company: gojek
+  email: ""
   github: girikuncoro
   id: girikuncoro
   linkedin: girikuncoro
   name: Giri Kuncoro
   title: CNCF Ambassador
   twitter: girikuncoro
+- company: HIJUP
+  email: ""
+  github: ""
+  id: pahlevi.fikri.auliya
+  linkedin: ""
+  name: Pahlevi Fikri Auliya
+  title: CTO
+  twitter: ""
+- company: Bukalapak
+  email: ""
+  github: ""
+  id: christoper.hans
+  linkedin: ""
+  name: Christoper Hans
+  title: Site Reliability Engineer
+  twitter: ""
+- company: Traveloka
+  email: ""
+  github: ""
+  id: irvi.fa
+  linkedin: ""
+  name: Irvi Firqotul Aini
+  title: Software Engineer
+  twitter: ""
+- company: gopay
+  email: ""
+  github: ""
+  id: luklukaha
+  linkedin: ""
+  name: Lukluk santoso
+  title: product engineer
+  twitter: ""
+- company: ECnet (M) Sdn Bhd, Kuala Lumpur
+  email: ""
+  github: ""
+  id: dhanielluis
+  linkedin: ""
+  name: Husni Alhamdani
+  title: DevOps Engineer
+  twitter: ""
+- company: Pahamify
+  email: ""
+  github: ""
+  id: arkan.irsyad
+  linkedin: ""
+  name: Arkan Muhammad Irsyad
+  title: Full Stack Engineer
+  twitter: ""
+- company: AWS
+  email: ""
+  github: ""
+  id: donnie.prakoso
+  linkedin: ""
+  name: Donnie Prakoso
+  title: Evangelist
+  twitter: ""
+- company: Loket.com
+  email: ""
+  github: ""
+  id: indrajati
+  linkedin: ""
+  name: Indrajati Widyatmoko
+  title: Engineer
+  twitter: ""
+- company: Btech
+  email: ""
+  github: ""
+  id: zufardhiyaulhaq
+  linkedin: ""
+  name: Zufar Dhiyaulhaq
+  title: Cloud Engineer
+  twitter: ""
+- company: Google
+  email: ""
+  github: ""
+  id: lutfir
+  linkedin: ""
+  name: Lutfi Rachman
+  title: Technical Account Manager
+  twitter: ""
+- company: Elastic
+  email: ""
+  github: ""
+  id: aravind
+  linkedin: ""
+  name: Aravind Putrevu
+  title: Developer Advocate
+  twitter: ""
+- company: ALTERRA
+  email: ""
+  github: ""
+  id: kevinsetiawantanzil2
+  linkedin: ""
+  name: Kevin Setiawan Tanzil
+  title: Software Engineers
+  twitter: ""
+- company: Nodeflux
+  email: ""
+  github: ""
+  id: eutsat
+  linkedin: ""
+  name: Eufrat Tsaqib
+  title: Software Engineer
+  twitter: ""
+- company: Female Daily Network
+  email: ""
+  github: ""
+  id: ranggaadhitya
+  linkedin: ""
+  name: Rangga Adhitya Prawira
+  title: Full-Stack Developer
+  twitter: ""
+- company: PT Biznet Gio Nusantara
+  email: ""
+  github: ""
+  id: yusufhadiwinata
+  linkedin: ""
+  name: Yusuf Hadiwinata Sutandar
+  title: VP Operation & Services
+  twitter: ""
+- company: Schoters
+  email: ""
+  github: ""
+  id: imre.nagi
+  linkedin: ""
+  name: Imre Nagi
+  title: CTO & Co-founder
+  twitter: "imrenagi"
+- company: Tetrate
+  email: ""
+  github: ""
+  id: dio
+  linkedin: ""
+  name: Dhi Aurrahman
+  title: Software Engineer
+  twitter: ""
+- company: Airy
+  email: ""
+  github: ""
+  id: evan.adiprasetyo
+  linkedin: ""
+  name: Evan Adi Prasetyo
+  title: Infrastructure Engineer
+  twitter: ""
+- company: Balai Sertifikasi Elektronik, Badan Siber dan Sandi Negara
+  email: ""
+  github: ""
+  id: arga.daywalker
+  linkedin: ""
+  name: Arga Dhahana Pramudianto
+  title: PNS (Formal Role), System Engineer (Informal Role)
+  twitter: ""
+- company: Kata.ai
+  email: ""
+  github: ""
+  id: reyhan.sofian
+  linkedin: ""
+  name: Reyhan Sofian Haqqi
+  title: Software Engineer
+  twitter: ""
+- company: GoPay
+  email: ""
+  github: ""
+  id: w.albertusd
+  linkedin: ""
+  name: William Albertus Dembo
+  title: Cloud Platform Engineer
+  twitter: ""
+- company: Airy
+  email: ""
+  github: ""
+  id: kurnianto.trilaksono
+  linkedin: ""
+  name: Kurnianto Trilaksono
+  title: Infrastructure / DevSecOps Engineer
+  twitter: ""
+
