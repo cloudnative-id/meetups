@@ -30,7 +30,9 @@ type Company struct {
 }
 
 type MeetupGroup struct {
+	FilePath   string
 	MeetupID   string            `json:"meetupID"`
+	MeetupName string            `json:"meetupName"`
 	Organizers []string          `json:"organizers"`
 	Meetups    map[string]Meetup `json:"meetups"`
 }

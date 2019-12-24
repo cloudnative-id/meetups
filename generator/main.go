@@ -3,10 +3,12 @@ package main
 // Code is heavily inspired from https://github.com/cloud-native-nordics/meetups/generator
 
 import (
+	"bytes"
 	"fmt"
 	"io/ioutil"
 	"os"
 	"path/filepath"
+	"text/template"
 
 	"github.com/spf13/pflag"
 	"sigs.k8s.io/yaml"
@@ -30,8 +32,12 @@ func run() error {
 	if err != nil {
 		return err
 	}
-	fmt.Println(cfg.MeetupGroups)
-	return nil
+
+	out, err := exec(cfg)
+	if err != nil {
+		return err
+	}
+	return apply(out, *rootDir)
 }
 
 func load(speakersFile, companiesFile, meetupsDir string) (*Config, error) {
@@ -71,6 +77,7 @@ func load(speakersFile, companiesFile, meetupsDir string) (*Config, error) {
 		}
 
 		mg := MeetupGroup{}
+		mg.FilePath = path
 		mgData, err := ioutil.ReadFile(meetupsFile)
 		if err != nil {
 			return err
@@ -91,4 +98,46 @@ func load(speakersFile, companiesFile, meetupsDir string) (*Config, error) {
 		Companies:    companies,
 		MeetupGroups: meetupGroups,
 	}, nil
+}
+
+func exec(cfg *Config) (map[string][]byte, error) {
+	result := map[string][]byte{}
+	for _, mg := range cfg.MeetupGroups {
+		b, err := tmpl(readmeTmpl, mg)
+		if err != nil {
+			return nil, err
+		}
+
+		path := filepath.Join(mg.FilePath, "README.md")
+		result[path] = b
+	}
+
+	fmt.Println(result)
+
+	return result, nil
+}
+
+func tmpl(t *template.Template, obj interface{}) ([]byte, error) {
+	var buf bytes.Buffer
+	if err := t.Execute(&buf, obj); err != nil {
+		return nil, err
+	}
+	return buf.Bytes(), nil
+}
+
+func apply(files map[string][]byte, rootDir string) error {
+	for path, fileContent := range files {
+		fullPath := filepath.Join(rootDir, path)
+		if err := writeFile(fullPath, fileContent); err != nil {
+			return err
+		}
+	}
+	return nil
+}
+
+func writeFile(path string, b []byte) error {
+	if err := os.MkdirAll(filepath.Dir(path), 0755); err != nil {
+		return err
+	}
+	return ioutil.WriteFile(path, b, 0644)
 }
