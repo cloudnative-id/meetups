@@ -39,7 +39,7 @@ func load(speakersFile, companiesFile, meetupsDir string) (*Config, error) {
 	if err != nil {
 		return nil, err
 	}
-	if errr := unmarshal(speakersData, &speakers); err != nil {
+	if err := unmarshal(speakersData, &speakers); err != nil {
 		return nil, err
 	}
 
@@ -53,4 +53,9 @@ func load(speakersFile, companiesFile, meetupsDir string) (*Config, error) {
 	}
 
 	meetupGroups := []MeetupGroup{}
+	return &Config{
+		Speakers:     speakers,
+		Companies:    companies,
+		MeetupGroups: meetupGroups,
+	}, nil
 }
