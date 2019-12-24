@@ -72,7 +72,7 @@ meetups:
       title: 'Microfrontends: extending microservices to the frontend'
     - duration: 35m0s
       recordings: ""
-      slides: ""
+      slides: "https://docs.google.com/presentation/d/1AKzNudQGLv8EZjnoAQkJjlt5ChtvfyAQ816kvjrTAxA/edit?usp=sharing"
       speakers:
       - zulfa.achsani
       title:  Distributed Tracing with Jaeger
