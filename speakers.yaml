@@ -1,4 +1,3 @@
-speakers:
 - company: gojek
   github: girikuncoro
   id: girikuncoro
@@ -6,7 +5,11 @@ speakers:
   name: Giri Kuncoro
   title: CNCF Ambassador
   twitter: girikuncoro
+<<<<<<< HEAD
 - company: HIJUP  
+=======
+- company: HIJUP
+>>>>>>> master
   github: ""
   id: pahlevi.fikri.auliya
   linkedin: ""
