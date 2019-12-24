@@ -2,12 +2,21 @@ meetupID: Jakarta-Kubernetes
 meetups:
   "20180110":
     presentations:
+    - duration: 2m0s
+      slides: ""
+      speakers:
+      - imrenagi
+      title: Welcome from the organizers
+    - duration: 5m0s
+      slides: ""
+      speakers:
+      - yolandafitra
+      title: Welcome from the sponsor
     - duration: 11m0s
       slides: https://docs.google.com/presentation/d/1VF_u0IYnvi0f-W2siKdFV8P1x6m6qzzblgYIAc5ZPq0
       speakers:
       - girikuncoro
-      - imrenagi
-      title: Welcome from the organizers and Kubernetes upstream community update
+      title: Kubernetes upstream community update
     - duration: 30m0s
       recordings: https://www.youtube.com/watch?v=DZQOgIWN1pE
       slides: https://bit.ly/knative
@@ -20,6 +29,17 @@ meetups:
       speakers:
       - iqbalfarabi
       title: https://slides.com/qblfrb/kubernetesthe-ruby-way-71#
+    - duration: 5m0s
+      recording: ""
+      slides: https://docs.google.com/presentation/d/1VF_u0IYnvi0f-W2siKdFV8P1x6m6qzzblgYIAc5ZPq0
+      speakers:
+      - imrenagi
+      title: Community announcements
+    - duration: 30m0s
+      recording: ""
+      slides: ""
+      speakers: null
+      title: Hallway track (networking)
     sponsors:
     - company: gojek
       role: Venue
