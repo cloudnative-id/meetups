@@ -18,7 +18,7 @@ meetups:
       - girikuncoro
       title: Kubernetes upstream community update
     - duration: 30m0s
-      recordings: https://www.youtube.com/watch?v=DZQOgIWN1pE
+      recording: https://www.youtube.com/watch?v=DZQOgIWN1pE
       slides: https://bit.ly/knative
       speakers:
       - pahleviauliya

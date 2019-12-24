@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"io/ioutil"
 	"os"
+	"path/filepath"
 
 	"github.com/spf13/pflag"
 	"sigs.k8s.io/yaml"
@@ -29,7 +30,7 @@ func run() error {
 	if err != nil {
 		return err
 	}
-	fmt.Println(cfg)
+	fmt.Println(cfg.MeetupGroups)
 	return nil
 }
 
@@ -53,6 +54,38 @@ func load(speakersFile, companiesFile, meetupsDir string) (*Config, error) {
 	}
 
 	meetupGroups := []MeetupGroup{}
+
+	err = filepath.Walk(meetupsDir, func(path string, info os.FileInfo, err error) error {
+		if err != nil {
+			return err
+		}
+		if !info.IsDir() {
+			return nil
+		}
+
+		meetupsFile := filepath.Join(path, "meetup.yaml")
+		if _, err := os.Stat(meetupsFile); os.IsNotExist(err) {
+			return nil
+		} else if err != nil {
+			return err
+		}
+
+		mg := MeetupGroup{}
+		mgData, err := ioutil.ReadFile(meetupsFile)
+		if err != nil {
+			return err
+		}
+		if err := unmarshal(mgData, &mg); err != nil {
+			return err
+		}
+		meetupGroups = append(meetupGroups, mg)
+
+		return nil
+	})
+	if err != nil {
+		return nil, err
+	}
+
 	return &Config{
 		Speakers:     speakers,
 		Companies:    companies,
