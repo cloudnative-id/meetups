@@ -183,4 +183,53 @@ speakers:
   name: Kurnianto Trilaksono
   title: Infrastructure / DevSecOps Engineer
   twitter: ""
+- company: Kata.ai
+  email: ""
+  github: ""
+  id: armand
+  linkedin:
+  name: Armanda Caesario Cornelis Mandagie
+  title: Senior Software Engineer
+  twitter: ""
+- company: PT. Gits Indonesia
+  email: ""
+  github: ""
+  id: pambudiono.os
+  linkedin:
+  name: Didiet Agus Pambudiono
+  title: DevOps Engineer
+  twitter: ""
+- company: kumparan
+  email: ""
+  github: ""
+  id: ganeshadanu1
+  linkedin:
+  name: Ganesha Danu Enastika
+  title: Software Engineer
+  twitter: ""
+- company: 99.co
+  email: ""
+  github: ""
+  id: setyo
+  linkedin:
+  name: Setyo Legowo
+  title: Tech Consultant Engineer
+  twitter: ""
+- company: PT. Bukalapak.com
+  email: ""
+  github: ""
+  id: saiful.islam
+  linkedin:
+  name: Muhammad Saiful Islam
+  title: Cloud Engineer
+  twitter: ""
+- company: Jawa Barat Digital Service (JDS) 
+  email: ""
+  github: ""
+  id: aditya.satrya
+  linkedin:
+  name: Aditya Satrya 
+  title: Head of Engineering 
+  twitter: ""
+
 
