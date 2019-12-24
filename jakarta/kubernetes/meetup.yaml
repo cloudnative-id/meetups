@@ -1,0 +1,25 @@
+meetupID: Jakarta-Kubernetes
+meetups:
+  "20180110":
+    presentations:
+    - duration: 11m0s
+      slides: https://docs.google.com/presentation/d/1VF_u0IYnvi0f-W2siKdFV8P1x6m6qzzblgYIAc5ZPq0
+      speakers:
+      - girikuncoro
+      - imrenagi
+      title: Welcome from the organizers and Kubernetes upstream community update
+    - duration: 30m0s
+      recordings: https://www.youtube.com/watch?v=DZQOgIWN1pE
+      slides: https://bit.ly/knative
+      speakers:
+      - pahleviauliya
+      title: Exploring KNative
+    - duration: 30m0s
+      recording: ""
+      slides: https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-helsinki-october-meetup
+      speakers:
+      - iqbalfarabi
+      title: https://slides.com/qblfrb/kubernetesthe-ruby-way-71#
+    sponsors:
+    - company: gojek
+      role: Venue
