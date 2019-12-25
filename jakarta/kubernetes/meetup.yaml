@@ -9,16 +9,11 @@ meetups:
   "20180110":
     title: "#1: Intro to Kubernetes and Knative"
     presentations:
-    - duration: 2m0s
+    - duration: 9m0s
       slides: ""
       speakers:
       - imrenagi
       title: Welcome from the organizers
-    - duration: 5m0s
-      slides: ""
-      speakers:
-      - yolandafitra
-      title: Welcome from the sponsor
     - duration: 11m0s
       slides: https://docs.google.com/presentation/d/1VF_u0IYnvi0f-W2siKdFV8P1x6m6qzzblgYIAc5ZPq0
       speakers:
@@ -36,12 +31,6 @@ meetups:
       speakers:
       - iqbalfarabi
       title: https://slides.com/qblfrb/kubernetesthe-ruby-way-71#
-    - duration: 5m0s
-      recording: ""
-      slides: https://docs.google.com/presentation/d/1VF_u0IYnvi0f-W2siKdFV8P1x6m6qzzblgYIAc5ZPq0
-      speakers:
-      - imrenagi
-      title: Community announcements
     - duration: 30m0s
       recording: ""
       slides: ""
