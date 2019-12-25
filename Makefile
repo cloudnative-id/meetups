@@ -9,5 +9,10 @@ SHELL := bash
 MAKEFLAGS += --warn-undefined-variables
 MAKEFLAGS += --no-builtin-rules
 
+all: bin-generator generate
+
+generate:
+	bin/generator
+
 bin-generator:
 	go build -o bin/generator ./generator/...
