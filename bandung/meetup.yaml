@@ -1,0 +1,120 @@
+meetupID: Kubernetes-Cloud-Native-Bandung
+meetupName: Kubernetes/Cloud Native Bandung
+organizers:
+- iqbalsyamil
+- joshuabezaleel
+- zufardhiyaulhaq
+meetups:
+  "20190912":
+    title: "#1: Basic Microservices and Kubernetes"
+    presentations:
+    - duration: 10m0s
+      slides: https://github.com/cloudnative-id/kubernetes-cloud-native-bandung/blob/master/2019/001%20(Sept)/Community%20Slide%20%23001.pdf
+      speakers:
+      - iqbalsyamil
+      title: Welcoming speech and opening
+    - duration: 35m0s
+      recording: 
+      slides: https://slides.com/armandcaesario/microservicebasic#/
+      speakers:
+      - armandcaesario
+      title: Basic Microservices
+    - duration: 35m0s
+      recording: 
+      slides: https://docs.google.com/presentation/d/1iCh0HSahZRIOZjsQo7LHvPgUFYWLFHqTHlZsZ5BbVPw
+      speakers:
+      - girikuncoro
+      title: Introduction to Kubernetes
+    - duration: 40m0s
+      recording: ""
+      slides: ""
+      speakers: []
+      title: Hallway track (networking)
+    sponsors:
+    - company: bukalapak
+      role: Venue
+  "20191024":
+    title: "#2: Journey to Kubernetes & Microservices with Elixir"
+    presentations:
+    - duration: 10m0s
+      slides: https://docs.google.com/presentation/d/1VSnONvgs3wxQbpeLuImn0WJRWuOe7fPT6Y6kQBuWs9U/edit?usp=sharing
+      speakers: 
+      - joshuabezaleel
+      title: Welcoming speech and opening
+    - duration: 35m0s
+      recording: 
+      slides: https://docs.google.com/presentation/d/1rR9PSd13O_xb29guU3aa909tdJzKMjpO2NEFQRRGWOw/edit?usp=sharing
+      speakers:
+      - pambudiono.os
+      title: Migration Journey to Kubernetes
+    - duration: 35m0s
+      recording: 
+      slides: https://docs.google.com/presentation/d/1sWD4-1v5i2TOptxCG5oeSdTHzO6VeByqpt6U6Li-wHk/edit?usp=sharing
+      speakers:
+      - ganeshadanu1
+      title:  Process-Oriented Microservices with Elixir
+    - duration: 40m0s
+      recording: ""
+      slides: ""
+      speakers: []
+      title: Hallway track (networking)
+    sponsors:
+    - company: gits.indonesia
+      role: Venue   
+  "20191116":
+    title: "#3: Fundamentals of Cloud Native Architecture & Kubernetes Deployment with GitOps"
+    presentations:
+    - duration: 10m0s
+      slides: https://docs.google.com/presentation/d/1V0IruhxD3pKUH2D7_JIL41hQT--T2LuBJ4bT-zJrW3A/edit?usp=sharing
+      speakers: 
+      - zufardhiyaulhaq
+      title: Welcoming speech and opening
+    - duration: 35m0s
+      recording: https://youtu.be/pbNl_T3HI10  
+      slides: https://1drv.ms/p/s!AmoitJr7ia3TzEXX0XSvIOCOlIGY?e=cBjj6F
+      speakers:
+      - setyo
+      title: 'Fundamentals of Cloud Native Architecture: Accelerate Your Infra-Devops Skills'
+    - duration: 35m0s
+      recording: https://youtu.be/pbNl_T3HI10
+      slides: https://docs.google.com/presentation/d/1r3PsGa3t6j8tKxyUT_lHZciqjNLU08FTyuokAtrUf9Y/edit?usp=sharing
+      speakers:
+      - saiful.islam
+      title:  How Bukalapak Deploy Kubernetes Deployment to Their Clusters using GitOps Approach Running in GitLab CI/CD
+    - duration: 40m0s
+      recording: ""
+      slides: ""
+      speakers: []
+      title: Hallway track (networking)
+    sponsors:
+    - company: 99.co
+      role: Venue      
+  "20191219":
+    title: "#4: Journey in Implementing Cloud-Native Technology & Intro to Kubernetes RBAC"
+    presentations:
+    - duration: 10m0s
+      slides: https://docs.google.com/presentation/d/1zcRRw_rWuRbcfAv-SowzZI7Cs6yQ8-q7qy_Of42KFnY/edit#slide=id.g4c35bb3ebd_2_71
+      speakers: 
+      - iqbalsyamil
+      title: Welcoming speech and opening
+    - duration: 35m0s
+      recording: https://www.youtube.com/watch?v=u0Miv0Et_s8&feature=youtu.be
+      slides: https://docs.google.com/presentation/d/18pMWvKM3m_MCtX_095za4ogG2Oog-c8wfMxkTWImYFc/edit?usp=sharing
+      speakers:
+      - aditya.satrya
+      title: Journey in Implementing Cloud-Native Technology in JDS
+    - duration: 35m0s
+      recording: https://www.youtube.com/watch?v=u0Miv0Et_s8&feature=youtu.be
+      slides: https://docs.google.com/presentation/d/1pUgTksN6qn3oDkSp8tmQB5QGzCl1T7R_Uphwulk6daI/edit?usp=sharing
+      speakers:
+      - imre.nagi
+      title:  Introduction to Kubernetes RBAC
+    - duration: 40m0s
+      recording: ""
+      slides: ""
+      speakers: []
+      title: Hallway track (networking)
+    sponsors:
+    - company: jds
+      role: Venue     
+      
