@@ -1,140 +1,140 @@
-- id: gojek
-  logoURL: https://upload.wikimedia.org/wikipedia/commons/9/99/Gojek_logo_2019.svg
-  name: gojek
-  websiteURL: https://gojek.io
-- id: deeptech
-  logoURL: https://media.licdn.com/dms/image/C510BAQFwiL7OkdALjg/company-logo_200_200/0?e=2159024400&v=beta&t=_66F56nA-v2e4wjtMSPh2vxR732XFtj2Rpn2R6sfxyM
-  name: Deep Tech
-  websiteURL: https://www.deeptech.id
-- id: traveloka
-  logoURL: https://blog.traveloka.com/wp-content/uploads/2012/11/Traveloka_Primary_Logo.png
-  name: Traveloka
-  websiteURL: https://www.traveloka.com
-- id: ovo
-  logoURL: https://i0.wp.com/minews.id/wp-content/uploads/2019/11/OVO-Logo.jpg
-  name: OVO
-  websiteURL: https://www.ovo.id
-- id: airy
-  logoURL: https://blogpictures.99.co/aplikasi-booking-hotel-5.png
-  name: Airy
-  websiteURL: https://www.airyrooms.com 
-- id: bukalapak
-  logoURL: https://www.bukalapak.com/images/new-brand-identity/1-logo-salah/logo_salah_10.png
-  name: Bukalapak
-  websiteURL: https://www.bukalapak.com
-- id: gits.indonesia
-  logoURL: https://images.glints.com/unsafe/1024x0/glints-dashboard.s3.amazonaws.com/company-logo/f761cf31c877545a794d66987aa9962f.png
-  name: Gits Indonesia
-  websiteURL: https://www.gits.co.id
 - id: 99.co
   logoURL: https://i.postimg.cc/J0gGYJTj/unnamed.png
   name: 99.co
   websiteURL: https://www.99.co/id 
-- id: jds
-  logoURL: https://digitalservice.jabarprov.go.id/wp-content/uploads/2019/05/logo_jds.png
-  name: Jabar Digital Service (JDS)
-  websiteURL: https://digitalservice.jabarprov.go.id/
-- id: biznet.gio
-  logoURL: https://radarmalang.id/file/2018/01/Biznet-GIO-Logo.png
-  name: Biznet Gio
-  websiteURL: https://www.biznetgio.com  
-- id: cbncloud
-  logoURL: https://www.cbncloud.co.id/wp-content/uploads/2019/08/front-logo.png
-  name: CBNCLoud Indonesia
-  websiteURL: https://cbncloud.co.id
-- id: kitabisa
-  logoURL: https://cdn-assets-1.urbanhire.com/careersite/96160b4c9eb0b5152470f09ab3343bfc4fbd437b.png
-  name: Kitabisa.com
-  websiteURL: https://www.kitabisa.com    
-- id: google
-  logoURL: http://pngimg.com/uploads/google/google_PNG19644.png
-  name: Google
-  websiteURL: https://google.com 
-- id: linkaja
-  logoURL: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/LinkAja.svg/1024px-LinkAja.svg.png
-  name: LinkAja
-  websiteURL:  https://www.linkaja.id
-- id: female.daily.network
-  logoURL: https://urbanhire.s3-ap-southeast-1.amazonaws.com/careersite/d095870c574a7049726412aa09e99965-resize-png
-  name: Female Daily Network
-  websiteURL:  https://www.femaledaily.com
-- id: kalibrr
-  logoURL: https://www.kalibrr.com/sites/default/files/kalibrr_logo_new_0.png
-  name: Kalibrr
-  websiteURL:  https://kalibrr.com
-- id: microsoft
-  logoURL: https://cdn.pixabay.com/photo/2013/02/12/09/07/microsoft-80658_960_720.png
-  name: Microsoft Indonesia
-  websiteURL: https://www.microsoft.com/id-id
-- id: aws
-  logoURL: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png
-  name: Amazon Web Service
-  websiteURL: https://www.amazon.com
-- id: hijup
-  logoURL: "https://image4.owler.com/logo/hijup_owler_20170413_121942_original.png"
-  name: HIJUP
-  websiteURL: https://www.hijup.com
-- id: gopay
-  logoURL: https://member.id/wp-content/uploads/2019/09/logo-gopay.jpg
-  name: Gopay
-  websiteURL: https://www.gojek.com/gopay/
-- id: ecnet
-  logoURL: https://cdn.freebiesupply.com/logos/large/2x/ecnet-logo-png-transparent.png
-  name: ECnet (M) Sdn Bhd, Kuala Lumpur
-  websiteURL: https://www.ecnet.com
-- id: pahamify
-  logoURL: https://utbk.pahamify.com/img/logo_color.png
-  name: Pahamify
-  websiteURL: https://www.pahamify.com
-- id: loket
-  logoURL: https://www.loket.com/images/logo-loket-blue.png
-  name: Loket
-  websiteURL: https://www.loket.com
-- id: btech
-  logoURL: https://blog.hasbullahmarwan.com/wp-content/uploads/2018/09/logo-btech.png
-  name: Btech
-  websiteURL: https://www.btech.id
-- id: elastic
-  logoURL: https://logos-download.com/wp-content/uploads/2016/09/Elastic_logo.png
-  name: Elastic.co
-  websiteURL: https://www.elastic.co
+- id: airy
+  logoURL: https://blogpictures.99.co/aplikasi-booking-hotel-5.png
+  name: Airy
+  websiteURL: https://www.airyrooms.com
 - id: alterra
   logoURL: ""
   name: Alterra Indonesia
   websiteURL: https://www.alterra.id
-- id: nodeflux
-  logoURL: https://i0.wp.com/d3g5ywftkpzr0e.cloudfront.net/wp-content/uploads/2019/04/15124237/nodeflux.png
-  name: Nodeflux
-  websiteURL: https://www.nodeflux.io
-- id: schoters
-  logoURL: https://rec-data.kalibrr.com/www.kalibrr.com/logos/BTY5R9LJ7F43M8G9WHCBN2W4NG7YP8JBA9VR4SW8-5d6cc02f.png
-  name: Schoters
-  websiteURL: https://www.schoters.com
-- id: tetrate
-  logoURL: https://pbs.twimg.com/profile_images/1015003140301549569/sV5XUpdF_400x400.jpg
-  name: Tetrate
-  websiteURL: https://www.tetrate.io
+- id: aws
+  logoURL: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png
+  name: Amazon Web Service
+  websiteURL: https://www.amazon.com
+- id: biznet.gio
+  logoURL: https://radarmalang.id/file/2018/01/Biznet-GIO-Logo.png
+  name: Biznet Gio
+  websiteURL: https://www.biznetgio.com
 - id: bssn
   logoURL: https://upload.wikimedia.org/wikipedia/commons/2/2c/LOGO_BSSN.png
   name: Balai Sertifikasi Elektronik, Badan Siber dan Sandi Negara
   websiteURL: https://bssn.go.id
-- id: kata.ai
-  logoURL: https://images.glints.com/unsafe/1024x0/glints-dashboard.s3.amazonaws.com/company-logo/82144fb386da7b64cec392b87c277faa.png
-  name: Kata.ai
-  websiteURL: https://www.kata.ai
-- id: kumparan
-  logoURL: gitshttps://www.go-dok.com/wp-content/uploads/2016/04/Kumparan-Logo-V4.png
-  name: Kumparan
-  websiteURL: https://www.kumparan.com
-- id: telkomuniversity
-  logoURL: https://upload.wikimedia.org/wikipedia/commons/0/03/Logo_Telkom_University_potrait.png
-  name: Telkom University
-  websiteURL: https://telkomuniversity.ac.id
-- id: itb    
-  logoURL: https://ditsti.itb.ac.id/wp-content/uploads/sites/219/2018/09/logo-itb-512px.png
-  name: Institut Teknologi Bandung
-  websiteURL: https://itb.ac.id
+- id: bukalapak
+  logoURL: https://www.bukalapak.com/images/new-brand-identity/1-logo-salah/logo_salah_10.png
+  name: Bukalapak
+  websiteURL: https://www.bukalapak.com
+- id: btech
+  logoURL: https://blog.hasbullahmarwan.com/wp-content/uploads/2018/09/logo-btech.png
+  name: Btech
+  websiteURL: https://www.btech.id
+- id: cbncloud
+  logoURL: https://www.cbncloud.co.id/wp-content/uploads/2019/08/front-logo.png
+  name: CBNCLoud Indonesia
+  websiteURL: https://cbncloud.co.id
+- id: deeptech
+  logoURL: https://media.licdn.com/dms/image/C510BAQFwiL7OkdALjg/company-logo_200_200/0?e=2159024400&v=beta&t=_66F56nA-v2e4wjtMSPh2vxR732XFtj2Rpn2R6sfxyM
+  name: Deep Tech
+  websiteURL: https://www.deeptech.id
+- id: ecnet
+  logoURL: https://cdn.freebiesupply.com/logos/large/2x/ecnet-logo-png-transparent.png
+  name: ECnet (M) Sdn Bhd, Kuala Lumpur
+  websiteURL: https://www.ecnet.com
+- id: elastic
+  logoURL: https://logos-download.com/wp-content/uploads/2016/09/Elastic_logo.png
+  name: Elastic.co
+  websiteURL: https://www.elastic.co
+- id: female.daily.network
+  logoURL: https://urbanhire.s3-ap-southeast-1.amazonaws.com/careersite/d095870c574a7049726412aa09e99965-resize-png
+  name: Female Daily Network
+  websiteURL:  https://www.femaledaily.com
+- id: gojek
+  logoURL: https://upload.wikimedia.org/wikipedia/commons/9/99/Gojek_logo_2019.svg
+  name: gojek
+  websiteURL: https://gojek.io
+- id: gits.indonesia
+  logoURL: https://images.glints.com/unsafe/1024x0/glints-dashboard.s3.amazonaws.com/company-logo/f761cf31c877545a794d66987aa9962f.png
+  name: Gits Indonesia
+  websiteURL: https://www.gits.co.id
+- id: google
+  logoURL: http://pngimg.com/uploads/google/google_PNG19644.png
+  name: Google
+  websiteURL: https://google.com
+- id: gopay
+  logoURL: https://member.id/wp-content/uploads/2019/09/logo-gopay.jpg
+  name: Gopay
+  websiteURL: https://www.gojek.com/gopay/
 - id: hpe
   logoURL: 
   name: HP Enterprise
   websiteURL: https://hpe.com
+- id: hijup
+  logoURL: "https://image4.owler.com/logo/hijup_owler_20170413_121942_original.png"
+  name: HIJUP
+  websiteURL: https://www.hijup.com
+- id: itb    
+  logoURL: https://ditsti.itb.ac.id/wp-content/uploads/sites/219/2018/09/logo-itb-512px.png
+  name: Institut Teknologi Bandung
+  websiteURL: https://itb.ac.id
+- id: jds
+  logoURL: https://digitalservice.jabarprov.go.id/wp-content/uploads/2019/05/logo_jds.png
+  name: Jabar Digital Service (JDS)
+  websiteURL: https://digitalservice.jabarprov.go.id/
+- id: kalibrr
+  logoURL: https://www.kalibrr.com/sites/default/files/kalibrr_logo_new_0.png
+  name: Kalibrr
+  websiteURL:  https://kalibrr.com
+- id: kata.ai
+  logoURL: https://images.glints.com/unsafe/1024x0/glints-dashboard.s3.amazonaws.com/company-logo/82144fb386da7b64cec392b87c277faa.png
+  name: Kata.ai
+  websiteURL: https://www.kata.ai
+- id: kitabisa
+  logoURL: https://cdn-assets-1.urbanhire.com/careersite/96160b4c9eb0b5152470f09ab3343bfc4fbd437b.png
+  name: Kitabisa.com
+  websiteURL: https://www.kitabisa.com
+- id: kumparan
+  logoURL: gitshttps://www.go-dok.com/wp-content/uploads/2016/04/Kumparan-Logo-V4.png
+  name: Kumparan
+  websiteURL: https://www.kumparan.com
+- id: linkaja
+  logoURL: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/LinkAja.svg/1024px-LinkAja.svg.png
+  name: LinkAja
+  websiteURL:  https://www.linkaja.id
+- id: loket
+  logoURL: https://www.loket.com/images/logo-loket-blue.png
+  name: Loket
+  websiteURL: https://www.loket.com
+- id: microsoft
+  logoURL: https://cdn.pixabay.com/photo/2013/02/12/09/07/microsoft-80658_960_720.png
+  name: Microsoft Indonesia
+  websiteURL: https://www.microsoft.com/id-id
+- id: nodeflux
+  logoURL: https://i0.wp.com/d3g5ywftkpzr0e.cloudfront.net/wp-content/uploads/2019/04/15124237/nodeflux.png
+  name: Nodeflux
+  websiteURL: https://www.nodeflux.io
+- id: ovo
+  logoURL: https://i0.wp.com/minews.id/wp-content/uploads/2019/11/OVO-Logo.jpg
+  name: OVO
+  websiteURL: https://www.ovo.id
+- id: pahamify
+  logoURL: https://utbk.pahamify.com/img/logo_color.png
+  name: Pahamify
+  websiteURL: https://www.pahamify.com
+- id: schoters
+  logoURL: https://rec-data.kalibrr.com/www.kalibrr.com/logos/BTY5R9LJ7F43M8G9WHCBN2W4NG7YP8JBA9VR4SW8-5d6cc02f.png
+  name: Schoters
+  websiteURL: https://www.schoters.com
+- id: telkomuniversity
+  logoURL: https://upload.wikimedia.org/wikipedia/commons/0/03/Logo_Telkom_University_potrait.png
+  name: Telkom University
+  websiteURL: https://telkomuniversity.ac.id
+- id: tetrate
+  logoURL: https://pbs.twimg.com/profile_images/1015003140301549569/sV5XUpdF_400x400.jpg
+  name: Tetrate
+  websiteURL: https://www.tetrate.io
+- id: traveloka
+  logoURL: https://blog.traveloka.com/wp-content/uploads/2012/11/Traveloka_Primary_Logo.png
+  name: Traveloka
+  websiteURL: https://www.traveloka.com
