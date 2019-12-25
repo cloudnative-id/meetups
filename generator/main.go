@@ -103,6 +103,11 @@ func load(speakersFile, companiesFile, meetupsDir string) (*Config, error) {
 func exec(cfg *Config) (map[string][]byte, error) {
 	result := map[string][]byte{}
 	for _, mg := range cfg.MeetupGroups {
+		err := mg.SetMeetupList()
+		if err != nil {
+			return nil, err
+		}
+
 		b, err := tmpl(readmeTmpl, mg)
 		if err != nil {
 			return nil, err

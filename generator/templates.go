@@ -11,5 +11,14 @@ const (
 
 ## Organizers
 {{ range .Organizers }}- {{ . }}
+{{ end }}
+
+## Meetups
+{{ range .MeetupList }}
+### {{ .Title }}
+
+- Date: {{ .DateTime }}{{ if .Recording }}
+- Recording: {{ .Recording }}{{ end }}
+{{ range .Sponsors }}- {{ .Role }} sponsor: {{ .Company }}{{ end }}
 {{ end }}`
 )
