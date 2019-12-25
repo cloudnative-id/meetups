@@ -7,6 +7,7 @@ organizers:
 - indrajatiwidyatmoko
 meetups:
   "20190429":
+    title: "#1: Intro to Microservice and GRPC"
     presentations:
     - duration: 10m0s
       slides: ""
@@ -34,6 +35,7 @@ meetups:
     - company: deeptech
       role: Venue
   "20190511":
+    title: "#2: Messaging Pattern in Microservice & Intro to NATS Streaming Engine"
     presentations:
     - duration: 10m0s
       slides: ""
@@ -61,6 +63,7 @@ meetups:
     - company: deeptech
       role: Venue   
   "20190718":
+    title: "#3: Micro-frontend - Microservices in Frontend Web & Distributed Tracing with Jaeger"
     presentations:
     - duration: 10m0s
       slides: ""
@@ -89,6 +92,7 @@ meetups:
     - company: traveloka
       role: Venue      
   "20190829":
+    title: "#4: Going Deeper to Microservice Pattern and Philosophy"
     presentations:
     - duration: 10m0s
       slides: ""
@@ -122,6 +126,7 @@ meetups:
     - company: ovo
       role: Venue     
   "20191107":
+    title: "#5: Contributing to Envoy & Scaling Prometheus with Thanos"
     presentations:
     - duration: 10m0s
       slides: ""
