@@ -15,13 +15,17 @@
 
 #### Agenda
 
-- **Welcoming speech and opening**
+- **Welcoming speech and opening**: 
+
 	- imrenagi
-- **Envoy and Contributing to Open Source**
+- **Envoy and Contributing to Open Source**: 
+
 	- dio
-- **Scaling Prometheus with Thanos**
+- **Scaling Prometheus with Thanos**: 
+
 	- evan.adiprasetyo
-- **Hallway track (networking)**
+- **Hallway track (networking)**: 
+
 
 ### #4: Going Deeper to Microservice Pattern and Philosophy
 
@@ -30,15 +34,20 @@
 
 #### Agenda
 
-- **Welcoming speech and opening**
+- **Welcoming speech and opening**: 
+
 	- imrenagi
-- **Domain Driven Design: Preparing for Microservices Architecture**
+- **Domain Driven Design: Preparing for Microservices Architecture**: 
+
 	- kennard.wicoady
-- **Lifecycle and Scalabilty Microservice with Kubernetes**
+- **Lifecycle and Scalabilty Microservice with Kubernetes**: 
+
 	- martono.wibowo
-- **Between Orchestration and Choreography**
+- **Between Orchestration and Choreography**: 
+
 	- donnie.prakoso
-- **Hallway track (networking)**
+- **Hallway track (networking)**: 
+
 
 ### #3: Micro-frontend - Microservices in Frontend Web & Distributed Tracing with Jaeger
 
@@ -47,16 +56,18 @@
 
 #### Agenda
 
-- **Welcoming speech and opening**
+- **Welcoming speech and opening**: 
+
 	- imrenagi
 	- prakashdivy
-- **Microfrontends: extending microservices to the frontend**
+- **Microfrontends: extending microservices to the frontend**:  [[Recording]](https://www.youtube.com/watch?v=FGQVGSJPjH0&t=25s)
+
 	- resi.respati
-	- Recording: https://www.youtube.com/watch?v=FGQVGSJPjH0&t=25s
-- **Distributed Tracing with Jaeger**
+- **Distributed Tracing with Jaeger**:  [[Slides]](https://docs.google.com/presentation/d/1AKzNudQGLv8EZjnoAQkJjlt5ChtvfyAQ816kvjrTAxA/edit?usp=sharing)
+
 	- zulfa.achsani
-	- Slides: https://docs.google.com/presentation/d/1AKzNudQGLv8EZjnoAQkJjlt5ChtvfyAQ816kvjrTAxA/edit?usp=sharing
-- **Hallway track (networking)**
+- **Hallway track (networking)**: 
+
 
 ### #2: Messaging Pattern in Microservice & Intro to NATS Streaming Engine
 
@@ -65,32 +76,33 @@
 
 #### Agenda
 
-- **Welcoming speech and opening**
-	- armandcaesario
-- **Messaging Patterns**
-	- welly.tambunan
-	- Recording: https://www.youtube.com/watch?v=fszTBvZEZ_4
-- **Introdcution to NATS and Deploying NATS and Microservice application in GKE**
-	- imrenagi
-	- Slides: https://docs.google.com/presentation/d/1FtU8F2mDxe-U4cUBUHrpJmx6FTafUv0FETF1qcxobv4/edit?usp=sharing
-	- Recording: https://www.youtube.com/watch?v=w2J2S6v3K50
-- **Hallway track (networking)**
+- **Welcoming speech and opening**: 
 
-### #1: Intro to Microservice and GRPC
+	- armandcaesario
+- **Messaging Patterns**:  [[Recording]](https://www.youtube.com/watch?v=fszTBvZEZ_4)
+
+	- welly.tambunan
+- **Introdcution to NATS and Deploying NATS and Microservice application in GKE**:  [[Slides]](https://docs.google.com/presentation/d/1FtU8F2mDxe-U4cUBUHrpJmx6FTafUv0FETF1qcxobv4/edit?usp=sharing) [[Recording]](https://www.youtube.com/watch?v=w2J2S6v3K50)
+
+	- imrenagi
+- **Hallway track (networking)**: 
+
+
+### #1: Intro to Microservice and GRPCx
 
 - Date: Monday, 29 April 2019
 - Venue sponsor: deeptech
 
 #### Agenda
 
-- **Welcoming speech and opening**
+- **Welcoming speech and opening**: 
+
 	- imrenagi
-- **Introduction to Microservice**
+- **Introduction to Microservice**:  [[Slides]](https://slides.com/armandcaesario/microservicebasic#/) [[Recording]](https://www.youtube.com/watch?v=D6WJcjVPDbI)
+
 	- armandcaesario
-	- Slides: https://slides.com/armandcaesario/microservicebasic#/
-	- Recording: https://www.youtube.com/watch?v=D6WJcjVPDbI
-- **Introduction to gRPC**
+- **Introduction to gRPC**:  [[Slides]](https://www.slideshare.net/PrakashDivy/introduction-to-grpc) [[Recording]](https://www.youtube.com/watch?v=FeWwev0OBFA)
+
 	- prakashdivy
-	- Slides: https://www.slideshare.net/PrakashDivy/introduction-to-grpc
-	- Recording: https://www.youtube.com/watch?v=FeWwev0OBFA
-- **Hallway track (networking)**
+- **Hallway track (networking)**: 
+

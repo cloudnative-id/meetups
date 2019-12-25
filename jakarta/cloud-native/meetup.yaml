@@ -7,7 +7,7 @@ organizers:
 - indrajatiwidyatmoko
 meetups:
   "20190429":
-    title: "#1: Intro to Microservice and GRPC"
+    title: "#1: Intro to Microservice and GRPCx"
     presentations:
     - duration: 10m0s
       slides: ""
