@@ -16,3 +16,6 @@ generate:
 
 bin-generator:
 	go build -o bin/generator ./generator/...
+
+test:
+	go test ./generator/...	
