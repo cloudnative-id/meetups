@@ -61,7 +61,7 @@ meetups:
       speakers: null
       title: Hallway track (networking)
     sponsors:
-    - company: biznet
+    - company: biznet.gio
       role: Venue
   "20190312":
     title: "#3: Istio Night"
@@ -99,16 +99,6 @@ meetups:
       speakers:
       - girikuncoro
       title: Welcome from the organizers and upstream update
-    - duration: 5m0s
-      slides: https://drive.google.com/open?id=1x6JDfZhGQg4ey15DrMRWQEpJ6QUz8pKc
-      speakers:
-      - pradita.chandra.kurniawan
-      title: Using Containers for Hybrid IT (sponsored)
-    - duration: 5m0s
-      slides: https://drive.google.com/open?id=1eq8zGiVt6aV0NqMhP06dUPW_t-sM7BpM
-      speakers:
-      - willy
-      title: CBNCloud Overview and Solution (sponsored)
     - duration: 30m0s
       recording: https://www.youtube.com/watch?v=IePXdP02eIo&t=5633
       slides: https://drive.google.com/file/d/1UJa4lfR4wfrey37Ud4XkH3ynTNf5Y6kq/view?usp=sharing
@@ -179,7 +169,7 @@ meetups:
       recording: https://youtu.be/kBKuIN5kBYI
       slides: https://drive.google.com/open?id=1-OH3jkh-hse9jm4g6dUem0QSkZ4Dni22
       speakers:
-      - indrajati.widyatmoko
+      - indrajatiwidyatmoko
       title: Kubernetes Deployment, Rolling-Update, and Scaling
     - duration: 30m0s
       recording: https://youtu.be/xSEQb1FK0EY
@@ -236,7 +226,7 @@ meetups:
       recording: https://www.youtube.com/watch?v=bYFwBqfGsx4
       slides: http://ela.st/aravind
       speakers:
-      - arravind
+      - aravind
       title: Docker and Kubernetes Monitoring with Elastic Stack
     - duration: 30m0s
       recording: https://www.youtube.com/watch?v=drBa7aBwKtA
@@ -280,7 +270,7 @@ meetups:
       speakers: null
       title: Hallway track (networking)
     sponsors:
-    - company: femaledaily
+    - company: female.daily.network
       role: Venue
   "20191003":
     title: "#10: Stateful Components & Service Mesh Observability"
@@ -363,5 +353,5 @@ meetups:
       speakers: null
       title: Hallway track (networking)
     sponsors:
-    - company: awsusergroup
+    - company: aws
       role: Venue

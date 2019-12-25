@@ -70,3 +70,71 @@
   logoURL: https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png
   name: Amazon Web Service
   websiteURL: https://www.amazon.com
+- id: hijup
+  logoURL: "https://image4.owler.com/logo/hijup_owler_20170413_121942_original.png"
+  name: HIJUP
+  websiteURL: https://www.hijup.com
+- id: gopay
+  logoURL: https://member.id/wp-content/uploads/2019/09/logo-gopay.jpg
+  name: Gopay
+  websiteURL: https://www.gojek.com/gopay/
+- id: ecnet
+  logoURL: https://cdn.freebiesupply.com/logos/large/2x/ecnet-logo-png-transparent.png
+  name: ECnet (M) Sdn Bhd, Kuala Lumpur
+  websiteURL: https://www.ecnet.com
+- id: pahamify
+  logoURL: https://utbk.pahamify.com/img/logo_color.png
+  name: Pahamify
+  websiteURL: https://www.pahamify.com
+- id: loket
+  logoURL: https://www.loket.com/images/logo-loket-blue.png
+  name: Loket
+  websiteURL: https://www.loket.com
+- id: btech
+  logoURL: https://blog.hasbullahmarwan.com/wp-content/uploads/2018/09/logo-btech.png
+  name: Btech
+  websiteURL: https://www.btech.id
+- id: elastic
+  logoURL: https://logos-download.com/wp-content/uploads/2016/09/Elastic_logo.png
+  name: Elastic.co
+  websiteURL: https://www.elastic.co
+- id: alterra
+  logoURL: ""
+  name: Alterra Indonesia
+  websiteURL: https://www.alterra.id
+- id: nodeflux
+  logoURL: https://i0.wp.com/d3g5ywftkpzr0e.cloudfront.net/wp-content/uploads/2019/04/15124237/nodeflux.png
+  name: Nodeflux
+  websiteURL: https://www.nodeflux.io
+- id: schoters
+  logoURL: https://rec-data.kalibrr.com/www.kalibrr.com/logos/BTY5R9LJ7F43M8G9WHCBN2W4NG7YP8JBA9VR4SW8-5d6cc02f.png
+  name: Schoters
+  websiteURL: https://www.schoters.com
+- id: tetrate
+  logoURL: https://pbs.twimg.com/profile_images/1015003140301549569/sV5XUpdF_400x400.jpg
+  name: Tetrate
+  websiteURL: https://www.tetrate.io
+- id: bssn
+  logoURL: https://upload.wikimedia.org/wikipedia/commons/2/2c/LOGO_BSSN.png
+  name: Balai Sertifikasi Elektronik, Badan Siber dan Sandi Negara
+  websiteURL: https://bssn.go.id
+- id: kata.ai
+  logoURL: https://images.glints.com/unsafe/1024x0/glints-dashboard.s3.amazonaws.com/company-logo/82144fb386da7b64cec392b87c277faa.png
+  name: Kata.ai
+  websiteURL: https://www.kata.ai
+- id: kumparan
+  logoURL: gitshttps://www.go-dok.com/wp-content/uploads/2016/04/Kumparan-Logo-V4.png
+  name: Kumparan
+  websiteURL: https://www.kumparan.com
+- id: telkomuniversity
+  logoURL: https://upload.wikimedia.org/wikipedia/commons/0/03/Logo_Telkom_University_potrait.png
+  name: Telkom University
+  websiteURL: https://telkomuniversity.ac.id
+- id: itb    
+  logoURL: https://ditsti.itb.ac.id/wp-content/uploads/sites/219/2018/09/logo-itb-512px.png
+  name: Institut Teknologi Bandung
+  websiteURL: https://itb.ac.id
+- id: hpe
+  logoURL: 
+  name: HP Enterprise
+  websiteURL: https://hpe.com
