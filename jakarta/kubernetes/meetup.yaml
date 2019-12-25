@@ -27,10 +27,10 @@ meetups:
       title: Exploring KNative
     - duration: 30m0s
       recording: ""
-      slides: https://speakerdeck.com/luxas/intro-to-the-cloud-native-world-of-kubernetes-helsinki-october-meetup
+      slides: https://slides.com/qblfrb/kubernetesthe-ruby-way-71#
       speakers:
       - iqbalfarabi
-      title: https://slides.com/qblfrb/kubernetesthe-ruby-way-71#
+      title: Kubernetes Fundamentals, The Beginning
     - duration: 30m0s
       recording: ""
       slides: ""
