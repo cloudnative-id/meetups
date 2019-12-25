@@ -1,9 +1,0 @@
-[submodule "cloud-native-jakarta"]
-	path = cloud-native-jakarta
-	url = https://github.com/cloudnative-id/cloud-native-jakarta.git
-[submodule "kubernetes-cloud-native-bandung"]
-	path = kubernetes-cloud-native-bandung
-	url = https://github.com/cloudnative-id/kubernetes-cloud-native-bandung
-[submodule "kubernetes-jakarta"]
-	path = kubernetes-jakarta
-	url = https://github.com/jk8s/meetup

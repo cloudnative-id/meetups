@@ -11,9 +11,3 @@ MAKEFLAGS += --no-builtin-rules
 
 bin-generator:
 	go build -o bin/generator ./generator/...
-
-update:
-	git submodule foreach git pull origin master
-
-add:
-	git submodule add $(url) $(module)
