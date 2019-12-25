@@ -42,15 +42,23 @@ If you'd like to speak at a meetup, please join our telegram group and mention *
 
 ## How to maintain this repo
 
-### Update
-
+Update `meetup.yaml` in your city with latest meetup info
+```sh
+cd jakarta/kubernetes
+cat <<EOF >> meetup.yaml
+  "20180110":
+    title: "#1: Intro to Kubernetes and Knative"
+    presentations:
+    - duration: 30m0s
+      recording: https://www.youtube.com/watch?v=DZQOgIWN1pE
+      slides: https://bit.ly/knative
+      speakers:
+      - pahleviauliya
+      title: Exploring KNative
+EOF
 ```
-make update
-```
 
-### Add a new submodule
-
-Example:
-```
-make add url=git@github.com:jk8s/meetup.git module=kubernetes
+Generate the markdown file
+```sh
+make
 ```
