@@ -21,8 +21,7 @@ const (
 
 #### Agenda
 {{ range .Presentations }}
-- **{{ .Title }}**: {{ if .Slides }} [[Slides]]({{ .Slides }}){{ end }}{{ if .Recording }} [[Recording]]({{ .Recording }}){{ end }}
-{{ range .Speakers }}
+- **{{ .Title }}**: {{ if .Slides }} [[Slides]]({{ .Slides }}){{ end }}{{ if .Recording }} [[Recording]]({{ .Recording }}){{ end }}{{ range .Speakers }}
 	- {{ . }}{{ end }}{{ end }}
 {{ end }}`
 )
