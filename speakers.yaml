@@ -28,28 +28,28 @@
   twitter: ""
 - company: traveloka
   github: ""
-  id: irvi.fa
+  id: irvifa
   linkedin: ""
   name: Irvi Firqotul Aini
   title: Software Engineer
   twitter: ""
 - company: gopay
   github: ""
-  id: luklukaha
+  id: lukluk.santoso
   linkedin: ""
   name: Lukluk santoso
   title: product engineer
   twitter: ""
 - company: ecnet
   github: ""
-  id: dhanielluis
+  id: husni.alhamdani
   linkedin: ""
   name: Husni Alhamdani
   title: DevOps Engineer
   twitter: ""
 - company: pahamify
   github: ""
-  id: arkan.irsyad
+  id: arkan
   linkedin: ""
   name: Arkan Muhammad Irsyad
   title: Full Stack Engineer
@@ -77,7 +77,7 @@
   twitter: ""
 - company: google
   github: ""
-  id: lutfir
+  id: luthfi.rachman
   linkedin: ""
   name: Lutfi Rachman
   title: Technical Account Manager
@@ -91,28 +91,28 @@
   twitter: ""
 - company: alterra
   github: ""
-  id: kevinsetiawantanzil2
+  id: kevin.tanzil
   linkedin: ""
   name: Kevin Setiawan Tanzil
   title: Software Engineers
   twitter: ""
 - company: nodeflux
   github: ""
-  id: eutsat
+  id: eufrat.tsaqib
   linkedin: ""
   name: Eufrat Tsaqib
   title: Software Engineer
   twitter: ""
 - company: female.daily.network
   github: ""
-  id: ranggaadhitya
+  id: rangga.adhitya.prawira
   linkedin: ""
   name: Rangga Adhitya Prawira
   title: Full-Stack Developer
   twitter: ""
 - company: biznet.gio
   github: ""
-  id: yusufhadiwinata
+  id: yusuf.hadiwinata
   linkedin: ""
   name: Yusuf Hadiwinata Sutandar
   title: VP Operation & Services
@@ -140,7 +140,7 @@
   twitter: ""
 - company: bssn
   github: ""
-  id: arga.daywalker
+  id: arga.dhahana
   linkedin: ""
   name: Arga Dhahana Pramudianto
   title: PNS (Formal Role), System Engineer (Informal Role)
@@ -154,7 +154,7 @@
   twitter: ""
 - company: gopay
   github: ""
-  id: w.albertusd
+  id: william.dembo
   linkedin: ""
   name: William Albertus Dembo
   title: Cloud Platform Engineer
@@ -250,3 +250,27 @@
   name: Martono Wibowo
   title: Site Reliability Engineer
   twitter: ""  
+- company: telkomuniversity
+  github: ""
+  id: iqbalsyamil
+  linkedin: ""
+  name: Iqbal Syamil
+  title: Software Engineering Student
+  twitter: "" 
+- company: itb
+  github: ""
+  id: joshuabezaleel
+  linkedin: ""
+  name: "Joshua Bezaleel"
+  title: "Software Engineer Student"
+  twitter: ""
+- company: google
+  github: meteatamel
+  id: mete.atamel
+  linkedin: ""
+  name: "Mete Atamel"
+  title: "Developer Advocate"
+  twitter: ""
+
+
+  

@@ -102,6 +102,14 @@ type Company struct {
 	companyInternal
 }
 
+func (c Company) String() string {
+	var str string
+	if len(c.Name) != 0 {
+		str += fmt.Sprintf(" [%s](%s)", c.Name, c.WebsiteURL)
+	}
+	return str
+}
+
 type companyInternal struct {
 	ID         CompanyID `json:"id"`
 	Name       string    `json:"name"`

@@ -125,4 +125,16 @@
 - id: kumparan
   logoURL: gitshttps://www.go-dok.com/wp-content/uploads/2016/04/Kumparan-Logo-V4.png
   name: Kumparan
-  websiteURL: https://www.kumparan.com       
+  websiteURL: https://www.kumparan.com
+- id: telkomuniversity
+  logoURL: https://upload.wikimedia.org/wikipedia/commons/0/03/Logo_Telkom_University_potrait.png
+  name: Telkom University
+  websiteURL: https://telkomuniversity.ac.id
+- id: itb    
+  logoURL: https://ditsti.itb.ac.id/wp-content/uploads/sites/219/2018/09/logo-itb-512px.png
+  name: Institut Teknologi Bandung
+  websiteURL: https://itb.ac.id
+- id: hpe
+  logoURL: 
+  name: HP Enterprise
+  websiteURL: https://hpe.com

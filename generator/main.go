@@ -91,7 +91,6 @@ func load(speakersFile, companiesFile, meetupsDir string) (*Config, error) {
 		return nil
 	})
 
-	fmt.Println(meetupGroups[0].Meetups["20190429"].Presentations[0].Speakers[0])
 	if err != nil {
 		return nil, err
 	}

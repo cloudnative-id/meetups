@@ -107,7 +107,7 @@ meetups:
       recording: https://www.youtube.com/watch?v=u0Miv0Et_s8&feature=youtu.be
       slides: https://docs.google.com/presentation/d/1pUgTksN6qn3oDkSp8tmQB5QGzCl1T7R_Uphwulk6daI/edit?usp=sharing
       speakers:
-      - imre.nagi
+      - imrenagi
       title:  Introduction to Kubernetes RBAC
     - duration: 40m0s
       recording: ""

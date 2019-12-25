@@ -11,7 +11,7 @@
 ### #5: Contributing to Envoy & Scaling Prometheus with Thanos
 
 - Date: Thursday, 7 November 2019
-- Venue sponsor: {0xc00018a100}
+- Venue sponsor:  [Airy](https://www.airyrooms.com)
 
 #### Agenda
 
@@ -26,7 +26,7 @@
 ### #4: Going Deeper to Microservice Pattern and Philosophy
 
 - Date: Thursday, 29 August 2019
-- Venue sponsor: {0xc0001521c0}
+- Venue sponsor:  [OVO](https://www.ovo.id)
 
 #### Agenda
 
@@ -43,7 +43,7 @@
 ### #3: Micro-frontend - Microservices in Frontend Web & Distributed Tracing with Jaeger
 
 - Date: Thursday, 18 July 2019
-- Venue sponsor: {0xc000152180}
+- Venue sponsor:  [Traveloka](https://www.traveloka.com)
 
 #### Agenda
 
@@ -59,7 +59,7 @@
 ### #2: Messaging Pattern in Microservice & Intro to NATS Streaming Engine
 
 - Date: Saturday, 11 May 2019
-- Venue sponsor: {0xc000152140}
+- Venue sponsor:  [Deep Tech](https://www.deeptech.id)
 
 #### Agenda
 
@@ -74,7 +74,7 @@
 ### #1: Intro to Microservice and GRPC
 
 - Date: Monday, 29 April 2019
-- Venue sponsor: {0xc000152140}
+- Venue sponsor:  [Deep Tech](https://www.deeptech.id)
 
 #### Agenda
 
