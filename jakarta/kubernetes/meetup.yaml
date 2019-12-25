@@ -7,6 +7,7 @@ organizers:
 - iqbalfarabi
 meetups:
   "20180110":
+    title: "#1: Intro to Kubernetes and Knative"
     presentations:
     - duration: 2m0s
       slides: ""
