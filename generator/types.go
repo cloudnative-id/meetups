@@ -1,14 +1,22 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
 	"sort"
 	"time"
+
+	"github.com/rs/zerolog/log"
 )
 
 type SpeakerID string
 type CompanyID string
 type MeetupGroupID string
+
+var (
+	globalCompanyMap = map[CompanyID]*Company{}
+	globalSpeakerMap = map[SpeakerID]*Speaker{}
+)
 
 type SponsorRole string
 
@@ -19,20 +27,128 @@ var (
 )
 
 type Speaker struct {
-	ID       SpeakerID `json:"id"`
-	Name     string    `json:"name"`
-	Title    string    `json:"title"`
-	Company  string    `json:"company"`
-	Github   string    `json:"github"`
-	Twitter  string    `json:"twitter"`
-	Linkedin string    `json:"linkedin"`
+	speakerInternal
+}
+
+type speakerInternal struct {
+	ID       SpeakerID  `json:"id"`
+	Name     string     `json:"name"`
+	Title    string     `json:"title,omitempty"`
+	Company  CompanyRef `json:"company"`
+	Github   string     `json:"github"`
+	Twitter  string     `json:"twitter,omitempty"`
+	Linkedin string     `json:"linkedin,omitempty"`
+}
+
+func (s *Speaker) UnmarshalJSON(b []byte) error {
+	stest := speakerInternal{}
+	if err := json.Unmarshal(b, &stest); err != nil {
+		return fmt.Errorf("couldn't marshal speaker %q: %v", string(b), err)
+	}
+	s.speakerInternal = stest
+	if _, ok := globalSpeakerMap[s.ID]; ok {
+		log.Fatal().Msgf("Duplicate speaker found: %q", s.ID)
+	}
+	if s.Company.Company == nil {
+		log.Warn().Msgf("Speaker %q doesn't have a company", s.ID)
+	}
+	globalSpeakerMap[s.ID] = s
+	return nil
+}
+
+func (s Speaker) String() string {
+	str := s.Name
+	if len(s.Github) != 0 {
+		str += fmt.Sprintf(" [@%s](https://github.com/%s)", s.Github, s.Github)
+	}
+	if len(s.Title) != 0 {
+		str += fmt.Sprintf(", %s", s.Title)
+	}
+	if s.Company.Company != nil {
+		str += fmt.Sprintf(", [%s](%s)", s.Company.Name, s.Company.WebsiteURL)
+	}
+	return str
+}
+
+type SpeakerRef struct {
+	*Speaker `json:"-"`
+}
+
+func (s SpeakerRef) MarshalJSON() ([]byte, error) {
+	if s.Speaker == nil {
+		return []byte(`""`), nil
+	}
+	return []byte(`"` + s.ID + `"`), nil
+}
+
+func (s *SpeakerRef) UnmarshalJSON(b []byte) error {
+	if string(b) == "null" || string(b) == `""` {
+		*s = SpeakerRef{}
+		return nil
+	}
+	sid := SpeakerID("")
+	if err := json.Unmarshal(b, &sid); err != nil {
+		return fmt.Errorf("couldn't marshal speaker %q: %v", string(b), err)
+	}
+	speaker, ok := globalSpeakerMap[sid]
+	if !ok {
+		log.Fatal().Msgf("Speaker reference not found %q: %q", sid, string(b))
+	}
+	*s = SpeakerRef{speaker}
+	return nil
 }
 
 type Company struct {
+	companyInternal
+}
+
+type companyInternal struct {
 	ID         CompanyID `json:"id"`
 	Name       string    `json:"name"`
 	WebsiteURL string    `json:"websiteURL"`
 	LogoURL    string    `json:"logoURL"`
+}
+
+func (c *Company) UnmarshalJSON(b []byte) error {
+	ctest := companyInternal{}
+	if err := json.Unmarshal(b, &ctest); err != nil {
+		return fmt.Errorf("couldn't marshal company %q: %v", string(b), err)
+	}
+	c.companyInternal = ctest
+	if _, ok := globalCompanyMap[c.ID]; ok {
+		log.Fatal().Msgf("Duplicate company found: %q", c.ID)
+	}
+	globalCompanyMap[c.ID] = c
+	return nil
+}
+
+type CompanyRef struct {
+	*Company `json:"-"`
+}
+
+func (c CompanyRef) MarshalJSON() ([]byte, error) {
+	if c.Company == nil {
+		return []byte(`""`), nil
+	}
+	return []byte(`"` + c.ID + `"`), nil
+}
+
+func (c *CompanyRef) UnmarshalJSON(b []byte) error {
+	if string(b) == "null" || string(b) == `""` {
+		*c = CompanyRef{}
+		return nil
+	}
+	cid := CompanyID("")
+	if err := json.Unmarshal(b, &cid); err != nil {
+		return fmt.Errorf("couldn't marshal company %q: %v", string(b), err)
+	}
+
+	company, ok := globalCompanyMap[cid]
+	if !ok {
+		log.Fatal().Msgf("Company reference not found %q: %q", cid, string(b))
+	}
+	*c = CompanyRef{company}
+	return nil
 }
 
 type MeetupGroup struct {
@@ -93,15 +209,15 @@ func (m *Meetup) DateTime() string {
 
 type MeetupSponsor struct {
 	Role    SponsorRole `json:"role"`
-	Company string      `json:"company"`
+	Company CompanyRef  `json:"company"`
 }
 
 type Presentation struct {
-	Duration  string   `json:"duration"`
-	Title     string   `json:"title"`
-	Slides    string   `json:"slides"`
-	Recording string   `json:"recording,omitempty"`
-	Speakers  []string `json:"speakers"`
+	Duration  string       `json:"duration"`
+	Title     string       `json:"title"`
+	Slides    string       `json:"slides"`
+	Recording string       `json:"recording,omitempty"`
+	Speakers  []SpeakerRef `json:"speakers"`
 }
 
 type Config struct {

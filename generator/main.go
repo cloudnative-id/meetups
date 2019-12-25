@@ -41,14 +41,6 @@ func run() error {
 }
 
 func load(speakersFile, companiesFile, meetupsDir string) (*Config, error) {
-	speakers := []Speaker{}
-	speakersData, err := ioutil.ReadFile(speakersFile)
-	if err != nil {
-		return nil, err
-	}
-	if err := unmarshal(speakersData, &speakers); err != nil {
-		return nil, err
-	}
 
 	companies := []Company{}
 	companiesData, err := ioutil.ReadFile(companiesFile)
@@ -56,6 +48,15 @@ func load(speakersFile, companiesFile, meetupsDir string) (*Config, error) {
 		return nil, err
 	}
 	if err := unmarshal(companiesData, &companies); err != nil {
+		return nil, err
+	}
+
+	speakers := []Speaker{}
+	speakersData, err := ioutil.ReadFile(speakersFile)
+	if err != nil {
+		return nil, err
+	}
+	if err := unmarshal(speakersData, &speakers); err != nil {
 		return nil, err
 	}
 
@@ -89,6 +90,8 @@ func load(speakersFile, companiesFile, meetupsDir string) (*Config, error) {
 
 		return nil
 	})
+
+	fmt.Println(meetupGroups[0].Meetups["20190429"].Presentations[0].Speakers[0])
 	if err != nil {
 		return nil, err
 	}

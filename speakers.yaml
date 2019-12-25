@@ -5,9 +5,16 @@
   name: Giri Kuncoro
   title: CNCF Ambassador
   twitter: girikuncoro
+- company: gojek
+  github: iqbalfarabi
+  id: iqbalfarabi
+  linkedin: ""
+  name: Iqbal Farabi
+  title: Software Engineer
+  twitter: ""
 - company: hijup  
   github: ""
-  id: pahlevi.fikri.auliya
+  id: pahleviauliya
   linkedin: ""
   name: Pahlevi Fikri Auliya
   title: CTO
@@ -111,8 +118,8 @@
   title: VP Operation & Services
   twitter: ""
 - company: schoters
-  github: ""
-  id: imre.nagi
+  github: "imrenagi"
+  id: imrenagi
   linkedin: ""
   name: Imre Nagi
   title: CTO & Co-founder
