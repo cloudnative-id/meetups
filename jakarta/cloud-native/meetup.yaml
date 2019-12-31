@@ -39,7 +39,7 @@ meetups:
     presentations:
     - duration: 10m0s
       slides: ""
-      speakers: 
+      speakers:
       - armandcaesario
       title: Welcoming speech and opening
     - duration: 35m0s
@@ -61,13 +61,13 @@ meetups:
       title: Hallway track (networking)
     sponsors:
     - company: deeptech
-      role: Venue   
+      role: Venue
   "20190718":
     title: "#3: Micro-frontend - Microservices in Frontend Web & Distributed Tracing with Jaeger"
     presentations:
     - duration: 10m0s
       slides: ""
-      speakers: 
+      speakers:
       - imrenagi
       - prakashdivy
       title: Welcoming speech and opening
@@ -90,13 +90,13 @@ meetups:
       title: Hallway track (networking)
     sponsors:
     - company: traveloka
-      role: Venue      
+      role: Venue
   "20190829":
     title: "#4: Going Deeper to Microservice Pattern and Philosophy"
     presentations:
     - duration: 10m0s
       slides: ""
-      speakers: 
+      speakers:
       - imrenagi
       title: Welcoming speech and opening
     - duration: 35m0s
@@ -124,13 +124,13 @@ meetups:
       title: Hallway track (networking)
     sponsors:
     - company: ovo
-      role: Venue     
+      role: Venue
   "20191107":
     title: "#5: Contributing to Envoy & Scaling Prometheus with Thanos"
     presentations:
     - duration: 10m0s
       slides: ""
-      speakers: 
+      speakers:
       - imrenagi
       title: Welcoming speech and opening
     - duration: 35m0s
@@ -152,4 +152,4 @@ meetups:
       title: Hallway track (networking)
     sponsors:
     - company: airy
-      role: Venue           
+      role: Venue

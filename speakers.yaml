@@ -12,7 +12,7 @@
   name: Iqbal Farabi
   title: Software Engineer
   twitter: ""
-- company: hijup  
+- company: hijup
   github: ""
   id: pahleviauliya
   linkedin: ""
@@ -179,7 +179,7 @@
   linkedin:
   name: Prakash Divy
   title: Software Engineer
-  twitter: ""  
+  twitter: ""
 - company: gits.indonesia
   github: ""
   id: pambudiono.os
@@ -212,8 +212,8 @@
   github: ""
   id: aditya.satrya
   linkedin:
-  name: Aditya Satrya 
-  title: Head of Engineering 
+  name: Aditya Satrya
+  title: Head of Engineering
   twitter: ""
 - company: traveloka
   github: ""
@@ -249,14 +249,14 @@
   linkedin: ""
   name: Martono Wibowo
   title: Site Reliability Engineer
-  twitter: ""  
+  twitter: ""
 - company: telkomuniversity
   github: ""
   id: iqbalsyamil
   linkedin: ""
   name: Iqbal Syamil
   title: Software Engineering Student
-  twitter: "" 
+  twitter: ""
 - company: itb
   github: ""
   id: joshuabezaleel
