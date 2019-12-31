@@ -5,6 +5,7 @@ organizers:
 - irvifa
 - imrenagi
 - iqbalfarabi
+- eufrattsaqib
 meetups:
   "20190110":
     title: "#1: Intro to Kubernetes and Knative"
