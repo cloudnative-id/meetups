@@ -1,11 +1,11 @@
 # Meetups organized by Jakarta Kubernetes
 
 ## Organizers
+- eufrattsaqib
 - girikuncoro
 - irvifa
 - imrenagi
 - iqbalfarabi
-- eufrattsaqib
 
 ## Meetups
 

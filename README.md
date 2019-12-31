@@ -9,11 +9,11 @@ Repository to gather all meetup information and slides from Kubernetes and Cloud
   * Zufar Dhiyaulhaq [@zufardhiyaulhaq](https://github.com/zufardhiyaulhaq), [Telkom University](https://telkomuniversity.ac.id)
 
 * [Jakarta/Kubernetes](jakarta/kubernetes/README.md)
+  * Eufrat Tsaqib [@eufat](https://github.com/eufat), [Nodeflux](https://www.nodeflux.io)
   * Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), [Gojek](https://gojek.io)
   * Imre Nagi [@imrenagi](https://github.com/imrenagi), [Google Developer Expert](https://developers.google.com/community/experts)
   * Iqbal Farabi [@qbl](https://github.com/qbl), [Gojek](https://gojek.io)
   * Irvi Aini [@irvifa](https://github.com/irvifa), [Traveloka](https://https://www.traveloka.com)
-  * Eufrat Tsaqib [@eufat](https://github.com/irvifa), [Nodeflux](https://https://www.nodeflux.io)
 
 * [Jakarta/Cloud Native](jakarta/cloud-native/README.md)
   * Armand Caesario [@mandocaesar](http://github.com/mandocaesar), [Kata.ai](https://kata.ai)
