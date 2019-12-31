@@ -1,7 +1,7 @@
 - id: 99.co
   logoURL: https://i.postimg.cc/J0gGYJTj/unnamed.png
   name: 99.co
-  websiteURL: https://www.99.co/id 
+  websiteURL: https://www.99.co/id
 - id: airy
   logoURL: https://blogpictures.99.co/aplikasi-booking-hotel-5.png
   name: Airy
@@ -67,14 +67,14 @@
   name: Gopay
   websiteURL: https://www.gojek.com/gopay/
 - id: hpe
-  logoURL: 
+  logoURL:
   name: HP Enterprise
   websiteURL: https://hpe.com
 - id: hijup
   logoURL: "https://image4.owler.com/logo/hijup_owler_20170413_121942_original.png"
   name: HIJUP
   websiteURL: https://www.hijup.com
-- id: itb    
+- id: itb
   logoURL: https://ditsti.itb.ac.id/wp-content/uploads/sites/219/2018/09/logo-itb-512px.png
   name: Institut Teknologi Bandung
   websiteURL: https://itb.ac.id
