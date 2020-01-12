@@ -2,25 +2,25 @@
 
 Repository to gather all meetup information and slides from Kubernetes and Cloud Native Indonesia meetups:
 
-* [Bandung](bandung/README.md)
+* [Bandung](bandung/README.md) ([meetup group](https://www.meetup.com/Kubernetes-and-Cloud-Native-Bandung))
   * Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), [Gojek](https://gojek.io)
   * Iqbal Syamil [@2pai](https://github.com/2pai), [Telkom University](https://telkomuniversity.ac.id)
   * Joshua Bezaleel [@joshuabezaleel](https://github.com/joshuabezaleel), [Institut Teknologi Bandung](https://www.itb.ac.id)
   * Zufar Dhiyaulhaq [@zufardhiyaulhaq](https://github.com/zufardhiyaulhaq), [Telkom University](https://telkomuniversity.ac.id)
 
-* [Jakarta/Kubernetes](jakarta/kubernetes/README.md)
+* [Jakarta/Kubernetes](jakarta/kubernetes/README.md) ([meetup group](https://www.meetup.com/jakarta-kubernetes))
   * Eufrat Tsaqib [@eufat](https://github.com/eufat), [Nodeflux](https://www.nodeflux.io)
   * Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), [Gojek](https://gojek.io)
   * Imre Nagi [@imrenagi](https://github.com/imrenagi), [Google Developer Expert](https://developers.google.com/community/experts)
   * Iqbal Farabi [@qbl](https://github.com/qbl), [Gojek](https://gojek.io)
   * Irvi Aini [@irvifa](https://github.com/irvifa), [Traveloka](https://www.traveloka.com)
 
-* [Jakarta/Cloud Native](jakarta/cloud-native/README.md)
+* [Jakarta/Cloud Native](jakarta/cloud-native/README.md) ([meetup group](https://www.meetup.com/Microservice-JKT))
   * Armand Caesario [@mandocaesar](http://github.com/mandocaesar), [Kata.ai](https://kata.ai)
   * Imre Nagi [@imrenagi](https://github.com/imrenagi), [Google Developer Expert](https://developers.google.com/community/experts)
   * Prakash Divyy [@prakashdivyy](http://github.com/prakashdivyy), [Kata.ai](https://kata.ai)
 
-* [Yogyakarta](yogyakarta/README.md)
+* [Yogyakarta](yogyakarta/README.md) ([meetup group](https://www.meetup.com/Kubernetes-and-Cloud-Native-Yogyakarta))
   * Agastyo Satriaji Idam [@satriajidam](https://github.com/satriajidam), [Ruangguru](http://www.ruangguru.com/)
   * Ary Dwi Marta P [@arydwimarta](https://github.com/arydwimarta), [Mamikos](https://mamikos.com/)
   * Deny Prasetyo [@jasoet](http://github.com/jasoet), [Gojek](https://gojek.io)
