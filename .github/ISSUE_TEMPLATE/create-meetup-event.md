@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-## Scheduled to happen: <!-- Thu, 2019-11-21 -->
+## Scheduled to happen: <TODO: Thu, YYYY-MM-DD>
 
 ## Steps
 
@@ -18,10 +18,10 @@ Update the checklist accordingly and add comment on meetup.com event page link.
 -->
 ### 2-4 weeks before the event
 - [ ] Decide on date
-- [ ] Find speaker 1 (refer to TODO)
-- [ ] Find speaker 2
-- [ ] Find venue sponsor (refer to TODO)
-- [ ] Get speakers to fill up [speaker form]( [speaker form](https://docs.google.com/forms/d/e/1FAIpQLSewmKuIlk37uye_sgyqed9k2gSPhVf4yy9KGZskA1NjAXq6cw/viewform))
+- [ ] Find speaker 1: <TODO: speaker-name>
+- [ ] Find speaker 2: <TODO: speaker-name>
+- [ ] Find venue sponsor: <TODO: venue-sponsor-name>
+- [ ] Get speakers to fill up [speaker form](https://docs.google.com/forms/d/e/1FAIpQLSewmKuIlk37uye_sgyqed9k2gSPhVf4yy9KGZskA1NjAXq6cw/viewform)
 
 ### 1 week before the event
 - [ ] Create meetup.com event page (refer to TODO)
