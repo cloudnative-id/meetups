@@ -21,7 +21,7 @@ Update the checklist accordingly and add comment on meetup.com event page link.
 - [ ] Find speaker 1 (refer to TODO)
 - [ ] Find speaker 2
 - [ ] Find venue sponsor (refer to TODO)
-- [ ] Get speakers to fill up speaker form (refer to TODO)
+- [ ] Get speakers to fill up [speaker form]( [speaker form](https://docs.google.com/forms/d/e/1FAIpQLSewmKuIlk37uye_sgyqed9k2gSPhVf4yy9KGZskA1NjAXq6cw/viewform))
 
 ### 1 week before the event
 - [ ] Create meetup.com event page (refer to TODO)
