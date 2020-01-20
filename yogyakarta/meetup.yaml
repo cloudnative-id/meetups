@@ -22,7 +22,7 @@ meetups:
       - jasoet
       title: Cloud and Kubernetes The introduction
     - duration: 30m0s
-      recording:
+      recording: https://youtu.be/kj2uMG5SJqs
       slides: https://gourl.page.link/auKP
       speakers:
       - satriajidam
