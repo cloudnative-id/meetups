@@ -16,13 +16,13 @@
 
 #### Agenda
 
-- **Welcome from the organizers and upstream update**:  [[Slides]](https://docs.google.com/presentation/d/1Mwy6iZrgTp2irpg_n_AwbOS9C27UXagvL9KL5x1A19k)
+- **Welcome from the organizers and upstream update**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/12-community-slide.pdf)
 	- Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), CNCF Ambassador, [gojek](https://gojek.io)
-- **Intro to Kubernetes Autoscaling: HPA, VPA, CA, and beyond**:  [[Slides]](https://docs.google.com/presentation/d/1p-PwgOk_DLZkTmGRTK37PLOut2rxWUXxnPOqPmKZ2t4) [[Recording]](https://youtu.be/3j_IUiPflf4)
+- **Intro to Kubernetes Autoscaling: HPA, VPA, CA, and beyond**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/12-intro-to-kubernetes-autoscaling.pdf) [[Recording]](https://youtu.be/3j_IUiPflf4)
 	- William Albertus Dembo, Cloud Platform Engineer, [Gopay](https://www.gojek.com/gopay/)
-- **Airy's Journey on Adopting Kubernetes in AWS and Intro to Telepresence**:  [[Slides]](https://drive.google.com/open?id=1g6RkmYd4rC8iBt5gNFKCa5IkHQYoD6Jw) [[Recording]](https://www.youtube.com/watch?v=idUYQ7NRw4A)
+- **Airy's Journey on Adopting Kubernetes in AWS and Intro to Telepresence**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/12-airy-journey-on-adopting-kubernetes-in-aws-and-intro-to-telepresence.pdf) [[Recording]](https://www.youtube.com/watch?v=idUYQ7NRw4A)
 	- Kurnianto Trilaksono, Infrastructure / DevSecOps Engineer, [Airy](https://www.airyrooms.com)
-- **Hallway track (networking)**:
+- **Hallway track (networking)**: 
 
 ### #11: Extending Kubernetes with Custom Resource & Optimizing Java Containers
 
@@ -31,13 +31,13 @@
 
 #### Agenda
 
-- **Welcome from the organizers and upstream update**:  [[Slides]](https://docs.google.com/presentation/d/11a4ENdfBMDGb-xnSMoLZeI-E3R-cEddTkyde7No_NLY)
+- **Welcome from the organizers and upstream update**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/11-community-slide.pdf)
 	- Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), CNCF Ambassador, [gojek](https://gojek.io)
-- **Extending Kubernetes with Custom Resources**:  [[Slides]](https://speakerdeck.com/reyhansofian/extending-kubernetes-with-custom-resources) [[Recording]](https://youtu.be/tnb4Uu7BW1g)
+- **Extending Kubernetes with Custom Resources**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/11-extending-kubernetes-using-custom-resource.pdf) [[Recording]](https://youtu.be/tnb4Uu7BW1g)
 	- Reyhan Sofian Haqqi, Software Engineer, [Kata.ai](https://www.kata.ai)
-- **Optimizing Java Containers on Kubernetes for Government Usecases**:  [[Slides]](https://drive.google.com/file/d/1UvCYitOMxGA4DAm0YqsuB-4BoeT6jXCF/view)
+- **Optimizing Java Containers on Kubernetes for Government Usecases**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/11-optimizing-java-containers-for-government-usecases.pdf)
 	- Arga Dhahana Pramudianto, PNS (Formal Role), System Engineer (Informal Role), [Balai Sertifikasi Elektronik, Badan Siber dan Sandi Negara](https://bssn.go.id)
-- **Hallway track (networking)**:
+- **Hallway track (networking)**: 
 
 ### #10: Stateful Components & Service Mesh Observability
 
@@ -46,13 +46,13 @@
 
 #### Agenda
 
-- **Welcome from the organizers and upstream update**:  [[Slides]](https://docs.google.com/presentation/d/1n6_r_7iCxBrgxO00fdJbexkX8Zy1uvBlgM5M74DvSQQ)
+- **Welcome from the organizers and upstream update**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/10-community-slide.pdf)
 	- Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), CNCF Ambassador, [gojek](https://gojek.io)
-- **Intro to StatefulSet with Case Study of Deploying Various Stateful Components**:  [[Slides]](https://docs.google.com/presentation/d/1x1Qsfujw4WU7ucf-Lq-wdEcMcSg-u0E5QifJD5w2Flc) [[Recording]](https://youtu.be/69voJLpcGLU)
+- **Intro to StatefulSet with Case Study of Deploying Various Stateful Components**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/10-kubernetes-statefulset.pdf) [[Recording]](https://youtu.be/69voJLpcGLU)
 	- Imre Nagi [@imrenagi](https://github.com/imrenagi), CTO & Co-founder, [Schoters](https://www.schoters.com)
-- **Service Mesh Observability with Kiali**:  [[Slides]](https://www.slideshare.net/isnuryusuf/kubernetes-jakarta-meetup-010-service-mesh-observability-with-kiali) [[Recording]](https://youtu.be/vX5-VIVvlmE)
+- **Service Mesh Observability with Kiali**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/10-service-mesh-observability-with-kiali.pdf) [[Recording]](https://youtu.be/vX5-VIVvlmE)
 	- Yusuf Hadiwinata Sutandar, VP Operation & Services, [Biznet Gio](https://www.biznetgio.com)
-- **Hallway track (networking)**:
+- **Hallway track (networking)**: 
 
 ### #9: Helm Intro & GPU on Kubernetes for Machine Learning
 
@@ -61,13 +61,13 @@
 
 #### Agenda
 
-- **Welcome from the organizers and upstream update**:  [[Slides]](https://docs.google.com/presentation/d/12fqgtxd9H9fxsT5szOFkS87r8lm6XcZkF2Bvs46Uaec)
+- **Welcome from the organizers and upstream update**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/09-community-slide.pdf)
 	- Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), CNCF Ambassador, [gojek](https://gojek.io)
-- **Helm Intro, The Package Manager for Kubernetes**:  [[Slides]](https://docs.google.com/presentation/d/1LAiZXFLG5GzgJABnfUy_tyhUtMfwa1JIiUI6lEwf378) [[Recording]](https://youtu.be/pwuavFIsrA8)
+- **Helm Intro, The Package Manager for Kubernetes**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/09-helm-intro-package-manager-for-kubernetes.pdf) [[Recording]](https://youtu.be/pwuavFIsrA8)
 	- Rangga Adhitya Prawira, Full-Stack Developer, [Female Daily Network](https://www.femaledaily.com)
-- **GPU and Kubernetes for Machine Learning**:  [[Slides]](https://docs.google.com/presentation/d/1a0gMSbMh4q_qZDhdO7pW-z-JqrOP5KpIZayPRM6fxsg) [[Recording]](https://youtu.be/o0O6ACyxkko)
+- **GPU and Kubernetes for Machine Learning**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/09-gpu-and-kubernetes-for-machine-learning.pdf) [[Recording]](https://youtu.be/o0O6ACyxkko)
 	- Eufrat Tsaqib, Software Engineer, [Nodeflux](https://www.nodeflux.io)
-- **Hallway track (networking)**:
+- **Hallway track (networking)**: 
 
 ### #8: Kubernetes Monitoring and Stateful Basics
 
@@ -76,15 +76,15 @@
 
 #### Agenda
 
-- **Welcome from the organizers and upstream update**:  [[Slides]](https://docs.google.com/presentation/d/17s2c0NaeK_-GC6H0yuBG6mjdADGdVW-KuV1zAl-281o)
+- **Welcome from the organizers and upstream update**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/08-community-slide.pdf)
 	- Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), CNCF Ambassador, [gojek](https://gojek.io)
 	- Iqbal Farabi [@iqbalfarabi](https://github.com/iqbalfarabi), Software Engineer, [gojek](https://gojek.io)
-	- Irvi Firqotul Aini, Software Engineer, [Traveloka](https://www.traveloka.com)
+	- Irvi Firqotul Aini [@irvifa](https://github.com/irvifa), Software Engineer, [Traveloka](https://www.traveloka.com)
 - **Docker and Kubernetes Monitoring with Elastic Stack**:  [[Slides]](http://ela.st/aravind) [[Recording]](https://www.youtube.com/watch?v=bYFwBqfGsx4)
 	- Aravind Putrevu, Developer Advocate, [Elastic.co](https://www.elastic.co)
-- **Basic of Stateful and Storage in Kubernetes**:  [[Slides]](https://docs.google.com/presentation/d/17UnrPmXNZS8EW3CbslDyC0iDb9O1cKjWV8K2r-ZMF1Q) [[Recording]](https://www.youtube.com/watch?v=drBa7aBwKtA)
+- **Basic of Stateful and Storage in Kubernetes**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/08-basic-of-stateful-and-storage-in-kubernetes.pdf) [[Recording]](https://www.youtube.com/watch?v=drBa7aBwKtA)
 	- Kevin Setiawan Tanzil, Software Engineers, [Alterra Indonesia](https://www.alterra.id)
-- **Hallway track (networking)**:
+- **Hallway track (networking)**: 
 
 ### #7: Kubernetes Birthday Celebration
 
@@ -93,15 +93,15 @@
 
 #### Agenda
 
-- **Welcome from the organizers and upstream update**:  [[Slides]](https://docs.google.com/presentation/d/13jUXXzYlhRktwyJapjGeaPD-Bfz52dXyp3WP1RoU_O8)
+- **Welcome from the organizers and upstream update**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/07-community-slide.pdf)
 	- Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), CNCF Ambassador, [gojek](https://gojek.io)
 	- Imre Nagi [@imrenagi](https://github.com/imrenagi), CTO & Co-founder, [Schoters](https://www.schoters.com)
-	- Irvi Firqotul Aini, Software Engineer, [Traveloka](https://www.traveloka.com)
-- **Security Practices in Kubernetes**:
+	- Irvi Firqotul Aini [@irvifa](https://github.com/irvifa), Software Engineer, [Traveloka](https://www.traveloka.com)
+- **Security Practices in Kubernetes**: 
 	- Lutfi Rachman, Technical Account Manager, [Google](https://google.com)
-- **Kuryr Kubernetes: Interconnecting Kubernetes with Openstack**:  [[Slides]](https://docs.google.com/presentation/d/10KbPoYup4oKp-gCsXxMGJ7fNNfvWwXfYWHfTiBDZOHs)
+- **Kuryr Kubernetes: Interconnecting Kubernetes with Openstack**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/07-kuryr-kubernetes-interconnecting-kubernetes-with-openstack.pdf)
 	- Zufar Dhiyaulhaq, Cloud Engineer, [Btech](https://www.btech.id)
-- **Hallway track (networking)**:
+- **Hallway track (networking)**: 
 
 ### #6: Service Mesh in AWS and Kube Deployment
 
@@ -110,14 +110,14 @@
 
 #### Agenda
 
-- **Welcome from the organizers and upstream update**:  [[Slides]](https://docs.google.com/presentation/d/1YxwY4yuUT1t0YuPbrulLIG1QUz80Wlv9PxJFxtvL0J0)
+- **Welcome from the organizers and upstream update**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/06-community-slide.pdf)
 	- Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), CNCF Ambassador, [gojek](https://gojek.io)
 	- Imre Nagi [@imrenagi](https://github.com/imrenagi), CTO & Co-founder, [Schoters](https://www.schoters.com)
-- **Kubernetes Deployment, Rolling-Update, and Scaling**:  [[Slides]](https://drive.google.com/open?id=1-OH3jkh-hse9jm4g6dUem0QSkZ4Dni22) [[Recording]](https://youtu.be/kBKuIN5kBYI)
+- **Kubernetes Deployment, Rolling-Update, and Scaling**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/06-kubernetes-deployment-rolling-update-scaling.pdf) [[Recording]](https://youtu.be/kBKuIN5kBYI)
 	- Indrajati Widyatmoko, Engineer, [Loket](https://www.loket.com)
-- **Service Mesh with AWS**:  [[Slides]](https://drive.google.com/file/d/179J8jbbCQnPtIiZKMNc5R_QVzCILnQVa) [[Recording]](https://youtu.be/xSEQb1FK0EY)
+- **Service Mesh with AWS**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/06-service-mesh-on-aws.pdf) [[Recording]](https://youtu.be/xSEQb1FK0EY)
 	- Donnie Prakoso, Evangelist, [Amazon Web Service](https://www.amazon.com)
-- **Hallway track (networking)**:
+- **Hallway track (networking)**: 
 
 ### #5: Kubernetes Networking, CKA, and How to Contribute
 
@@ -126,16 +126,16 @@
 
 #### Agenda
 
-- **Welcome from the organizers and upstream update**:  [[Slides]](https://docs.google.com/presentation/d/1IQ4crMU4nHb2udkb14fYz_UFcRWWI-vLV5yAjWk402k)
+- **Welcome from the organizers and upstream update**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/05-community-slide.pdf)
 	- Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), CNCF Ambassador, [gojek](https://gojek.io)
-- **Networking Model and Services in Kubernetes**:  [[Slides]](https://docs.google.com/presentation/d/1vcHsUL8f4PwYJaHKeQLkWG_s8np6Mj8C6IlwumcBS2w) [[Recording]](https://youtu.be/lJeKWFSy2nM)
+- **Networking Model and Services in Kubernetes**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/05-networking-model-and-services-in-kubernetes.pdf) [[Recording]](https://youtu.be/lJeKWFSy2nM)
 	- Arkan Muhammad Irsyad, Full Stack Engineer, [Pahamify](https://www.pahamify.com)
-- **Journey and Tips on Passing CKA Certification**:  [[Slides]](https://docs.google.com/presentation/d/1IJctTisfRQhTgkpyVUmgH3X6z9ozrXeJ8ta_6uSIt80) [[Recording]](https://youtu.be/AX-Rgs0SRrs)
+- **Journey and Tips on Passing CKA Certification**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/05-journey-and-tips-passing-cka-certification.pdf) [[Recording]](https://youtu.be/AX-Rgs0SRrs)
 	- Husni Alhamdani, DevOps Engineer, [ECnet (M) Sdn Bhd, Kuala Lumpur](https://www.ecnet.com)
-- **How to Become Kubernetes Contributor**:  [[Slides]](https://docs.google.com/presentation/d/1Bl0Msa_DUbwoY_d5_FAao9SzbYJKnvPRAVxmSMvSvzI) [[Recording]](https://www.youtube.com/watch?v=Zi2CzdQjx2Y)
-	- Irvi Firqotul Aini, Software Engineer, [Traveloka](https://www.traveloka.com)
+- **How to Become Kubernetes Contributor**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/05-how-to-contribute-to-kubernetes.pdf) [[Recording]](https://www.youtube.com/watch?v=Zi2CzdQjx2Y)
+	- Irvi Firqotul Aini [@irvifa](https://github.com/irvifa), Software Engineer, [Traveloka](https://www.traveloka.com)
 	- Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), CNCF Ambassador, [gojek](https://gojek.io)
-- **Hallway track (networking)**:
+- **Hallway track (networking)**: 
 
 ### #4: Kubernetes API Server and Service Discovery
 
@@ -144,13 +144,13 @@
 
 #### Agenda
 
-- **Welcome from the organizers and upstream update**:  [[Slides]](https://docs.google.com/presentation/d/1rDsxoPaHUW7VWFLypTXkllr5QjPKD0s8Zb9rmj6VToQ/edit?usp=sharing)
+- **Welcome from the organizers and upstream update**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/04-community-slide.pdf)
 	- Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), CNCF Ambassador, [gojek](https://gojek.io)
-- **Service Discovery with Consul on Kubernetes**:  [[Slides]](https://drive.google.com/file/d/1UJa4lfR4wfrey37Ud4XkH3ynTNf5Y6kq/view?usp=sharing) [[Recording]](https://www.youtube.com/watch?v=IePXdP02eIo&t=5633)
+- **Service Discovery with Consul on Kubernetes**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/04-consul-and-kubernetes.pdf) [[Recording]](https://www.youtube.com/watch?v=IePXdP02eIo&t=5633)
 	- Lukluk santoso, product engineer, [Gopay](https://www.gojek.com/gopay/)
-- **Understanding Kubernetes API Server**:  [[Slides]](https://docs.google.com/presentation/d/1zwiAjqGpyC4_lCUUFfklYdbSruQVvmKk3Jy6AAzXg-g/edit) [[Recording]](https://www.youtube.com/watch?v=IePXdP02eIo&t=3700)
-	- Irvi Firqotul Aini, Software Engineer, [Traveloka](https://www.traveloka.com)
-- **Hallway track (networking)**:
+- **Understanding Kubernetes API Server**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/04-kubernetes-api-server.pdf) [[Recording]](https://www.youtube.com/watch?v=IePXdP02eIo&t=3700)
+	- Irvi Firqotul Aini [@irvifa](https://github.com/irvifa), Software Engineer, [Traveloka](https://www.traveloka.com)
+- **Hallway track (networking)**: 
 
 ### #3: Istio Night
 
@@ -159,13 +159,13 @@
 
 #### Agenda
 
-- **Welcome from the organizers and upstream update**:  [[Slides]](https://slides.com/qblfrb/istio-night)
+- **Welcome from the organizers and upstream update**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/03-community-slide.pdf)
 	- Iqbal Farabi [@iqbalfarabi](https://github.com/iqbalfarabi), Software Engineer, [gojek](https://gojek.io)
-- **Stop Reinventing The Wheel with Istio**:  [[Slides]](https://speakerdeck.com/meteatamel/stop-reinventing-the-wheel-with-istio) [[Recording]](https://www.youtube.com/watch?v=q-RWPjnJ2Y0&t=149)
+- **Stop Reinventing The Wheel with Istio**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/03-stop-reinventing-the-wheel-with-istio.pdf) [[Recording]](https://www.youtube.com/watch?v=q-RWPjnJ2Y0&t=149)
 	- Mete Atamel [@meteatamel](https://github.com/meteatamel), Developer Advocate, [Google](https://google.com)
-- **Running Istio in TVLK Data Production**:  [[Slides]](https://docs.google.com/presentation/d/1qaREEr4kqTNDKyShAMcZbb6J7ETDPZdjUYo6aOTLC4Y) [[Recording]](https://www.youtube.com/watch?v=q-RWPjnJ2Y0&t=2974)
+- **Running Istio in TVLK Data Production**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/03-running-istio-in-traveloka-data-production.pdf) [[Recording]](https://www.youtube.com/watch?v=q-RWPjnJ2Y0&t=2974)
 	- Imre Nagi [@imrenagi](https://github.com/imrenagi), CTO & Co-founder, [Schoters](https://www.schoters.com)
-- **Hallway track (networking)**:
+- **Hallway track (networking)**: 
 
 ### #2: Kubernetes Architecture & Bukalapak Casestudy
 
@@ -174,13 +174,13 @@
 
 #### Agenda
 
-- **Welcome from the organizers and upstream update**:  [[Slides]](https://docs.google.com/presentation/d/170UG-e5XoEEpq6YUVOGDq6kPIwHOFBGWU0LppmWdc7o)
+- **Welcome from the organizers and upstream update**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/02-community-slide.pdf)
 	- Imre Nagi [@imrenagi](https://github.com/imrenagi), CTO & Co-founder, [Schoters](https://www.schoters.com)
-- **Kubernetes Architecture and Installation**:  [[Slides]](https://docs.google.com/presentation/d/1-k5j5nORkBZ1gRIXicmIT9pdjhExlZdthGjyMBaV0pY) [[Recording]](https://www.youtube.com/watch?v=eGUc4OPNMyU)
+- **Kubernetes Architecture and Installation**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/02-kubernetes-architecture-and-installation.pdf) [[Recording]](https://www.youtube.com/watch?v=eGUc4OPNMyU)
 	- Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), CNCF Ambassador, [gojek](https://gojek.io)
-- **Kubernetes at Bukalapak, An SRE Perspective**:  [[Slides]](https://docs.google.com/presentation/d/1IXCX1XV-yY7qnwd0ZhEsGUDynpgm-TfIgpsfxBwRlY8) [[Recording]](https://www.youtube.com/watch?v=gY6qUGp60pc)
+- **Kubernetes at Bukalapak, An SRE Perspective**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/02-kubernetes-at-bukalapak.pdf) [[Recording]](https://www.youtube.com/watch?v=gY6qUGp60pc)
 	- Christoper Hans, Site Reliability Engineer, [Bukalapak](https://www.bukalapak.com)
-- **Hallway track (networking)**:
+- **Hallway track (networking)**: 
 
 ### #1: Intro to Kubernetes and Knative
 
@@ -189,11 +189,11 @@
 
 #### Agenda
 
-- **Welcome from the organizers and upstream update**:  [[Slides]](https://docs.google.com/presentation/d/1VF_u0IYnvi0f-W2siKdFV8P1x6m6qzzblgYIAc5ZPq0)
+- **Welcome from the organizers and upstream update**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/01-community-slide.pdf)
 	- Imre Nagi [@imrenagi](https://github.com/imrenagi), CTO & Co-founder, [Schoters](https://www.schoters.com)
 	- Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), CNCF Ambassador, [gojek](https://gojek.io)
-- **Exploring KNative**:  [[Slides]](https://bit.ly/knative) [[Recording]](https://www.youtube.com/watch?v=DZQOgIWN1pE)
+- **Exploring KNative**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/01-exploring-knative.pdf) [[Recording]](https://www.youtube.com/watch?v=DZQOgIWN1pE)
 	- Pahlevi Fikri Auliya, CTO, [HIJUP](https://www.hijup.com)
-- **Kubernetes Fundamentals, The Beginning**:  [[Slides]](https://slides.com/qblfrb/kubernetesthe-ruby-way-71#)
+- **Kubernetes Fundamentals, The Beginning**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/01-kubernetes-the-ruby-way.pdf)
 	- Iqbal Farabi [@iqbalfarabi](https://github.com/iqbalfarabi), Software Engineer, [gojek](https://gojek.io)
-- **Hallway track (networking)**:
+- **Hallway track (networking)**: 

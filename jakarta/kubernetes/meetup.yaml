@@ -11,20 +11,20 @@ meetups:
     title: "#1: Intro to Kubernetes and Knative"
     presentations:
     - duration: 11m0s
-      slides: https://docs.google.com/presentation/d/1VF_u0IYnvi0f-W2siKdFV8P1x6m6qzzblgYIAc5ZPq0
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/01-community-slide.pdf
       speakers:
       - imrenagi
       - girikuncoro
       title: Welcome from the organizers and upstream update
     - duration: 30m0s
       recording: https://www.youtube.com/watch?v=DZQOgIWN1pE
-      slides: https://bit.ly/knative
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/01-exploring-knative.pdf
       speakers:
       - pahleviauliya
       title: Exploring KNative
     - duration: 30m0s
       recording: ""
-      slides: https://slides.com/qblfrb/kubernetesthe-ruby-way-71#
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/01-kubernetes-the-ruby-way.pdf
       speakers:
       - iqbalfarabi
       title: Kubernetes Fundamentals, The Beginning
@@ -40,19 +40,19 @@ meetups:
     title: "#2: Kubernetes Architecture & Bukalapak Casestudy"
     presentations:
     - duration: 11m0s
-      slides: https://docs.google.com/presentation/d/170UG-e5XoEEpq6YUVOGDq6kPIwHOFBGWU0LppmWdc7o
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/02-community-slide.pdf
       speakers:
       - imrenagi
       title: Welcome from the organizers and upstream update
     - duration: 30m0s
       recording: https://www.youtube.com/watch?v=eGUc4OPNMyU
-      slides: https://docs.google.com/presentation/d/1-k5j5nORkBZ1gRIXicmIT9pdjhExlZdthGjyMBaV0pY
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/02-kubernetes-architecture-and-installation.pdf
       speakers:
       - girikuncoro
       title: Kubernetes Architecture and Installation
     - duration: 30m0s
       recording: https://www.youtube.com/watch?v=gY6qUGp60pc
-      slides: https://docs.google.com/presentation/d/1IXCX1XV-yY7qnwd0ZhEsGUDynpgm-TfIgpsfxBwRlY8
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/02-kubernetes-at-bukalapak.pdf
       speakers:
       - christoper.hans
       title: Kubernetes at Bukalapak, An SRE Perspective
@@ -68,19 +68,19 @@ meetups:
     title: "#3: Istio Night"
     presentations:
     - duration: 11m0s
-      slides: https://slides.com/qblfrb/istio-night
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/03-community-slide.pdf
       speakers:
       - iqbalfarabi
       title: Welcome from the organizers and upstream update
     - duration: 30m0s
       recording: https://www.youtube.com/watch?v=q-RWPjnJ2Y0&t=149
-      slides: https://speakerdeck.com/meteatamel/stop-reinventing-the-wheel-with-istio
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/03-stop-reinventing-the-wheel-with-istio.pdf
       speakers:
       - mete.atamel
       title: Stop Reinventing The Wheel with Istio
     - duration: 30m0s
       recording: https://www.youtube.com/watch?v=q-RWPjnJ2Y0&t=2974
-      slides: https://docs.google.com/presentation/d/1qaREEr4kqTNDKyShAMcZbb6J7ETDPZdjUYo6aOTLC4Y
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/03-running-istio-in-traveloka-data-production.pdf
       speakers:
       - imrenagi
       title: Running Istio in TVLK Data Production
@@ -96,19 +96,19 @@ meetups:
     title: "#4: Kubernetes API Server and Service Discovery"
     presentations:
     - duration: 11m0s
-      slides: https://docs.google.com/presentation/d/1rDsxoPaHUW7VWFLypTXkllr5QjPKD0s8Zb9rmj6VToQ/edit?usp=sharing
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/04-community-slide.pdf
       speakers:
       - girikuncoro
       title: Welcome from the organizers and upstream update
     - duration: 30m0s
       recording: https://www.youtube.com/watch?v=IePXdP02eIo&t=5633
-      slides: https://drive.google.com/file/d/1UJa4lfR4wfrey37Ud4XkH3ynTNf5Y6kq/view?usp=sharing
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/04-consul-and-kubernetes.pdf
       speakers:
       - lukluk.santoso
       title: Service Discovery with Consul on Kubernetes
     - duration: 30m0s
       recording: https://www.youtube.com/watch?v=IePXdP02eIo&t=3700
-      slides: https://docs.google.com/presentation/d/1zwiAjqGpyC4_lCUUFfklYdbSruQVvmKk3Jy6AAzXg-g/edit
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/04-kubernetes-api-server.pdf
       speakers:
       - irvifa
       title: Understanding Kubernetes API Server
@@ -126,25 +126,25 @@ meetups:
     title: "#5: Kubernetes Networking, CKA, and How to Contribute"
     presentations:
     - duration: 11m0s
-      slides: https://docs.google.com/presentation/d/1IQ4crMU4nHb2udkb14fYz_UFcRWWI-vLV5yAjWk402k
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/05-community-slide.pdf
       speakers:
       - girikuncoro
       title: Welcome from the organizers and upstream update
     - duration: 30m0s
       recording: https://youtu.be/lJeKWFSy2nM
-      slides: https://docs.google.com/presentation/d/1vcHsUL8f4PwYJaHKeQLkWG_s8np6Mj8C6IlwumcBS2w
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/05-networking-model-and-services-in-kubernetes.pdf
       speakers:
       - arkan
       title: Networking Model and Services in Kubernetes
     - duration: 30m0s
       recording: https://youtu.be/AX-Rgs0SRrs
-      slides: https://docs.google.com/presentation/d/1IJctTisfRQhTgkpyVUmgH3X6z9ozrXeJ8ta_6uSIt80
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/05-journey-and-tips-passing-cka-certification.pdf
       speakers:
       - husni.alhamdani
       title: Journey and Tips on Passing CKA Certification
     - duration: 30m0s
       recording: https://www.youtube.com/watch?v=Zi2CzdQjx2Y
-      slides: https://docs.google.com/presentation/d/1Bl0Msa_DUbwoY_d5_FAao9SzbYJKnvPRAVxmSMvSvzI
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/05-how-to-contribute-to-kubernetes.pdf
       speakers:
       - irvifa
       - girikuncoro
@@ -161,20 +161,20 @@ meetups:
     title: "#6: Service Mesh in AWS and Kube Deployment"
     presentations:
     - duration: 11m0s
-      slides: https://docs.google.com/presentation/d/1YxwY4yuUT1t0YuPbrulLIG1QUz80Wlv9PxJFxtvL0J0
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/06-community-slide.pdf
       speakers:
       - girikuncoro
       - imrenagi
       title: Welcome from the organizers and upstream update
     - duration: 30m0s
       recording: https://youtu.be/kBKuIN5kBYI
-      slides: https://drive.google.com/open?id=1-OH3jkh-hse9jm4g6dUem0QSkZ4Dni22
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/06-kubernetes-deployment-rolling-update-scaling.pdf
       speakers:
       - indrajatiwidyatmoko
       title: Kubernetes Deployment, Rolling-Update, and Scaling
     - duration: 30m0s
       recording: https://youtu.be/xSEQb1FK0EY
-      slides: https://drive.google.com/file/d/179J8jbbCQnPtIiZKMNc5R_QVzCILnQVa
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/06-service-mesh-on-aws.pdf
       speakers:
       - donnie.prakoso
       title: Service Mesh with AWS
@@ -190,7 +190,7 @@ meetups:
     title: "#7: Kubernetes Birthday Celebration"
     presentations:
     - duration: 11m0s
-      slides: https://docs.google.com/presentation/d/13jUXXzYlhRktwyJapjGeaPD-Bfz52dXyp3WP1RoU_O8
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/07-community-slide.pdf
       speakers:
       - girikuncoro
       - imrenagi
@@ -201,7 +201,7 @@ meetups:
       - luthfi.rachman
       title: Security Practices in Kubernetes
     - duration: 30m0s
-      slides: https://docs.google.com/presentation/d/10KbPoYup4oKp-gCsXxMGJ7fNNfvWwXfYWHfTiBDZOHs
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/07-kuryr-kubernetes-interconnecting-kubernetes-with-openstack.pdf
       speakers:
       - zufardhiyaulhaq
       title: "Kuryr Kubernetes: Interconnecting Kubernetes with Openstack"
@@ -217,7 +217,7 @@ meetups:
     title: "#8: Kubernetes Monitoring and Stateful Basics"
     presentations:
     - duration: 11m0s
-      slides: https://docs.google.com/presentation/d/17s2c0NaeK_-GC6H0yuBG6mjdADGdVW-KuV1zAl-281o
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/08-community-slide.pdf
       speakers:
       - girikuncoro
       - iqbalfarabi
@@ -231,7 +231,7 @@ meetups:
       title: Docker and Kubernetes Monitoring with Elastic Stack
     - duration: 30m0s
       recording: https://www.youtube.com/watch?v=drBa7aBwKtA
-      slides: https://docs.google.com/presentation/d/17UnrPmXNZS8EW3CbslDyC0iDb9O1cKjWV8K2r-ZMF1Q
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/08-basic-of-stateful-and-storage-in-kubernetes.pdf
       speakers:
       - kevin.tanzil
       title: Basic of Stateful and Storage in Kubernetes
@@ -249,19 +249,19 @@ meetups:
     title: "#9: Helm Intro & GPU on Kubernetes for Machine Learning"
     presentations:
     - duration: 11m0s
-      slides: https://docs.google.com/presentation/d/12fqgtxd9H9fxsT5szOFkS87r8lm6XcZkF2Bvs46Uaec
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/09-community-slide.pdf
       speakers:
       - girikuncoro
       title: Welcome from the organizers and upstream update
     - duration: 30m0s
       recording: https://youtu.be/pwuavFIsrA8
-      slides: https://docs.google.com/presentation/d/1LAiZXFLG5GzgJABnfUy_tyhUtMfwa1JIiUI6lEwf378
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/09-helm-intro-package-manager-for-kubernetes.pdf
       speakers:
       - rangga.adhitya.prawira
       title: Helm Intro, The Package Manager for Kubernetes
     - duration: 30m0s
       recording: https://youtu.be/o0O6ACyxkko
-      slides: https://docs.google.com/presentation/d/1a0gMSbMh4q_qZDhdO7pW-z-JqrOP5KpIZayPRM6fxsg
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/09-gpu-and-kubernetes-for-machine-learning.pdf
       speakers:
       - eufrat.tsaqib
       title: GPU and Kubernetes for Machine Learning
@@ -277,19 +277,19 @@ meetups:
     title: "#10: Stateful Components & Service Mesh Observability"
     presentations:
     - duration: 11m0s
-      slides: https://docs.google.com/presentation/d/1n6_r_7iCxBrgxO00fdJbexkX8Zy1uvBlgM5M74DvSQQ
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/10-community-slide.pdf
       speakers:
       - girikuncoro
       title: Welcome from the organizers and upstream update
     - duration: 30m0s
       recording: https://youtu.be/69voJLpcGLU
-      slides: https://docs.google.com/presentation/d/1x1Qsfujw4WU7ucf-Lq-wdEcMcSg-u0E5QifJD5w2Flc
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/10-kubernetes-statefulset.pdf
       speakers:
       - imrenagi
       title: Intro to StatefulSet with Case Study of Deploying Various Stateful Components
     - duration: 30m0s
       recording: https://youtu.be/vX5-VIVvlmE
-      slides: https://www.slideshare.net/isnuryusuf/kubernetes-jakarta-meetup-010-service-mesh-observability-with-kiali
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/10-service-mesh-observability-with-kiali.pdf
       speakers:
       - yusuf.hadiwinata
       title: Service Mesh Observability with Kiali
@@ -305,18 +305,18 @@ meetups:
     title: "#11: Extending Kubernetes with Custom Resource & Optimizing Java Containers"
     presentations:
     - duration: 11m0s
-      slides: https://docs.google.com/presentation/d/11a4ENdfBMDGb-xnSMoLZeI-E3R-cEddTkyde7No_NLY
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/11-community-slide.pdf
       speakers:
       - girikuncoro
       title: Welcome from the organizers and upstream update
     - duration: 30m0s
       recording: https://youtu.be/tnb4Uu7BW1g
-      slides: https://speakerdeck.com/reyhansofian/extending-kubernetes-with-custom-resources
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/11-extending-kubernetes-using-custom-resource.pdf
       speakers:
       - reyhan.sofian
       title: Extending Kubernetes with Custom Resources
     - duration: 30m0s
-      slides: https://drive.google.com/file/d/1UvCYitOMxGA4DAm0YqsuB-4BoeT6jXCF/view
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/11-optimizing-java-containers-for-government-usecases.pdf
       speakers:
       - arga.dhahana
       title: Optimizing Java Containers on Kubernetes for Government Usecases
@@ -332,19 +332,19 @@ meetups:
     title: "#12: Kubernetes Autoscaling & Airy's Kubernetes Journey in AWS"
     presentations:
     - duration: 11m0s
-      slides: https://docs.google.com/presentation/d/1Mwy6iZrgTp2irpg_n_AwbOS9C27UXagvL9KL5x1A19k
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/12-community-slide.pdf
       speakers:
       - girikuncoro
       title: Welcome from the organizers and upstream update
     - duration: 30m0s
       recording: https://youtu.be/3j_IUiPflf4
-      slides: https://docs.google.com/presentation/d/1p-PwgOk_DLZkTmGRTK37PLOut2rxWUXxnPOqPmKZ2t4
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/12-intro-to-kubernetes-autoscaling.pdf
       speakers:
       - william.dembo
       title: "Intro to Kubernetes Autoscaling: HPA, VPA, CA, and beyond"
     - duration: 30m0s
       recording: https://www.youtube.com/watch?v=idUYQ7NRw4A
-      slides: https://drive.google.com/open?id=1g6RkmYd4rC8iBt5gNFKCa5IkHQYoD6Jw
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/12-airy-journey-on-adopting-kubernetes-in-aws-and-intro-to-telepresence.pdf
       speakers:
       - kurnianto.trilaksono
       title: Airy's Journey on Adopting Kubernetes in AWS and Intro to Telepresence
