@@ -18,6 +18,10 @@
   logoURL: https://radarmalang.id/file/2018/01/Biznet-GIO-Logo.png
   name: Biznet Gio
   websiteURL: https://www.biznetgio.com
+- id: block71jogja
+  logoURL: https://yogyakarta.block71.co/sites/default/files/yogyakarta.png
+  name: Block71 Yogyakarta
+  websiteURL: https://yogyakarta.block71.co/
 - id: bssn
   logoURL: https://upload.wikimedia.org/wikipedia/commons/2/2c/LOGO_BSSN.png
   name: Balai Sertifikasi Elektronik, Badan Siber dan Sandi Negara
@@ -74,6 +78,10 @@
   logoURL: "https://image4.owler.com/logo/hijup_owler_20170413_121942_original.png"
   name: HIJUP
   websiteURL: https://www.hijup.com
+- id: hilotech
+  logoURL: https://media-exp1.licdn.com/dms/image/C510BAQG-BGU_YdBBTg/company-logo_200_200/0?e=2159024400&v=beta&t=olbumPoFBiEmEFWvpDbvWF0M7q18I49ijmBnGx_dD8Y
+  name: HILOTech
+  websiteURL: http://hilotech.co.id/
 - id: itb
   logoURL: https://ditsti.itb.ac.id/wp-content/uploads/sites/219/2018/09/logo-itb-512px.png
   name: Institut Teknologi Bandung
@@ -122,6 +130,10 @@
   logoURL: https://utbk.pahamify.com/img/logo_color.png
   name: Pahamify
   websiteURL: https://www.pahamify.com
+- id: ruangguru
+  logoURL: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rg-logo.sv$
+  name: Ruangguru
+  websiteURL: https://ruangguru.com/
 - id: schoters
   logoURL: https://rec-data.kalibrr.com/www.kalibrr.com/logos/BTY5R9LJ7F43M8G9WHCBN2W4NG7YP8JBA9VR4SW8-5d6cc02f.png
   name: Schoters

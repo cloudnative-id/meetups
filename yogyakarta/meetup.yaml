@@ -1,0 +1,37 @@
+meetupID: Kubernetes-Cloud-Native-Yogyakarta
+meetupName: Kubernetes/Cloud Native Yogyakarta
+organizers:
+- agastyosatriajiidam
+- arydwimartaP
+- denyprasetyo
+- manggalapramudityawiryawan
+- wahyunipuji
+meetups:
+  "20200118":
+    title: "#1: Intro & Journey to Kubernetes"
+    presentations:
+    - duration: 10m0s
+      slides: https://is.gd/PwtX6V
+      speakers:
+      - wahyunipj
+      title: Welcoming speech and opening
+    - duration: 45m0s
+      recording:
+      slides: https://gourl.page.link/AuMB
+      speakers:
+      - jasoet
+      title: Cloud and Kubernetes The introduction
+    - duration: 30m0s
+      recording: https://youtu.be/kj2uMG5SJqs
+      slides: https://gourl.page.link/auKP
+      speakers:
+      - satriajidam
+      title: My Journey to Kubernetes
+    - duration: 30m0s
+      recording: ""
+      slides: ""
+      speakers: []
+      title: Hallway track (networking)
+    sponsors:
+    - company: block71jogja
+      role: Venue

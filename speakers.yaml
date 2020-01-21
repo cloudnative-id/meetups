@@ -271,3 +271,24 @@
   name: "Mete Atamel"
   title: "Developer Advocate"
   twitter: ""
+- company: gojek
+  github: jasoet
+  id: jasoet
+  linkedin: ""
+  name: "Deny Prasetyo"
+  title: "Gopay System Automation Team Lead"
+  twitter: ""
+- company: ruangguru
+  github: satriajidam
+  id: satriajidam
+  linkedin: ""
+  name: "Agastyo Satriaji Idam"
+  title: "Infrastructure Engineer"
+  twitter: ""
+- company: hilotech
+  github: wahyunipj
+  id: wahyunipj
+  linkedin: ""
+  name: "Wahyuni Puji"
+  title: "Site Reliability Engineering"
+  twitter: ""
