@@ -16,13 +16,13 @@ meetups:
       title: Welcoming speech and opening
     - duration: 35m0s
       recording: https://www.youtube.com/watch?v=D6WJcjVPDbI
-      slides: https://slides.com/armandcaesario/microservicebasic#/
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/cloud-native/slides/01-introduction-to-microservices.pdf
       speakers:
       - armandcaesario
       title: Introduction to Microservice
     - duration: 35m0s
       recording: https://www.youtube.com/watch?v=FeWwev0OBFA
-      slides: https://www.slideshare.net/PrakashDivy/introduction-to-grpc
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/cloud-native/slides/01-introduction-to-grpc.pdf
       speakers:
       - prakashdivy
       title: Introduction to gRPC
@@ -50,10 +50,10 @@ meetups:
       title: Messaging Patterns
     - duration: 35m0s
       recording: https://www.youtube.com/watch?v=w2J2S6v3K50
-      slides: https://docs.google.com/presentation/d/1FtU8F2mDxe-U4cUBUHrpJmx6FTafUv0FETF1qcxobv4/edit?usp=sharing
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/cloud-native/slides/02-introduction-to-nats.pdf
       speakers:
       - imrenagi
-      title:  Introdcution to NATS and Deploying NATS and Microservice application in GKE
+      title:  Introduction to NATS and Deploying NATS and Microservice application in GKE
     - duration: 40m0s
       recording: ""
       slides: ""
@@ -79,7 +79,7 @@ meetups:
       title: 'Microfrontends: extending microservices to the frontend'
     - duration: 35m0s
       recording: ""
-      slides: "https://docs.google.com/presentation/d/1AKzNudQGLv8EZjnoAQkJjlt5ChtvfyAQ816kvjrTAxA/edit?usp=sharing"
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/cloud-native/slides/02-distributed-tracing-with-jaeger.pdf
       speakers:
       - zulfa.achsani
       title:  Distributed Tracing with Jaeger
