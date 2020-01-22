@@ -11,19 +11,19 @@ meetups:
     title: "#1: Intro & Journey to Kubernetes"
     presentations:
     - duration: 10m0s
-      slides: https://is.gd/PwtX6V
+      slides: https://github.com/cloudnative-id/meetups/blob/master/yogyakarta/slides/01-community-slide.pdf
       speakers:
       - wahyunipj
       title: Welcoming speech and opening
     - duration: 45m0s
       recording:
-      slides: https://gourl.page.link/AuMB
+      slides: https://github.com/cloudnative-id/meetups/blob/master/yogyakarta/slides/01-cloud-and-kubernetes-the-introduction.pdf
       speakers:
       - jasoet
       title: Cloud and Kubernetes The introduction
     - duration: 30m0s
       recording: https://youtu.be/kj2uMG5SJqs
-      slides: https://gourl.page.link/auKP
+      slides: https://github.com/cloudnative-id/meetups/blob/master/yogyakarta/slides/01-my-journey-to-kubernetes.pdf
       speakers:
       - satriajidam
       title: My Journey to Kubernetes
