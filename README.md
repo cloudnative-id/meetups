@@ -3,6 +3,7 @@
 Repository to gather all meetup information and slides from Kubernetes and Cloud Native Indonesia meetups:
 
 * [Bandung](bandung/README.md) ([meetup group](https://www.meetup.com/Kubernetes-and-Cloud-Native-Bandung))
+  * Aditya Rachman Putra [@banditelol](https://github.com/banditelol), [Halofina](https://www.halofina.id)
   * Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), [Gojek](https://gojek.io)
   * Iqbal Syamil [@2pai](https://github.com/2pai), [Telkom University](https://telkomuniversity.ac.id)
   * Joshua Bezaleel [@joshuabezaleel](https://github.com/joshuabezaleel), [Institut Teknologi Bandung](https://www.itb.ac.id)
