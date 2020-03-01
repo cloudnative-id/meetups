@@ -1,0 +1,67 @@
+meetupID: Kubernetes-Cloud-Native-Yogyakarta
+meetupName: Kubernetes/Cloud Native Yogyakarta
+organizers:
+- agastyosatriajiidam
+- arydwimartaP
+- denyprasetyo
+- manggalapramudityawiryawan
+- wahyunipuji
+meetups:
+  "20200118":
+    title: "#1: Intro & Journey to Kubernetes"
+    presentations:
+    - duration: 10m0s
+      slides: https://github.com/cloudnative-id/meetups/blob/master/yogyakarta/slides/01-community-slide.pdf
+      speakers:
+      - wahyunipj
+      title: Welcoming speech and opening
+    - duration: 45m0s
+      recording:
+      slides: https://github.com/cloudnative-id/meetups/blob/master/yogyakarta/slides/01-cloud-and-kubernetes-the-introduction.pdf
+      speakers:
+      - jasoet
+      title: Cloud and Kubernetes The introduction
+    - duration: 30m0s
+      recording: https://youtu.be/kj2uMG5SJqs
+      slides: https://github.com/cloudnative-id/meetups/blob/master/yogyakarta/slides/01-my-journey-to-kubernetes.pdf
+      speakers:
+      - satriajidam
+      title: My Journey to Kubernetes
+    - duration: 30m0s
+      recording: ""
+      slides: ""
+      speakers: []
+      title: Hallway track (networking)
+    sponsors:
+    - company: block71jogja
+      role: Venue
+  "20200229":
+    title: "#2: Automation CI/CD Jenkins In Kubernetes & Running Cloud-Native Applications on Kubernetes"
+    presentations:
+    - duration: 10m0s
+      slides: https://github.com/cloudnative-id/meetups/blob/master/yogyakarta/slides/02-community-slide.pdf
+      speakers:
+      - jasoet
+      title: Welcoming speech and opening
+    - duration: 30m0s
+      recording: https://youtu.be/iNCib_LGick
+      slides: https://github.com/cloudnative-id/meetups/blob/master/yogyakarta/slides/02-automation-deployment-use-jenkins-in-kubernetes.pdf
+      speakers:
+      - huda.ridwan
+      title: Automation Deployment Using Jenkins in Kubernetes
+    - duration: 30m0s
+      recording: https://youtu.be/iNCib_LGick
+      slides: https://github.com/cloudnative-id/meetups/blob/master/yogyakarta/slides/02-running-cloud-native-applications-on-kubernetes.pdf
+      speakers:
+      - akhyar.amarullah
+      title: Running Cloud-Native Applications on Kubernetes
+    - duration: 30m0s
+      recording: ""
+      slides: ""
+      speakers: []
+      title: Hallway track (networking)
+    sponsors:
+    - company: praxis
+      role: Venue
+    - company: mamikos
+      role: Coffe Break

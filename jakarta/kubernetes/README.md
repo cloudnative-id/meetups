@@ -22,7 +22,7 @@
 	- William Albertus Dembo, Cloud Platform Engineer, [Gopay](https://www.gojek.com/gopay/)
 - **Airy's Journey on Adopting Kubernetes in AWS and Intro to Telepresence**:  [[Slides]](https://drive.google.com/open?id=1g6RkmYd4rC8iBt5gNFKCa5IkHQYoD6Jw) [[Recording]](https://www.youtube.com/watch?v=idUYQ7NRw4A)
 	- Kurnianto Trilaksono, Infrastructure / DevSecOps Engineer, [Airy](https://www.airyrooms.com)
-- **Hallway track (networking)**:
+- **Hallway track (networking)**: 
 
 ### #11: Extending Kubernetes with Custom Resource & Optimizing Java Containers
 
@@ -37,7 +37,7 @@
 	- Reyhan Sofian Haqqi, Software Engineer, [Kata.ai](https://www.kata.ai)
 - **Optimizing Java Containers on Kubernetes for Government Usecases**:  [[Slides]](https://drive.google.com/file/d/1UvCYitOMxGA4DAm0YqsuB-4BoeT6jXCF/view)
 	- Arga Dhahana Pramudianto, PNS (Formal Role), System Engineer (Informal Role), [Balai Sertifikasi Elektronik, Badan Siber dan Sandi Negara](https://bssn.go.id)
-- **Hallway track (networking)**:
+- **Hallway track (networking)**: 
 
 ### #10: Stateful Components & Service Mesh Observability
 
@@ -52,7 +52,7 @@
 	- Imre Nagi [@imrenagi](https://github.com/imrenagi), CTO & Co-founder, [Schoters](https://www.schoters.com)
 - **Service Mesh Observability with Kiali**:  [[Slides]](https://www.slideshare.net/isnuryusuf/kubernetes-jakarta-meetup-010-service-mesh-observability-with-kiali) [[Recording]](https://youtu.be/vX5-VIVvlmE)
 	- Yusuf Hadiwinata Sutandar, VP Operation & Services, [Biznet Gio](https://www.biznetgio.com)
-- **Hallway track (networking)**:
+- **Hallway track (networking)**: 
 
 ### #9: Helm Intro & GPU on Kubernetes for Machine Learning
 
@@ -67,7 +67,7 @@
 	- Rangga Adhitya Prawira, Full-Stack Developer, [Female Daily Network](https://www.femaledaily.com)
 - **GPU and Kubernetes for Machine Learning**:  [[Slides]](https://docs.google.com/presentation/d/1a0gMSbMh4q_qZDhdO7pW-z-JqrOP5KpIZayPRM6fxsg) [[Recording]](https://youtu.be/o0O6ACyxkko)
 	- Eufrat Tsaqib, Software Engineer, [Nodeflux](https://www.nodeflux.io)
-- **Hallway track (networking)**:
+- **Hallway track (networking)**: 
 
 ### #8: Kubernetes Monitoring and Stateful Basics
 
@@ -79,12 +79,12 @@
 - **Welcome from the organizers and upstream update**:  [[Slides]](https://docs.google.com/presentation/d/17s2c0NaeK_-GC6H0yuBG6mjdADGdVW-KuV1zAl-281o)
 	- Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), CNCF Ambassador, [gojek](https://gojek.io)
 	- Iqbal Farabi [@iqbalfarabi](https://github.com/iqbalfarabi), Software Engineer, [gojek](https://gojek.io)
-	- Irvi Firqotul Aini, Software Engineer, [Traveloka](https://www.traveloka.com)
+	- Irvi Firqotul Aini [@irvifa](https://github.com/irvifa), Software Engineer, [Traveloka](https://www.traveloka.com)
 - **Docker and Kubernetes Monitoring with Elastic Stack**:  [[Slides]](http://ela.st/aravind) [[Recording]](https://www.youtube.com/watch?v=bYFwBqfGsx4)
 	- Aravind Putrevu, Developer Advocate, [Elastic.co](https://www.elastic.co)
 - **Basic of Stateful and Storage in Kubernetes**:  [[Slides]](https://docs.google.com/presentation/d/17UnrPmXNZS8EW3CbslDyC0iDb9O1cKjWV8K2r-ZMF1Q) [[Recording]](https://www.youtube.com/watch?v=drBa7aBwKtA)
 	- Kevin Setiawan Tanzil, Software Engineers, [Alterra Indonesia](https://www.alterra.id)
-- **Hallway track (networking)**:
+- **Hallway track (networking)**: 
 
 ### #7: Kubernetes Birthday Celebration
 
@@ -96,12 +96,12 @@
 - **Welcome from the organizers and upstream update**:  [[Slides]](https://docs.google.com/presentation/d/13jUXXzYlhRktwyJapjGeaPD-Bfz52dXyp3WP1RoU_O8)
 	- Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), CNCF Ambassador, [gojek](https://gojek.io)
 	- Imre Nagi [@imrenagi](https://github.com/imrenagi), CTO & Co-founder, [Schoters](https://www.schoters.com)
-	- Irvi Firqotul Aini, Software Engineer, [Traveloka](https://www.traveloka.com)
-- **Security Practices in Kubernetes**:
+	- Irvi Firqotul Aini [@irvifa](https://github.com/irvifa), Software Engineer, [Traveloka](https://www.traveloka.com)
+- **Security Practices in Kubernetes**: 
 	- Lutfi Rachman, Technical Account Manager, [Google](https://google.com)
 - **Kuryr Kubernetes: Interconnecting Kubernetes with Openstack**:  [[Slides]](https://docs.google.com/presentation/d/10KbPoYup4oKp-gCsXxMGJ7fNNfvWwXfYWHfTiBDZOHs)
 	- Zufar Dhiyaulhaq, Cloud Engineer, [Btech](https://www.btech.id)
-- **Hallway track (networking)**:
+- **Hallway track (networking)**: 
 
 ### #6: Service Mesh in AWS and Kube Deployment
 
@@ -117,7 +117,7 @@
 	- Indrajati Widyatmoko, Engineer, [Loket](https://www.loket.com)
 - **Service Mesh with AWS**:  [[Slides]](https://drive.google.com/file/d/179J8jbbCQnPtIiZKMNc5R_QVzCILnQVa) [[Recording]](https://youtu.be/xSEQb1FK0EY)
 	- Donnie Prakoso, Evangelist, [Amazon Web Service](https://www.amazon.com)
-- **Hallway track (networking)**:
+- **Hallway track (networking)**: 
 
 ### #5: Kubernetes Networking, CKA, and How to Contribute
 
@@ -133,9 +133,9 @@
 - **Journey and Tips on Passing CKA Certification**:  [[Slides]](https://docs.google.com/presentation/d/1IJctTisfRQhTgkpyVUmgH3X6z9ozrXeJ8ta_6uSIt80) [[Recording]](https://youtu.be/AX-Rgs0SRrs)
 	- Husni Alhamdani, DevOps Engineer, [ECnet (M) Sdn Bhd, Kuala Lumpur](https://www.ecnet.com)
 - **How to Become Kubernetes Contributor**:  [[Slides]](https://docs.google.com/presentation/d/1Bl0Msa_DUbwoY_d5_FAao9SzbYJKnvPRAVxmSMvSvzI) [[Recording]](https://www.youtube.com/watch?v=Zi2CzdQjx2Y)
-	- Irvi Firqotul Aini, Software Engineer, [Traveloka](https://www.traveloka.com)
+	- Irvi Firqotul Aini [@irvifa](https://github.com/irvifa), Software Engineer, [Traveloka](https://www.traveloka.com)
 	- Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), CNCF Ambassador, [gojek](https://gojek.io)
-- **Hallway track (networking)**:
+- **Hallway track (networking)**: 
 
 ### #4: Kubernetes API Server and Service Discovery
 
@@ -149,8 +149,8 @@
 - **Service Discovery with Consul on Kubernetes**:  [[Slides]](https://drive.google.com/file/d/1UJa4lfR4wfrey37Ud4XkH3ynTNf5Y6kq/view?usp=sharing) [[Recording]](https://www.youtube.com/watch?v=IePXdP02eIo&t=5633)
 	- Lukluk santoso, product engineer, [Gopay](https://www.gojek.com/gopay/)
 - **Understanding Kubernetes API Server**:  [[Slides]](https://docs.google.com/presentation/d/1zwiAjqGpyC4_lCUUFfklYdbSruQVvmKk3Jy6AAzXg-g/edit) [[Recording]](https://www.youtube.com/watch?v=IePXdP02eIo&t=3700)
-	- Irvi Firqotul Aini, Software Engineer, [Traveloka](https://www.traveloka.com)
-- **Hallway track (networking)**:
+	- Irvi Firqotul Aini [@irvifa](https://github.com/irvifa), Software Engineer, [Traveloka](https://www.traveloka.com)
+- **Hallway track (networking)**: 
 
 ### #3: Istio Night
 
@@ -165,7 +165,7 @@
 	- Mete Atamel [@meteatamel](https://github.com/meteatamel), Developer Advocate, [Google](https://google.com)
 - **Running Istio in TVLK Data Production**:  [[Slides]](https://docs.google.com/presentation/d/1qaREEr4kqTNDKyShAMcZbb6J7ETDPZdjUYo6aOTLC4Y) [[Recording]](https://www.youtube.com/watch?v=q-RWPjnJ2Y0&t=2974)
 	- Imre Nagi [@imrenagi](https://github.com/imrenagi), CTO & Co-founder, [Schoters](https://www.schoters.com)
-- **Hallway track (networking)**:
+- **Hallway track (networking)**: 
 
 ### #2: Kubernetes Architecture & Bukalapak Casestudy
 
@@ -180,7 +180,7 @@
 	- Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), CNCF Ambassador, [gojek](https://gojek.io)
 - **Kubernetes at Bukalapak, An SRE Perspective**:  [[Slides]](https://docs.google.com/presentation/d/1IXCX1XV-yY7qnwd0ZhEsGUDynpgm-TfIgpsfxBwRlY8) [[Recording]](https://www.youtube.com/watch?v=gY6qUGp60pc)
 	- Christoper Hans, Site Reliability Engineer, [Bukalapak](https://www.bukalapak.com)
-- **Hallway track (networking)**:
+- **Hallway track (networking)**: 
 
 ### #1: Intro to Kubernetes and Knative
 
@@ -196,4 +196,4 @@
 	- Pahlevi Fikri Auliya, CTO, [HIJUP](https://www.hijup.com)
 - **Kubernetes Fundamentals, The Beginning**:  [[Slides]](https://slides.com/qblfrb/kubernetesthe-ruby-way-71#)
 	- Iqbal Farabi [@iqbalfarabi](https://github.com/iqbalfarabi), Software Engineer, [gojek](https://gojek.io)
-- **Hallway track (networking)**:
+- **Hallway track (networking)**: 
