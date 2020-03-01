@@ -3,6 +3,7 @@
 Repository to gather all meetup information and slides from Kubernetes and Cloud Native Indonesia meetups:
 
 * [Bandung](bandung/README.md) ([meetup group](https://www.meetup.com/Kubernetes-and-Cloud-Native-Bandung))
+  * Aditya Rachman Putra [@banditelol](https://github.com/banditelol), [Halofina](https://www.halofina.id)
   * Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), [Gojek](https://gojek.io)
   * Iqbal Syamil [@2pai](https://github.com/2pai), [Telkom University](https://telkomuniversity.ac.id)
   * Joshua Bezaleel [@joshuabezaleel](https://github.com/joshuabezaleel), [Institut Teknologi Bandung](https://www.itb.ac.id)
@@ -24,8 +25,8 @@ Repository to gather all meetup information and slides from Kubernetes and Cloud
   * Agastyo Satriaji Idam [@satriajidam](https://github.com/satriajidam), [Ruangguru](http://www.ruangguru.com/)
   * Ary Dwi Marta P [@arydwimarta](https://github.com/arydwimarta), [Mamikos](https://mamikos.com/)
   * Deny Prasetyo [@jasoet](http://github.com/jasoet), [Gojek](https://gojek.io)
-  * Manggala Pramuditya Wiryawan [@wiryawan46](https://github.com/wiryawan46), [Universitas Islam Indonesia](https://bsi.uii.ac.id/)
-  * Wahyuni Puji [@wahyuni-pj](https://github.com/wahyuni-pj), [Universitas Islam Indonesia](https://bsi.uii.ac.id/)
+  * Manggala Pramuditya Wiryawan [@wiryawan46](https://github.com/wiryawan46), [Qiscus](https://www.qiscus.com/id)
+  * Wahyuni Puji [@wahyuni-pj](https://github.com/wahyuni-pj), [Hilotech](http://hilotech.co.id/)
 
 ## Join our Community!
 
