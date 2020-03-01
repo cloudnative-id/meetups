@@ -292,3 +292,17 @@
   name: "Wahyuni Puji"
   title: "Site Reliability Engineering"
   twitter: ""
+- company: mamikos
+  github: elqahtani
+  id: huda.ridwan
+  linkedin: ""
+  name: "Huda Ridwan"
+  title: "DevOps Engineer"
+  twitter: ""
+- company: gojek
+  github: akhy
+  id: akhyar.amarullah
+  linkedin: ""
+  name: "Akhay Amarullah"
+  title: "DevOps Engineer"
+  twitter: ""

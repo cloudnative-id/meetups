@@ -150,3 +150,11 @@
   logoURL: https://blog.traveloka.com/wp-content/uploads/2012/11/Traveloka_Primary_Logo.png
   name: Traveloka
   websiteURL: https://www.traveloka.com
+- id: praxis
+  logoURL: https://praxisacademy.id/img/praxisnew.png
+  name: Praxis Academy
+  websiteURL: https://praxisacademy.id/
+- id: mamikos
+  logourl: https://mamikos.com/assets/logo/svg/logo_mamikos_green.svg
+  name: Mamikos
+  websiteURL: https://mamikos.com/
