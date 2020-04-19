@@ -24,7 +24,7 @@ Update the checklist accordingly and add comment on meetup.com event page link.
 - [ ] Get speakers to fill up [speaker form](https://docs.google.com/forms/d/e/1FAIpQLSewmKuIlk37uye_sgyqed9k2gSPhVf4yy9KGZskA1NjAXq6cw/viewform)
 
 ### 1 week before the event
-- [ ] Create meetup.com event page (refer to TODO)
+- [ ] Create meetup.com event page (refer to [this template](https://github.com/cloudnative-id/meetups/blob/master/docs/MEETUP_DESCRIPTION.md))
 - [ ] Add the sponsor logo to meetup.com event sponsor section, ordered from the most recent one
 - [ ] Create bit.ly link to the meetup.com page
 - [ ] Create event poster using our [generator tool](https://github.com/cloudnative-id/artwork/tree/master/poster/generator) or [canva](https://www.canva.com/)
