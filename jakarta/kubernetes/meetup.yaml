@@ -356,3 +356,50 @@ meetups:
     sponsors:
     - company: aws
       role: Venue
+  "20200130":
+    title: "#13: Intro to Kubernetes & Kubeflow"
+    presentations:
+    - duration: 11m0s
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/13-community-slide.pdf
+      speakers:
+      - eufrat.tsaqib
+      title: Welcome from the organizers and upstream update
+    - duration: 30m0s
+      recording: ""
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/13-intro-to-kubernetes.pdf
+      speakers: null
+      title: "Intro to Kubernetes"
+    - duration: 30m0s
+      recording: ""
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/13-a-scalable-training-approach-using-kubeflow.pdf
+      speakers: null
+      title: "A Scalable Training Approach using Kubeflow"
+    - duration: 30m0s
+      recording: ""
+      slides: ""
+      speakers: null
+      title: Hallway track (networking)
+    sponsors:
+    - company: nodeflux
+      role: Venue
+  "20200425":
+    title: "#14: Understanding Kubernetes Core Concepts & Intro to SONA-CNI"
+    presentations:
+    - duration: 11m0s
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/14-community-slide.pdf
+      speakers:
+      - girikuncoro
+      title: Welcome from the organizers and upstream update
+    - duration: 30m0s
+      recording: http://www.youtube.com/watch?v=8BUc6E6aM_E&t=19m3s
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/14-understanding-kubernetes-core-concepts.pdf
+      speakers:
+      - iqbalsyamil
+      title: Understanding Kubernetes Core Concepts
+    - duration: 30m0s
+      recording: https://www.youtube.com/watch?v=8BUc6E6aM_E&t=1h03m19s
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/14-sona-cni-for-kubernetes.pdf
+      speakers:
+      - aris.risdianto
+      title: Intro to SONA CNI for Kubernetes Networking
+    sponsors: null

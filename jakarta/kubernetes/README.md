@@ -9,6 +9,32 @@
 
 ## Meetups
 
+### #14: Understanding Kubernetes Core Concepts & Intro to SONA-CNI
+
+- Date: Saturday, 25 April 2020
+
+#### Agenda
+
+- **Welcome from the organizers and upstream update**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/14-community-slide.pdf)
+	- Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), CNCF Ambassador, [gojek](https://gojek.io)
+- **Understanding Kubernetes Core Concepts**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/14-understanding-kubernetes-core-concepts.pdf) [[Recording]](http://www.youtube.com/watch?v=8BUc6E6aM_E&t=19m3s)
+	- Iqbal Syamil, Software Engineering Student, [Telkom University](https://telkomuniversity.ac.id)
+- **Intro to SONA CNI for Kubernetes Networking**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/14-sona-cni-for-kubernetes.pdf) [[Recording]](https://www.youtube.com/watch?v=8BUc6E6aM_E&t=1h03m19s)
+	- Aris Risdianto [@ariscahyadi](https://github.com/ariscahyadi), ONOS Ambassador, [Open Networking Operating System](https://www.opennetworking.org/onos/)
+
+### #13: Intro to Kubernetes & Kubeflow
+
+- Date: Thursday, 30 January 2020
+- Venue sponsor:  [Nodeflux](https://www.nodeflux.io)
+
+#### Agenda
+
+- **Welcome from the organizers and upstream update**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/13-community-slide.pdf)
+	- Eufrat Tsaqib, Software Engineer, [Nodeflux](https://www.nodeflux.io)
+- **Intro to Kubernetes**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/13-intro-to-kubernetes.pdf)
+- **A Scalable Training Approach using Kubeflow**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/13-a-scalable-training-approach-using-kubeflow.pdf)
+- **Hallway track (networking)**: 
+
 ### #12: Kubernetes Autoscaling & Airy's Kubernetes Journey in AWS
 
 - Date: Thursday, 19 December 2019
@@ -132,11 +158,7 @@
 	- Arkan Muhammad Irsyad, Full Stack Engineer, [Pahamify](https://www.pahamify.com)
 - **Journey and Tips on Passing CKA Certification**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/05-journey-and-tips-passing-cka-certification.pdf) [[Recording]](https://youtu.be/AX-Rgs0SRrs)
 	- Husni Alhamdani, DevOps Engineer, [ECnet (M) Sdn Bhd, Kuala Lumpur](https://www.ecnet.com)
-<<<<<<< HEAD
-- **How to Become Kubernetes Contributor**:  [[Slides]](https://docs.google.com/presentation/d/1Bl0Msa_DUbwoY_d5_FAao9SzbYJKnvPRAVxmSMvSvzI) [[Recording]](https://www.youtube.com/watch?v=Zi2CzdQjx2Y)
-=======
 - **How to Become Kubernetes Contributor**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/05-how-to-contribute-to-kubernetes.pdf) [[Recording]](https://www.youtube.com/watch?v=Zi2CzdQjx2Y)
->>>>>>> abb997528136b24cfe877ad93fa56b081ab99cce
 	- Irvi Firqotul Aini [@irvifa](https://github.com/irvifa), Software Engineer, [Traveloka](https://www.traveloka.com)
 	- Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), CNCF Ambassador, [gojek](https://gojek.io)
 - **Hallway track (networking)**: 
@@ -152,11 +174,7 @@
 	- Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), CNCF Ambassador, [gojek](https://gojek.io)
 - **Service Discovery with Consul on Kubernetes**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/04-consul-and-kubernetes.pdf) [[Recording]](https://www.youtube.com/watch?v=IePXdP02eIo&t=5633)
 	- Lukluk santoso, product engineer, [Gopay](https://www.gojek.com/gopay/)
-<<<<<<< HEAD
-- **Understanding Kubernetes API Server**:  [[Slides]](https://docs.google.com/presentation/d/1zwiAjqGpyC4_lCUUFfklYdbSruQVvmKk3Jy6AAzXg-g/edit) [[Recording]](https://www.youtube.com/watch?v=IePXdP02eIo&t=3700)
-=======
 - **Understanding Kubernetes API Server**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/04-kubernetes-api-server.pdf) [[Recording]](https://www.youtube.com/watch?v=IePXdP02eIo&t=3700)
->>>>>>> abb997528136b24cfe877ad93fa56b081ab99cce
 	- Irvi Firqotul Aini [@irvifa](https://github.com/irvifa), Software Engineer, [Traveloka](https://www.traveloka.com)
 - **Hallway track (networking)**: 
 
