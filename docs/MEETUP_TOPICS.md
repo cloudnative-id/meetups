@@ -57,8 +57,29 @@ This is the next step of Kubernetes, good for the last session of curriculum. It
 
 #### Category #2: Cloud Native Stack Exploration
 
-This category is as simple as *Intro to X*, replace X with any CNCF or [cloud native projects](http://l.cncf.io) that are open source. We won't go deep but go breadth to cover as many open source projects as we can. Prioritize the projects that have [graduated or are in incubating stages](https://www.cncf.io/projects/). Popular projects that at least should be covered:
-* Container runtime: [Docker](https://docker-curriculum.com/), [containerd](https://containerd.io/), [firecracker](https://github.com/firecracker-microvm/firecracker).
+This category is as simple as *Intro to X*, replace X with any CNCF or [cloud native projects](http://l.cncf.io) that are open source. We won't go deep but go breadth to cover as many open source projects as we can. Prioritize the projects that have [graduated or are in incubating stages](https://www.cncf.io/projects/). However, it is recommended to follow the [Cloud Native trailmaps](https://github.com/cncf/trailmap) prepared by CNCF for better learning and practicality:
+
+1. **Containerization**
+
+This is the first step towards embracing Cloud Native technologies. Typically we should cover [Docker](https://docker-curriculum.com/) introduction as it is the most commonly used. However, we can also cover other container technologies:
+
+Popular projects that at least should be covered: [containerd](https://containerd.io/), [Linux container internals](https://blog.gojekengineering.com/building-containers-from-scratch-c2368a8c8701), [firecracker](https://github.com/firecracker-microvm/firecracker), [gvisor](https://github.com/google/gvisor).
+
+2. **CI/CD**
+
+The step before container orchestration is actually CI/CD (Continuous Integration / Continuous Delivery), so that changes to your source code automatically result in a new container being built, tested, and deployed to staging and eventually production. We can cover and demonstrate simple CI/CD setup with [Github Action](https://github.com/features/actions), [Travis](https://travis-ci.org/), [CircleCI](https://circleci.com/), or build your own with Docker.
+
+3. **Orchestration and Application Definition**
+
+Kubernetes is the standard to orchestration containers. We should cover intro to [Kubernetes](https://kubernetes.io/) here and if possible useful toolings around the ecosystem, i.e. [Helm](https://helm.sh), for deploying application to Kubernetes.
+
+4. **Observability and Analysis**
+
+This should cover logging, monitoring, and tracing: [Prometheus](https://prometheus.io) for monitoring, [Fluentd](https://www.fluentd.org) for logging, and [Jaeger](https://www.jaegertracing.io) for tracing. Jaeger is compatible with [OpenTracing](https://opentracing.io/).
+
+##### TODO(giri): Fill out the rest of trails
+
+##### Example CNCF Projects can be explored
 * [Kubernetes](https://kubernetes.io/)
 * [Istio](https://istio.io/)
 * [Prometheus](https://prometheus.io/)
