@@ -367,12 +367,14 @@ meetups:
     - duration: 30m0s
       recording: ""
       slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/13-intro-to-kubernetes.pdf
-      speakers: null
+      speakers:
+      - kevin.nadhif
       title: "Intro to Kubernetes"
     - duration: 30m0s
       recording: ""
       slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/13-a-scalable-training-approach-using-kubeflow.pdf
-      speakers: null
+      speakers:
+      - alvin.prayuda
       title: "A Scalable Training Approach using Kubeflow"
     - duration: 30m0s
       recording: ""
