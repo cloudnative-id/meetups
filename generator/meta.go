@@ -5,7 +5,7 @@ import (
 	"time"
 )
 
-// Taken from https://github.com/kubernetes/apimachinery/blob/master/pkg/apis/meta/v1/duration.go
+// From https://github.com/kubernetes/apimachinery/blob/master/pkg/apis/meta/v1/duration.go
 
 // Duration is a wrapper around time.Duration which supports correct
 // marshaling to YAML and JSON. In particular, it marshals into strings, which
