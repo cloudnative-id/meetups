@@ -13,7 +13,7 @@ Repository to gather all meetup information and slides from Kubernetes and Cloud
   * Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), [Cloud Native Computing Foundation](https://www.cncf.io)
   * Imre Nagi [@imrenagi](https://github.com/imrenagi), [Google Developer Expert](https://developers.google.com/community/experts)
   * Iqbal Farabi [@qbl](https://github.com/qbl), [Gojek](https://gojek.io)
-  * Irvi Aini [@irvifa](https://github.com/irvifa), [Traveloka](https://www.traveloka.com)
+  * Irvi Aini [@irvifa](https://github.com/irvifa), [Kubernetes](https://github.com/kubernetes/)
   * Irwan Shofwan [@irwanshofwan](https://github.com/irwanshofwan), [Gojek](https://gojek.io)
   * Zufar Dhiyaulhaq [@zufardhiyaulhaq](https://github.com/zufardhiyaulhaq), [Gojek](https://gojek.io)
 
