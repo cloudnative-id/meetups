@@ -41,7 +41,7 @@ You can ask anything related to [CNCF open source projects](http://l.cncf.io/), 
 
 ### Speaking Opportunities
 
-If you'd like to speak at a meetup, please join our telegram group and mention **@girikuncoro** or **@imrenagi**, or fill [this form](https://goo.gl/forms/8UU0UgExUCqDMdp62).
+If you'd like to speak at a meetup, please join our telegram group and mention **@girikuncoro** or **@imrenagi**, or fill [this issue form: Cloud Native Indonesia Meetup Speaker/Venue Form](https://github.com/cloudnative-id/meetups/issues/new/choose) (deprecated [this form](https://goo.gl/forms/8UU0UgExUCqDMdp62)).
 
 ## How to maintain this repo
 
