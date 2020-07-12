@@ -29,7 +29,6 @@ TGIK:
 
 - [ ] Venue/Host
 - [ ] Speaker - the audiences are engineers, please avoid any marketing oriented talks
-- [ ] Speaker - the audiences are engineers, please avoid any marketing oriented talks
 
 ## Which cloud native community you are referring to when filling this form? *
 
