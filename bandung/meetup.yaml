@@ -14,13 +14,13 @@ meetups:
       - iqbalsyamil
       title: Welcoming speech and opening
     - duration: 35m0s
-      recording: 
+      recording:
       slides: https://github.com/cloudnative-id/meetups/blob/master/bandung/slides/01-introduction-to-microservices.pdf
       speakers:
       - armandcaesario
       title: Basic Microservices
     - duration: 35m0s
-      recording: 
+      recording:
       slides: https://github.com/cloudnative-id/meetups/blob/master/bandung/slides/01-introduction-to-kubernetes.pdf
       speakers:
       - girikuncoro
@@ -38,17 +38,17 @@ meetups:
     presentations:
     - duration: 10m0s
       slides: https://github.com/cloudnative-id/meetups/blob/master/bandung/slides/02-community-slide.pdf
-      speakers: 
+      speakers:
       - joshuabezaleel
       title: Welcoming speech and opening
     - duration: 35m0s
-      recording: 
+      recording:
       slides: https://github.com/cloudnative-id/meetups/blob/master/bandung/slides/02-journey-to-kubernetes-migration-from-docker-swarm.pdf
       speakers:
       - pambudiono.os
       title: Migration Journey to Kubernetes
     - duration: 35m0s
-      recording: 
+      recording:
       slides: https://github.com/cloudnative-id/meetups/blob/master/bandung/slides/02-process-oriented-microservice-with-elixir.pdf
       speakers:
       - ganeshadanu1
@@ -60,17 +60,17 @@ meetups:
       title: Hallway track (networking)
     sponsors:
     - company: gits.indonesia
-      role: Venue   
+      role: Venue
   "20191116":
     title: "#3: Fundamentals of Cloud Native Architecture & Kubernetes Deployment with GitOps"
     presentations:
     - duration: 10m0s
       slides: https://github.com/cloudnative-id/meetups/blob/master/bandung/slides/03-community-slide.pdf
-      speakers: 
+      speakers:
       - zufardhiyaulhaq
       title: Welcoming speech and opening
     - duration: 35m0s
-      recording: https://youtu.be/pbNl_T3HI10  
+      recording: https://youtu.be/pbNl_T3HI10
       slides: https://github.com/cloudnative-id/meetups/blob/master/bandung/slides/03-fundamentals-of-cloud-native-architecture.pdf
       speakers:
       - setyo
@@ -88,13 +88,13 @@ meetups:
       title: Hallway track (networking)
     sponsors:
     - company: 99.co
-      role: Venue      
+      role: Venue
   "20191219":
     title: "#4: Journey in Implementing Cloud-Native Technology & Intro to Kubernetes RBAC"
     presentations:
     - duration: 10m0s
       slides: https://github.com/cloudnative-id/meetups/blob/master/bandung/slides/04-community-slide.pdf
-      speakers: 
+      speakers:
       - iqbalsyamil
       title: Welcoming speech and opening
     - duration: 35m0s
@@ -116,5 +116,15 @@ meetups:
       title: Hallway track (networking)
     sponsors:
     - company: jds
-      role: Venue     
-      
+      role: Venue
+  "20200728":
+    title: "#10: Storage in Kubernetes & Cost optimization and reducing operational effort when running Kubernetes on AWS"
+    presentations:
+    - duration: 40m0s
+      recording: https://www.youtube.com/watch?v=bjgSkBloG0g
+      slides: https://github.com/cloudnative-id/meetups/blob/master/bandung/slides/10-cloud-native-storage-orchestration-rook.pdf
+      speakers:
+      - irvifa
+      - giovanism
+      title: Storage in Kubernetes
+    sponsors: null
