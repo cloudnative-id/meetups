@@ -29,6 +29,11 @@ Repository to gather all meetup information and slides from Kubernetes and Cloud
   * Manggala Pramuditya Wiryawan [@wiryawan46](https://github.com/wiryawan46), [Qiscus](https://www.qiscus.com/id)
   * Wahyuni Puji [@wahyuni-pj](https://github.com/wahyuni-pj), [Hilotech](http://hilotech.co.id/)
 
+* [Malang](malang/README.md) ([meetup group](https://www.eventbrite.com/o/cloud-malang-30398147880))
+  * Go Frendi Gunawan [@goFrendiAsgard](https://github.com/goFrendiAsgard), [Kata.ai](https://kata.ai/)
+  * Akbar Ibnu Abdillah [@akbaribnu](https://github.com/akbaribnu), [Kata.ai](https://kata.ai/)
+  * Reyhan Sofian Haqqi [@goFrendiAsgard](https://github.com/reyhansofian), [Kata.ai](https://kata.ai/)
+
 ## Join our Community!
 
 ### Telegram
