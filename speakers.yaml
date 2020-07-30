@@ -26,7 +26,7 @@
   name: Christoper Hans
   title: Site Reliability Engineer
   twitter: ""
-- company: ""
+- company: traveloka
   github: irvifa
   id: irvifa
   linkedin: irvifa
@@ -312,4 +312,18 @@
   linkedin: "https://www.linkedin.com/in/ariscahyadirisdianto"
   name: "Aris Risdianto"
   title: "ONOS Ambassador"
+  twitter: ""
+- company: kata.ai
+  github: goFrendiAsgard
+  id: gofrendi
+  linkedin: "https://www.linkedin.com/in/go-frendi-gunawan-734819115"
+  name: "Go Frendi Gunawan"
+  title: "Machine Learning Engineer"
+  twitter: "gofrendiasgard"
+- company: kata.ai
+  github: akbaribnu
+  id: akbaribnu
+  linkedin: "https://www.linkedin.com/in/akbaribnuabdillah"
+  name: "Akbar Ibnu Abdillah"
+  title: "Senior Infrastructure Engineer"
   twitter: ""
