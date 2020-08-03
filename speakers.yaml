@@ -26,7 +26,7 @@
   name: Christoper Hans
   title: Site Reliability Engineer
   twitter: ""
-- company: ""
+- company: traveloka
   github: irvifa
   id: irvifa
   linkedin: irvifa
@@ -320,3 +320,17 @@
   name: Giovan Isa Musthofa
   title: Computer Science Student
   twitter: "giovanismid"
+- company: mastersysteminfotama
+  github: ""
+  id: kevin.nadhif
+  linkedin: ""
+  name: Kevin Nadhif Rasheesa
+  title: System Engineer
+  twitter: ""
+- company: nodeflux
+  github: ""
+  id: alvin.prayuda
+  linkedin: ""
+  name: Alvin Prayuda
+  title: AI Research Group Lead
+  twitter: ""

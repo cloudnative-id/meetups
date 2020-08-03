@@ -11,13 +11,12 @@
 
 - Date: Tuesday, 28 July 2020
 
+
 #### Agenda
 
 - **Storage in Kubernetes**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/bandung/slides/10-cloud-native-storage-orchestration-rook.pdf) [[Recording]](https://www.youtube.com/watch?v=bjgSkBloG0g)
-	- Irvi Firqotul Aini [@irvifa](https://github.com/irvifa), Software Engineer, [Traveloka](https://www.traveloka.com)
-	- Giovan Isa Musthofa [@giovanism](https://github.com/giovanism), Rook Contributor, [Universitas Indonesia](https://www.ui.ac.id/)
-- **Cost optimization and reducing operational effort when running Kubernetes on AWS**:  [[Slides]](#) [[Recording]](https://www.youtube.com/watch?v=bjgSkBloG0g)
-	- Eryan Ariobowo [@ghost](https://github.com/ghost), Solutions Architect, [AWS Indonesia](#)
+	- Irvi Aini [@irvifa](https://github.com/irvifa), Software Engineer, [Traveloka](https://www.traveloka.com)
+	- Giovan Isa Musthofa [@giovanism](https://github.com/giovanism), Computer Science Student, [Universitas Indonesia](https://www.ui.ac.id/)
 
 ### #4: Journey in Implementing Cloud-Native Technology & Intro to Kubernetes RBAC
 
@@ -32,7 +31,7 @@
 	- Aditya Satrya, Head of Engineering, [Jabar Digital Service (JDS)](https://digitalservice.jabarprov.go.id/)
 - **Introduction to Kubernetes RBAC**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/bandung/slides/04-intro-to-kubernetes-rbac.pdf) [[Recording]](https://www.youtube.com/watch?v=u0Miv0Et_s8&feature=youtu.be)
 	- Imre Nagi [@imrenagi](https://github.com/imrenagi), CTO & Co-founder, [Schoters](https://www.schoters.com)
-- **Hallway track (networking)**:
+- **Hallway track (networking)**: 
 
 ### #3: Fundamentals of Cloud Native Architecture & Kubernetes Deployment with GitOps
 
@@ -47,7 +46,7 @@
 	- Setyo Legowo, Tech Consultant Engineer, [99.co](https://www.99.co/id)
 - **How Bukalapak Deploy Kubernetes Deployment to Their Clusters using GitOps Approach Running in GitLab CI/CD**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/bandung/slides/03-deployment-to-kubernetes-in-bukalapak.pdf) [[Recording]](https://youtu.be/pbNl_T3HI10)
 	- Muhammad Saiful Islam, Cloud Engineer, [Bukalapak](https://www.bukalapak.com)
-- **Hallway track (networking)**:
+- **Hallway track (networking)**: 
 
 ### #2: Journey to Kubernetes & Microservices with Elixir
 
@@ -62,7 +61,7 @@
 	- Didiet Agus Pambudiono, DevOps Engineer, [Gits Indonesia](https://www.gits.co.id)
 - **Process-Oriented Microservices with Elixir**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/bandung/slides/02-process-oriented-microservice-with-elixir.pdf)
 	- Ganesha Danu Enastika, Software Engineer, [Kumparan](https://www.kumparan.com)
-- **Hallway track (networking)**:
+- **Hallway track (networking)**: 
 
 ### #1: Basic Microservices and Kubernetes
 
@@ -77,4 +76,4 @@
 	- Armanda Caesario Cornelis Mandagie, Senior Software Engineer, [Kata.ai](https://www.kata.ai)
 - **Introduction to Kubernetes**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/bandung/slides/01-introduction-to-kubernetes.pdf)
 	- Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), CNCF Ambassador, [gojek](https://gojek.io)
-- **Hallway track (networking)**:
+- **Hallway track (networking)**: 
