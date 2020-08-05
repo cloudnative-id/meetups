@@ -120,6 +120,12 @@ meetups:
   "20200728":
     title: "#10: Storage in Kubernetes & Cost optimization and reducing operational effort when running Kubernetes on AWS"
     presentations:
+    - duration: 10m0s
+      recording: https://www.youtube.com/watch?v=bjgSkBloG0g
+      slides: https://github.com/cloudnative-id/meetups/blob/master/bandung/slides/10-community-slide.pdf
+      speakers:
+      - joshuabezaleel
+      title: Welcoming speech and opening
     - duration: 40m0s
       recording: https://www.youtube.com/watch?v=bjgSkBloG0g
       slides: https://github.com/cloudnative-id/meetups/blob/master/bandung/slides/10-cloud-native-storage-orchestration-rook.pdf
@@ -127,4 +133,10 @@ meetups:
       - irvifa
       - giovanism
       title: Storage in Kubernetes
+    - duration: 40m0s
+      recording: https://www.youtube.com/watch?v=bjgSkBloG0g
+      slides: https://github.com/cloudnative-id/meetups/blob/master/bandung/slides/10-kubernetes-cost-optimization-on-aws.pdf
+      speakers:
+      - eryan.ariobowo
+      title: Kubernetes Cost Optimization on AWS
     sponsors: null
