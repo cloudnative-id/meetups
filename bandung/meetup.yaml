@@ -4,6 +4,7 @@ organizers:
 - iqbalsyamil
 - joshuabezaleel
 - zufardhiyaulhaq
+- aditya.rachman
 meetups:
   "20190912":
     title: "#1: Basic Microservices and Kubernetes"
@@ -124,7 +125,7 @@ meetups:
       recording: https://www.youtube.com/watch?v=bjgSkBloG0g
       slides: https://github.com/cloudnative-id/meetups/blob/master/bandung/slides/10-community-slide.pdf
       speakers:
-      - joshuabezaleel
+      - aditya.rachman
       title: Welcoming speech and opening
     - duration: 40m0s
       recording: https://www.youtube.com/watch?v=bjgSkBloG0g
