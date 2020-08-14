@@ -9,6 +9,20 @@
 
 ## Meetups
 
+### #18: Container Image Promotion Pipelines, Securing k8s with Kubernetes Goat
+
+- Date: Friday, 14 August 2020
+
+
+#### Agenda
+
+- **Welcome from the organizers and upstream update**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/18-community-slide.pdf)
+	- Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), CNCF Ambassador, [gojek](https://gojek.io)
+- **Best Practices In Implementing Container Image Promotion Pipeline**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/18-container-pipeline.pdf) [[Recording]](https://www.youtube.com/watch?v=pf5jOGWoWU0&t=8m11s)
+	- Batel Zohar, Enterprise Solutions Lead, [JFrog](https://jfrog.com/)
+- **Securing k8s using Kubernetes Goat**:  [[Recording]](https://www.youtube.com/watch?v=pf5jOGWoWU0&t=46m11s)
+	- Muhammad Yuga Nugraha, DevSecOps Engineer, [Practical DevSecOps](https://www.practical-devsecops.com/)
+
 ### #14: Understanding Kubernetes Core Concepts & Intro to SONA-CNI
 
 - Date: Saturday, 25 April 2020

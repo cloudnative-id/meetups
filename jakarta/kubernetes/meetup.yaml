@@ -405,3 +405,24 @@ meetups:
       - aris.risdianto
       title: Intro to SONA CNI for Kubernetes Networking
     sponsors: null
+  "20200814":
+    title: "#18: Container Image Promotion Pipelines, Securing k8s with Kubernetes Goat"
+    presentations:
+    - duration: 11m0s
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/18-community-slide.pdf
+      speakers:
+      - girikuncoro
+      title: Welcome from the organizers and upstream update
+    - duration: 30m0s
+      recording: https://www.youtube.com/watch?v=pf5jOGWoWU0&t=8m11s
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/18-container-pipeline.pdf
+      speakers:
+      - batel.zohar
+      title: Best Practices In Implementing Container Image Promotion Pipeline
+    - duration: 30m0s
+      recording: https://www.youtube.com/watch?v=pf5jOGWoWU0&t=46m11s
+      slides: null
+      speakers:
+      - m.yuga.nugraha
+      title: Securing k8s using Kubernetes Goat
+    sponsors: null

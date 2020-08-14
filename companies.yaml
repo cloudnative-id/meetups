@@ -170,6 +170,14 @@
   logourl: https://www.mastersystem.co.id/uploads/L8xnP4uk/mastersystem-logo.png
   name: Master System Infotama
   websiteURL: https://www.mastersystem.co.id
+- id: jfrog
+  logourl: https://media.jfrog.com/wp-content/uploads/2017/12/20133032/Jfrog-Logo.svg
+  name: JFrog
+  websiteURL: https://jfrog.com/
+- id: practical.devsecops
+  logourl: https://www.practical-devsecops.com/wp-content/uploads/2019/11/xPractical-DevSecOps.png.pagespeed.ic.3KkQefH7XK.webp
+  name: Practical DevSecOps
+  websiteURL: https://www.practical-devsecops.com/
 - id: halofina
   logourl: https://halofina.id/img/logo/logoHalofina.svg
   name: Halofina
