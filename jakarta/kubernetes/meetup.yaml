@@ -421,7 +421,7 @@ meetups:
       title: Best Practices In Implementing Container Image Promotion Pipeline
     - duration: 30m0s
       recording: https://www.youtube.com/watch?v=pf5jOGWoWU0&t=46m11s
-      slides: null
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/18-securing-k8s-with-kubernetes-goat.pdf
       speakers:
       - m.yuga.nugraha
       title: Securing k8s using Kubernetes Goat
