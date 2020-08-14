@@ -4,6 +4,7 @@
 - iqbalsyamil
 - joshuabezaleel
 - zufardhiyaulhaq
+- aditya.rachman
 
 ## Meetups
 
@@ -14,9 +15,13 @@
 
 #### Agenda
 
+- **Welcoming speech and opening**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/bandung/slides/10-community-slide.pdf) [[Recording]](https://www.youtube.com/watch?v=bjgSkBloG0g)
+	- Aditya Rachman Putra, Data Analyst, [Halofina](https://halofina.id/)
 - **Storage in Kubernetes**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/bandung/slides/10-cloud-native-storage-orchestration-rook.pdf) [[Recording]](https://www.youtube.com/watch?v=bjgSkBloG0g)
 	- Irvi Aini [@irvifa](https://github.com/irvifa), Software Engineer, [Traveloka](https://www.traveloka.com)
 	- Giovan Isa Musthofa [@giovanism](https://github.com/giovanism), Computer Science Student, [Universitas Indonesia](https://www.ui.ac.id/)
+- **Kubernetes Cost Optimization on AWS**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/bandung/slides/10-kubernetes-cost-optimization-on-aws.pdf) [[Recording]](https://www.youtube.com/watch?v=bjgSkBloG0g)
+	- Eryan Ariobowo, Solutions Architect, [Amazon Web Service](https://www.amazon.com)
 
 ### #4: Journey in Implementing Cloud-Native Technology & Intro to Kubernetes RBAC
 
