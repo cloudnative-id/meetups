@@ -23,6 +23,20 @@
 - **Securing k8s using Kubernetes Goat**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/18-securing-k8s-with-kubernetes-goat.pdf) [[Recording]](https://www.youtube.com/watch?v=pf5jOGWoWU0&t=46m11s)
 	- Muhammad Yuga Nugraha, DevSecOps Engineer, [Practical DevSecOps](https://www.practical-devsecops.com/)
 
+### #16: Understanding Kubernetes Core Concepts & Intro to SONA-CNI
+
+- Date: Tuesday, 30 June 2020
+
+
+#### Agenda
+
+- **Welcome from the organizers and upstream update**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/16-community-slide.pdf)
+	- Giri Kuncoro [@girikuncoro](https://github.com/girikuncoro), CNCF Ambassador, [gojek](https://gojek.io)
+- **Interconnection Kubernetes with Swarm**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/16-kubernetes-swarm-interconnection.ppt) [[Recording]](https://www.youtube.com/watch?v=EtMAyqhz3kI)
+	- Zainal Abidin, Sysadmin Head, [MNC Play](https://www.mncplay.id/)
+- **Introduction to Cluster API**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/16-intro-cluster-api.pdf) [[Recording]](https://www.youtube.com/watch?v=EtMAyqhz3kI)
+	- Srinivasa Vasu, Field Platform Architect, [VMware](https://www.vmware.com/id.html)
+
 ### #14: Understanding Kubernetes Core Concepts & Intro to SONA-CNI
 
 - Date: Saturday, 25 April 2020

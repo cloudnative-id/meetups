@@ -405,6 +405,27 @@ meetups:
       - aris.risdianto
       title: Intro to SONA CNI for Kubernetes Networking
     sponsors: null
+  "20200630":
+    title: "#16: Understanding Kubernetes Core Concepts & Intro to SONA-CNI"
+    presentations:
+    - duration: 11m0s
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/16-community-slide.pdf
+      speakers:
+      - girikuncoro
+      title: Welcome from the organizers and upstream update
+    - duration: 30m0s
+      recording: https://www.youtube.com/watch?v=EtMAyqhz3kI
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/16-kubernetes-swarm-interconnection.ppt
+      speakers:
+      - zainal.abidin
+      title: Interconnection Kubernetes with Swarm
+    - duration: 30m0s
+      recording: https://www.youtube.com/watch?v=EtMAyqhz3kI
+      slides: https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/16-intro-cluster-api.pdf
+      speakers:
+      - srinivasa.vasu
+      title: Introduction to Cluster API
+    sponsors: null
   "20200814":
     title: "#18: Container Image Promotion Pipelines, Securing k8s with Kubernetes Goat"
     presentations:

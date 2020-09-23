@@ -182,3 +182,11 @@
   logourl: https://halofina.id/img/logo/logoHalofina.svg
   name: Halofina
   websiteURL: https://halofina.id/
+- id: mncplay
+  logourl: https://www.mncplay.id/wp-content/uploads/2013/10/COLOR_Logo-MNC-Play-Mendatar.png
+  name: MNC Play
+  websiteURL: https://www.mncplay.id/
+- id: vmware
+  logourl: https://www.vmware.com/etc/clientlibs/vmwaredevapp/clientlib-nav-redesign/images/vm-logo.png
+  name: VMware
+  websiteURL: https://www.vmware.com/id.html
