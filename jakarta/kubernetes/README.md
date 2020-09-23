@@ -6,6 +6,7 @@
 - irvifa
 - imrenagi
 - iqbalfarabi
+- zufardhiyaulhaq
 
 ## Meetups
 
@@ -157,7 +158,7 @@
 - **Security Practices in Kubernetes**: 
 	- Lutfi Rachman, Technical Account Manager, [Google](https://google.com)
 - **Kuryr Kubernetes: Interconnecting Kubernetes with Openstack**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/jakarta/kubernetes/slides/07-kuryr-kubernetes-interconnecting-kubernetes-with-openstack.pdf)
-	- Zufar Dhiyaulhaq, Cloud Engineer, [Btech](https://www.btech.id)
+	- Zufar Dhiyaulhaq, Cloud Platform Engineer, [Btech](https://www.btech.id)
 - **Hallway track (networking)**: 
 
 ### #6: Service Mesh in AWS and Kube Deployment

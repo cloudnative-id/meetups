@@ -46,7 +46,7 @@
 #### Agenda
 
 - **Welcoming speech and opening**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/bandung/slides/03-community-slide.pdf)
-	- Zufar Dhiyaulhaq, Cloud Engineer, [Btech](https://www.btech.id)
+	- Zufar Dhiyaulhaq, Cloud Platform Engineer, [Btech](https://www.btech.id)
 - **Fundamentals of Cloud Native Architecture: Accelerate Your Infra-Devops Skills**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/bandung/slides/03-fundamentals-of-cloud-native-architecture.pdf) [[Recording]](https://youtu.be/pbNl_T3HI10)
 	- Setyo Legowo, Tech Consultant Engineer, [99.co](https://www.99.co/id)
 - **How Bukalapak Deploy Kubernetes Deployment to Their Clusters using GitOps Approach Running in GitLab CI/CD**:  [[Slides]](https://github.com/cloudnative-id/meetups/blob/master/bandung/slides/03-deployment-to-kubernetes-in-bukalapak.pdf) [[Recording]](https://youtu.be/pbNl_T3HI10)
