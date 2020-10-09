@@ -28,6 +28,11 @@ Repository to gather all meetup information and slides from Kubernetes and Cloud
   * Deny Prasetyo [@jasoet](http://github.com/jasoet), [Gojek](https://gojek.io)
   * Manggala Pramuditya Wiryawan [@wiryawan46](https://github.com/wiryawan46), [Qiscus](https://www.qiscus.com/id)
   * Wahyuni Puji [@wahyuni-pj](https://github.com/wahyuni-pj), [Hilotech](http://hilotech.co.id/)
+  
+* [Bogor](bogor/README.md) ([meetup group]())
+  * Espinal Adrinaldi [@espin2](https://github.com/espin2), [Btech](https://btech.id/)
+  * Sartika Lestari [@sartika](https://github.com/whippedcreamm), [Btech](https://btech.id/)
+  
 
 ## Join our Community!
 
