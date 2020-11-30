@@ -1,4 +1,4 @@
-# Meetups organized by Jakarta Kubernetes
+# Meetups organized by Bogor Kubernetes
 
 ## Organizers
 - espinaladrinaldi
