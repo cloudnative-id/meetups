@@ -1,0 +1,23 @@
+meetupID: Kubernetes-Cloud-Native-Yogyakarta
+meetupName: Kubernetes/Cloud Native Yogyakarta
+organizers:
+- reyhansofian
+- goFrendiAsgard 
+- akbaribnu
+meetups:
+  "20200613":
+    title: "#1: Docker 101"
+    presentations:
+    - duration: 90m0s
+      slides: https://github.com/cloudnative-id/meetups/blob/master/malang/slides/01-docker-101.pdf
+      speakers:
+      - akbaribnu
+      title: Docker 101
+  "20200713":
+    title: "#2: Docker Compose for Local Development"
+    presentations:
+    - duration: 60m0s
+      slides: https://github.com/cloudnative-id/meetups/blob/master/malang/slides/02-docker-compose-for-local-development.pdf
+      speakers:
+      - gofrendi 
+      title: Docker Compose for Local Development

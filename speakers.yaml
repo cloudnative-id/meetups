@@ -375,4 +375,17 @@
   name: Srinivasa Vasu
   title: Field Platform Architect
   twitter: ""
-  
+- company: kata.ai
+  github: goFrendiAsgard
+  id: gofrendi
+  linkedin: "https://www.linkedin.com/in/go-frendi-gunawan-734819115"
+  name: "Go Frendi Gunawan"
+  title: "Machine Learning Engineer"
+  twitter: "gofrendiasgard"
+- company: kata.ai
+  github: akbaribnu
+  id: akbaribnu
+  linkedin: "https://www.linkedin.com/in/akbaribnuabdillah"
+  name: "Akbar Ibnu Abdillah"
+  title: "Senior Infrastructure Engineer"
+  twitter: ""
