@@ -19,5 +19,5 @@ meetups:
     - duration: 60m0s
       slides: https://github.com/cloudnative-id/meetups/blob/master/malang/slides/02-docker-compose-for-local-development.pdf
       speakers:
-      - goFrendiAsgard 
+      - gofrendi 
       title: Docker Compose for Local Development
